@@ -1,0 +1,227 @@
+{
+  "periodes": [
+    {
+      "periode": "Antiquité",
+      "description_generale": "Le mot 'identité' n’existe pas, mais les philosophes s’interrogent sur ce qui fait qu’une chose reste la même à travers le changement, sur la permanence de l’âme, du corps ou de la cité. La question de l’identité est abordée à travers les notions d’être, de substance, de même et d’autre, de continuité.",
+      "penseurs_cles": [
+        {
+          "nom": "Parménide",
+          "contribution": "Il pose l’idée d’un être immuable, identique à lui-même, sans changement ni altération. Pour lui, le vrai être ne change jamais.",
+          "extrait": "\"L’être est, le non-être n’est pas.\" (De la nature, fragment 2)"
+        },
+        {
+          "nom": "Platon",
+          "contribution": "Il distingue le monde sensible (où tout change) et le monde des Idées (où chaque Idée est parfaitement identique à elle-même). Il s’interroge aussi sur ce qui fait la continuité de l’âme à travers la vie.",
+          "extrait": "\"Ce qui est toujours identique à soi, n’admet ni génération ni corruption.\" (Phédon, 78d)"
+        },
+        {
+          "nom": "Aristote",
+          "contribution": "Il introduit la notion de substance : ce qui reste le même à travers les changements accidentels. Il s’intéresse à ce qui fait qu’un être est ce qu’il est et demeure le même.",
+          "extrait": "\"La substance est ce qui existe en soi et reste identique à travers les changements.\" (Métaphysique, VII, 3, 1029a)"
+        }
+      ],
+      "usages_et_debats": "Débats sur la permanence et le changement, sur le même et l’autre, sur ce qui garantit la continuité d’un être ou d’une chose.",
+      "changements_de_signification": "L’idée d’identité reste principalement liée à la question de la stabilité de l’être au sein du changement.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Substance",
+          "explication_lien": "La substance est ce qui assure l’identité à travers le changement."
+        },
+        {
+          "notion": "Même et autre",
+          "explication_lien": "Penser l’identité, c’est aussi penser l’altérité."
+        },
+        {
+          "notion": "Âme",
+          "explication_lien": "L’âme est parfois vue comme le principe de l’identité de la personne."
+        }
+      ]
+    },
+    {
+      "periode": "Moyen Âge",
+      "description_generale": "L’identité est pensée dans le cadre du christianisme, surtout à propos de l’âme, du salut et de la personne. On réfléchit à la question de la résurrection : comment la même personne peut-elle persister à travers la mort ?",
+      "penseurs_cles": [
+        {
+          "nom": "Saint Augustin",
+          "contribution": "Il se demande ce qui fait que l’homme reste le même malgré le temps : il met l’accent sur la mémoire comme garant de l’identité personnelle.",
+          "extrait": "\"C’est la mémoire qui fait de moi ce que je suis.\" (Les Confessions, X, 8)"
+        },
+        {
+          "nom": "Thomas d’Aquin",
+          "contribution": "Il distingue l’identité de la substance (l’âme) et celle du corps. Pour lui, l’âme individuelle garantit l’identité de la personne, même après la mort.",
+          "extrait": "\"L’âme rationnelle subsiste après la mort, conservant l’identité de la personne.\" (Somme théologique, I, q.75, a.2)"
+        }
+      ],
+      "usages_et_debats": "Débats sur la résurrection, la réincarnation, le rapport entre l’âme et le corps, la mémoire, la continuité du moi.",
+      "changements_de_signification": "L’identité prend une dimension spirituelle et personnelle, liée à la mémoire et à la survie de l’âme.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Personne",
+          "explication_lien": "L’identité est pensée à travers la notion de personne individuelle."
+        },
+        {
+          "notion": "Mémoire",
+          "explication_lien": "La mémoire devient principe de continuité du moi."
+        },
+        {
+          "notion": "Résurrection",
+          "explication_lien": "Débat sur la persistance de l’identité après la mort."
+        }
+      ]
+    },
+    {
+      "periode": "Âge classique (XVIIe - XVIIIe siècles)",
+      "description_generale": "L’identité devient un problème philosophique majeur, notamment avec le développement de la réflexion sur le sujet, la conscience, le moi. On se demande ce qui fait qu’une personne reste la même à travers le temps, en dépit des changements de corps, de pensée, d’expériences.",
+      "penseurs_cles": [
+        {
+          "nom": "René Descartes",
+          "contribution": "Il fonde l’identité du sujet sur la pensée : 'je pense, donc je suis'. La conscience de soi assure la permanence du moi.",
+          "extrait": "\"Je suis, j’existe, toutes les fois que je pense.\" (Méditations métaphysiques, II)"
+        },
+        {
+          "nom": "John Locke",
+          "contribution": "Il propose la théorie de l’identité personnelle comme continuité de la conscience : c’est la mémoire qui fait que je suis le même, et non la substance (âme ou corps).",
+          "extrait": "\"La conscience qui accompagne la pensée fait l’identité personnelle.\" (Essai sur l’entendement humain, II, 27)"
+        },
+        {
+          "nom": "David Hume",
+          "contribution": "Il critique l’idée d’un moi stable : l’identité personnelle n’est qu’une fiction produite par l’habitude de relier des perceptions différentes.",
+          "extrait": "\"Le moi n’est qu’un faisceau ou une collection de perceptions différentes.\" (Traité de la nature humaine, I, IV, 6)"
+        }
+      ],
+      "usages_et_debats": "Débats sur la réalité du moi, la continuité de la conscience, la mémoire, l’identité du corps et de l’âme.",
+      "changements_de_signification": "L’identité devient problème de la conscience, de la mémoire, et de la construction du sujet.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Conscience",
+          "explication_lien": "La conscience de soi est le critère moderne de l’identité."
+        },
+        {
+          "notion": "Mémoire",
+          "explication_lien": "La mémoire relie les états successifs du moi."
+        },
+        {
+          "notion": "Fiction du moi",
+          "explication_lien": "Pour Hume, l’identité personnelle est une construction, non une réalité substantielle."
+        }
+      ]
+    },
+    {
+      "periode": "Époque moderne (XIXe siècle)",
+      "description_generale": "L’identité est explorée sous l’angle de la psychologie, de l’histoire, de la société. On insiste sur la formation de l’identité à travers la reconnaissance, le langage, l’inconscient, les structures sociales. L’identité devient aussi un enjeu social et collectif.",
+      "penseurs_cles": [
+        {
+          "nom": "Georg Wilhelm Friedrich Hegel",
+          "contribution": "Il pense l’identité du sujet à travers la dialectique de la reconnaissance : le moi se constitue dans sa relation à autrui et à l’histoire.",
+          "extrait": "\"La conscience de soi n’atteint sa vérité que dans la reconnaissance d’une autre conscience.\" (Phénoménologie de l’esprit, IV)"
+        },
+        {
+          "nom": "Sigmund Freud",
+          "contribution": "Il introduit la notion d’inconscient : l’identité n’est plus transparente à elle-même, elle est traversée par des désirs, des conflits inconscients.",
+          "extrait": "\"Le moi n’est pas maître dans sa propre maison.\" (Introduction à la psychanalyse, 1916)"
+        },
+        {
+          "nom": "Émile Durkheim",
+          "contribution": "Il pense l’identité comme fait social : l’individu se construit à travers l’intégration dans des groupes, des rôles, des normes.",
+          "extrait": "\"La société façonne l’individu comme elle façonne les choses.\" (L’éducation morale, 1902)"
+        }
+      ],
+      "usages_et_debats": "Débats sur la reconnaissance, l’aliénation, la formation de l’identité sociale, les identités collectives, l’influence de l’inconscient.",
+      "changements_de_signification": "L’identité devient dynamique, relationnelle, traversée par la société, l’histoire et l’inconscient.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Reconnaissance",
+          "explication_lien": "L’identité se construit dans le regard et l’estime d’autrui."
+        },
+        {
+          "notion": "Inconscient",
+          "explication_lien": "La part obscure de soi trouble l’unité de l’identité."
+        },
+        {
+          "notion": "Identité sociale",
+          "explication_lien": "L’appartenance à un groupe façonne l’identité individuelle."
+        }
+      ]
+    },
+    {
+      "periode": "Époque contemporaine (XXe-XXIe siècles)",
+      "description_generale": "L’identité est pensée comme construction, pluralité, processus : on parle d’identités multiples, mouvantes, intersectionnelles. On explore la dimension narrative, la construction de soi par le récit, la reconnaissance, la différence, la diversité culturelle et sexuelle. L’identité devient aussi enjeu politique et revendication de droits.",
+      "penseurs_cles": [
+        {
+          "nom": "Paul Ricœur",
+          "contribution": "Il distingue l’identité-idem (même) et l’identité-ipse (soi-même, fidélité à soi). Il met l’accent sur l’identité narrative : se raconter, c’est se construire.",
+          "extrait": "\"L’identité personnelle est une identité narrative, toujours en construction.\" (Soi-même comme un autre, 1990)"
+        },
+        {
+          "nom": "Judith Butler",
+          "contribution": "Elle pense l’identité (notamment de genre) comme performative : on devient ce que l’on fait, l’identité est un effet d’actes répétés, non une essence fixe.",
+          "extrait": "\"Le genre est une identité instituée par la stylisation répétée du corps.\" (Trouble dans le genre, 1990)"
+        },
+        {
+          "nom": "Stuart Hall",
+          "contribution": "Il analyse l’identité comme processus culturel, mobile, marqué par l’histoire, le métissage, la diversité.",
+          "extrait": "\"Les identités sont toujours en devenir, jamais totalement achevées.\" (Cultural Identity and Diaspora, 1990)"
+        }
+      ],
+      "usages_et_debats": "Débats sur la multiplicité des identités (genre, culture, sexualité), sur la reconnaissance, l’authenticité, la narration de soi, l’identité numérique et virtuelle.",
+      "changements_de_signification": "L’identité n’est plus conçue comme essence stable, mais comme processus, pluralité, narration, enjeu de pouvoir et de reconnaissance.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Identité narrative",
+          "explication_lien": "L’identité se construit par le récit et la mémoire de soi."
+        },
+        {
+          "notion": "Performativité",
+          "explication_lien": "L’identité résulte d’actes et de pratiques répétées, non d’une essence."
+        },
+        {
+          "notion": "Intersectionnalité",
+          "explication_lien": "Les identités s’entrecroisent selon le genre, la race, la classe, etc."
+        },
+        {
+          "notion": "Reconnaissance",
+          "explication_lien": "L’identité se forge dans la relation à autrui et la validation sociale."
+        }
+      ]
+    }
+  ],
+  "etymologie": "Le mot 'identité' vient du latin 'identitas', formé sur 'idem' (le même). Il désigne d’abord le caractère de ce qui est identique, qui demeure le même à travers le temps. En français, 'identité' apparaît au XIIIe siècle pour désigner la similitude parfaite, puis la continuité d’une personne ou d’une chose. Aujourd’hui, le terme recouvre aussi bien la permanence du soi individuel que l’appartenance à des groupes, la construction de la personnalité, et la revendication de différences.",
+  "citations": [
+    {
+      "auteur": "Parménide",
+      "oeuvre": "De la nature",
+      "citation": "\"L’être est, le non-être n’est pas.\"",
+      "commentaire": "Parménide fonde la pensée de l’identité sur l’immuabilité de l’être."
+    },
+    {
+      "auteur": "Platon",
+      "oeuvre": "Phédon",
+      "citation": "\"Ce qui est toujours identique à soi, n’admet ni génération ni corruption.\"",
+      "commentaire": "Platon pense l’identité parfaite dans le monde des Idées."
+    },
+    {
+      "auteur": "John Locke",
+      "oeuvre": "Essai sur l’entendement humain",
+      "citation": "\"La conscience qui accompagne la pensée fait l’identité personnelle.\"",
+      "commentaire": "Locke fait de la mémoire et de la conscience le cœur de l’identité individuelle."
+    },
+    {
+      "auteur": "David Hume",
+      "oeuvre": "Traité de la nature humaine",
+      "citation": "\"Le moi n’est qu’un faisceau ou une collection de perceptions différentes.\"",
+      "commentaire": "Hume remet en cause l’idée d’une identité stable et continue."
+    },
+    {
+      "auteur": "Paul Ricœur",
+      "oeuvre": "Soi-même comme un autre",
+      "citation": "\"L’identité personnelle est une identité narrative, toujours en construction.\"",
+      "commentaire": "Ricœur insiste sur la dimension dynamique et narrative de l’identité."
+    },
+    {
+      "auteur": "Judith Butler",
+      "oeuvre": "Trouble dans le genre",
+      "citation": "\"Le genre est une identité instituée par la stylisation répétée du corps.\"",
+      "commentaire": "Butler pense l’identité comme résultat d’actes, et non comme donnée naturelle fixe."
+    }
+  ]
+}

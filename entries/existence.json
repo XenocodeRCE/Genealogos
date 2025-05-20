@@ -1,0 +1,237 @@
+{
+  "periodes": [
+    {
+      "periode": "Antiquité",
+      "description_generale": "Le mot 'existence' n’est pas employé comme concept autonome, mais les philosophes s’interrogent sur ce qui est, sur l’Être, sur la différence entre ce qui est et ce qui n’est pas. On s’intéresse à la réalité des choses, à leur permanence, à leur mode d’être. La question centrale est celle de l’être, souvent confondue avec celle de la réalité.",
+      "penseurs_cles": [
+        {
+          "nom": "Parménide",
+          "contribution": "Il affirme que seul l’Être est, et que le non-être n’est pas. Il nie la pluralité et le devenir au profit de l’unicité et de la permanence de l’Être.",
+          "extrait": "\"L’Être est, le non-être n’est pas.\" (De la nature, fragment 2)"
+        },
+        {
+          "nom": "Platon",
+          "contribution": "Il distingue le monde sensible, où les choses changent et 'deviennent', et le monde des Idées, où les vérités sont éternelles et immuables. Ce qui 'est vraiment', ce sont les Idées.",
+          "extrait": "\"Ce qui est toujours, sans jamais devenir, et ce qui devient sans jamais être.\" (Timée, 27d)"
+        },
+        {
+          "nom": "Aristote",
+          "contribution": "Il introduit la distinction entre l’essence (ce qu’est une chose) et l’existence (le fait qu’elle soit), mais sans utiliser le mot 'existence' au sens technique. Il parle de l’acte d’être ('energeia') et de la substance.",
+          "extrait": "\"L’acte est la réalité de ce qui existe en puissance.\" (Métaphysique, IX, 6, 1048a)"
+        }
+      ],
+      "usages_et_debats": "Débats sur ce qui 'est' vraiment, sur la différence entre essence et réalité, sur la stabilité ou la fugacité des choses, sur la relation entre être et devenir.",
+      "changements_de_signification": "L’existence est pensée confusément à travers l’être, la réalité, l’effectivité, sans être isolée conceptuellement.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Être",
+          "explication_lien": "La réflexion sur l’existence commence par la méditation sur l’être."
+        },
+        {
+          "notion": "Essence",
+          "explication_lien": "L’opposition future entre essence et existence se prépare chez Aristote."
+        },
+        {
+          "notion": "Devenir",
+          "explication_lien": "L’existence est questionnée à travers le changement et la permanence."
+        }
+      ]
+    },
+    {
+      "periode": "Moyen Âge",
+      "description_generale": "La notion d’existence se précise, surtout dans la philosophie chrétienne. On distingue l’essence (ce qu’est une chose) et l’existence (le fait qu’elle soit effectivement). Dieu est pensé comme celui dont l’essence implique l’existence, alors que les créatures possèdent une essence sans nécessité d’exister.",
+      "penseurs_cles": [
+        {
+          "nom": "Saint Thomas d’Aquin",
+          "contribution": "Il établit clairement la distinction entre essence et existence : chez Dieu, essence et existence coïncident, mais chez les créatures, l’existence est un acte ajouté à l’essence.",
+          "extrait": "\"En Dieu seul, l’essence est l’existence même.\" (Somme théologique, I, q.3, a.4)"
+        },
+        {
+          "nom": "Anselme de Cantorbéry",
+          "contribution": "Il propose l’argument ontologique : Dieu existe nécessairement parce que son essence implique l’existence.",
+          "extrait": "\"Tu es donc, ô Seigneur, puisque l’intelligence ne peut penser que tu n’es pas.\" (Proslogion, II)"
+        },
+        {
+          "nom": "Guillaume d’Ockham",
+          "contribution": "Il insiste sur le fait que seul l’individu singulier existe réellement ; les universaux n’existent que dans l’esprit.",
+          "extrait": "\"Seule la chose individuelle existe vraiment.\" (Somme de logique, I, 14)"
+        }
+      ],
+      "usages_et_debats": "Débats sur l’existence de Dieu, sur la distinction essence/existence, sur la réalité des universaux, sur la cause de l’existence des êtres créés.",
+      "changements_de_signification": "L’existence se distingue de l’essence et devient l’objet de débats techniques, surtout dans la théologie et la métaphysique scolastique.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Essence/existence",
+          "explication_lien": "L’existence est ce qui fait qu’une essence est réalisée."
+        },
+        {
+          "notion": "Dieu",
+          "explication_lien": "Dieu est pensé comme l’Être dont essence et existence sont identiques."
+        },
+        {
+          "notion": "Universaux",
+          "explication_lien": "Débat sur ce qui existe vraiment : les individus ou les idées générales."
+        }
+      ]
+    },
+    {
+      "periode": "Âge classique (XVIIe - XVIIIe siècles)",
+      "description_generale": "L’existence devient un objet de doute, de démonstration, d’analyse critique. On cherche à fonder la certitude de l’existence du moi, du monde, de Dieu. L’existence est souvent opposée à l’essence, ou à la simple possibilité logique.",
+      "penseurs_cles": [
+        {
+          "nom": "René Descartes",
+          "contribution": "Il fonde la certitude de l’existence sur le cogito : la pensée prouve son existence à chaque instant où elle pense.",
+          "extrait": "\"Je pense, donc je suis.\" (Discours de la méthode, IV)"
+        },
+        {
+          "nom": "Baruch Spinoza",
+          "contribution": "Il affirme que l’existence est perfection, et que Dieu existe nécessairement, puisque l’essence parfaite implique l’existence.",
+          "extrait": "\"L’existence appartient à la nature de Dieu.\" (Éthique, I, proposition 11)"
+        },
+        {
+          "nom": "John Locke",
+          "contribution": "Il distingue existence réelle et existence nominale, et fonde la connaissance de l’existence sur l’expérience sensible.",
+          "extrait": "\"La connaissance de notre propre existence est intuitive, celle de Dieu est démonstrative, celle des autres choses est sensitive.\" (Essai sur l’entendement humain, IV, 9, 2)"
+        }
+      ],
+      "usages_et_debats": "Débats sur la certitude de l’existence du moi, du monde extérieur, de Dieu ; sur l’existence comme propriété réelle ou comme simple idée.",
+      "changements_de_signification": "L’existence devient ce qui résiste au doute, ce qui s’affirme dans l’expérience ou la démonstration.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Cogito",
+          "explication_lien": "L’existence du moi est le point de départ de la certitude (Descartes)."
+        },
+        {
+          "notion": "Expérience",
+          "explication_lien": "L’existence du monde est connue par l’expérience sensible (Locke)."
+        },
+        {
+          "notion": "Nécessité/contingence",
+          "explication_lien": "L’existence peut être nécessaire (Dieu) ou contingente (choses du monde)."
+        }
+      ]
+    },
+    {
+      "periode": "Époque moderne (XIXe siècle)",
+      "description_generale": "L’existence est repensée à travers l’histoire, la liberté, l’individualité, le vécu. On s’intéresse moins à l’existence comme simple fait qu’à l’existence comme expérience, comme devenir, comme affirmation de soi ou angoisse. L’existence humaine devient centrale.",
+      "penseurs_cles": [
+        {
+          "nom": "Søren Kierkegaard",
+          "contribution": "Il fait de l’existence humaine une réalité subjective, marquée par le choix, l’angoisse, la foi. L’existence précède l’essence, elle est toujours singulière et vécue.",
+          "extrait": "\"L’existence est un devenir, une possibilité vécue dans l’instant.\" (Ou bien... ou bien, 1843)"
+        },
+        {
+          "nom": "Friedrich Nietzsche",
+          "contribution": "Il pense l’existence comme affirmation de la vie, création de soi, dépassement du donné. L’existence n’a pas d’essence fixe, elle est mouvement et puissance.",
+          "extrait": "\"Deviens ce que tu es.\" (Ainsi parlait Zarathoustra, III, De la vision et de l’énigme)"
+        },
+        {
+          "nom": "Georg Wilhelm Friedrich Hegel",
+          "contribution": "Il pense l’existence ('Existenz') comme moment du devenir de l’Esprit dans l’histoire, insistant sur le passage, le processus.",
+          "extrait": "\"L’existence est le paraître de l’idée dans la réalité.\" (Science de la logique, II, 1)"
+        }
+      ],
+      "usages_et_debats": "Débats sur l’existence individuelle, sur la liberté, l’angoisse, la subjectivité, l’historicité, la création de soi.",
+      "changements_de_signification": "L’existence n’est plus simple fait d’être, mais expérience vécue, singularité, processus ouvert.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Subjectivité",
+          "explication_lien": "L’existence est vécue du point de vue du sujet singulier."
+        },
+        {
+          "notion": "Liberté",
+          "explication_lien": "L’existence humaine se construit par le choix, la décision."
+        },
+        {
+          "notion": "Angoisse",
+          "explication_lien": "L’existence confronte à l’incertitude, à la responsabilité."
+        }
+      ]
+    },
+    {
+      "periode": "Époque contemporaine (XXe-XXIe siècles)",
+      "description_generale": "L’existence devient le cœur de la philosophie existentialiste et phénoménologique. Elle est pensée comme expérience vécue, liberté radicale, présence au monde, mais aussi comme précarité, absurdité, engagement. On distingue existence et essence, et l’on s’intéresse à l’existence singulière, corporelle, sociale, située.",
+      "penseurs_cles": [
+        {
+          "nom": "Jean-Paul Sartre",
+          "contribution": "Il affirme que 'l’existence précède l’essence' : l’homme existe d’abord, puis choisit ce qu’il sera. L’existence humaine est liberté, angoisse, projet.",
+          "extrait": "\"L’existence précède l’essence.\" (L’Existentialisme est un humanisme, 1946)"
+        },
+        {
+          "nom": "Simone de Beauvoir",
+          "contribution": "Elle pense l’existence comme condition féminine et humaine, marquée par la liberté mais aussi par les contraintes sociales et historiques.",
+          "extrait": "\"On ne naît pas femme, on le devient.\" (Le Deuxième Sexe, 1949)"
+        },
+        {
+          "nom": "Martin Heidegger",
+          "contribution": "Il fait de l’existence ('Dasein') le mode d’être propre à l’homme, caractérisé par le souci, la temporalité, l’ouverture au monde et la conscience de la mort.",
+          "extrait": "\"L’existence est le fait d’être-là, d’être jeté dans le monde, exposé au temps et à la finitude.\" (Être et temps, 1927)"
+        },
+        {
+          "nom": "Emmanuel Levinas",
+          "contribution": "Il pense l’existence comme relation éthique à autrui, comme sortie de soi vers l’autre.",
+          "extrait": "\"L’existence est responsabilité pour autrui.\" (Totalité et infini, 1961)"
+        }
+      ],
+      "usages_et_debats": "Débats sur la liberté, l’angoisse, l’authenticité, la responsabilité, la condition humaine, l’incarnation, l’engagement, l’absurde.",
+      "changements_de_signification": "L’existence devient expérience fondamentale, irréductible à l’essence, marquée par la liberté, la précarité, la relation à autrui et au monde.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Essence/existence",
+          "explication_lien": "L’existence précède l’essence chez Sartre : l’homme n’a pas de nature prédéfinie."
+        },
+        {
+          "notion": "Dasein",
+          "explication_lien": "Heidegger fait de l’existence le mode d’être spécifique de l’homme."
+        },
+        {
+          "notion": "Authenticité",
+          "explication_lien": "L’existence authentique consiste à assumer sa liberté et sa finitude."
+        },
+        {
+          "notion": "Absurdite",
+          "explication_lien": "L’existence humaine confronte au non-sens, à l’inachevé."
+        }
+      ]
+    }
+  ],
+  "etymologie": "Le mot 'existence' vient du latin 'existentia', participe du verbe 'existere', qui signifie 'se tenir hors de', 'apparaître', 'se manifester'. À l’origine, il exprime l’idée de surgissement, d’émergence dans la réalité. En français, il apparaît au XIIe siècle dans un sens religieux (présence réelle de Dieu), puis prend le sens général de fait d’être, de réalité effective par opposition à l’essence ou à l’idée. Aujourd’hui, 'existence' désigne à la fois le simple fait d’être, la présence concrète et singulière dans le monde, et la façon de vivre sa condition humaine.",
+  "citations": [
+    {
+      "auteur": "Parménide",
+      "oeuvre": "De la nature",
+      "citation": "\"L’Être est, le non-être n’est pas.\"",
+      "commentaire": "Parménide pose la question de l’être, qui anticipe la réflexion sur l’existence."
+    },
+    {
+      "auteur": "Saint Thomas d’Aquin",
+      "oeuvre": "Somme théologique",
+      "citation": "\"En Dieu seul, l’essence est l’existence même.\"",
+      "commentaire": "Thomas d’Aquin distingue clairement existence et essence, fondant tout existant créé sur un acte d’existence reçu."
+    },
+    {
+      "auteur": "René Descartes",
+      "oeuvre": "Discours de la méthode",
+      "citation": "\"Je pense, donc je suis.\"",
+      "commentaire": "Descartes fonde la certitude de l’existence sur l’acte même de penser."
+    },
+    {
+      "auteur": "Søren Kierkegaard",
+      "oeuvre": "Ou bien... ou bien",
+      "citation": "\"L’existence est un devenir, une possibilité vécue dans l’instant.\"",
+      "commentaire": "Kierkegaard fait de l’existence une expérience individuelle, vécue et choisie."
+    },
+    {
+      "auteur": "Jean-Paul Sartre",
+      "oeuvre": "L’Existentialisme est un humanisme",
+      "citation": "\"L’existence précède l’essence.\"",
+      "commentaire": "Sartre place la liberté et la responsabilité au cœur de l’existence humaine."
+    },
+    {
+      "auteur": "Martin Heidegger",
+      "oeuvre": "Être et temps",
+      "citation": "\"L’existence est le fait d’être-là, d’être jeté dans le monde, exposé au temps et à la finitude.\"",
+      "commentaire": "Heidegger fait de l’existence (Dasein) le mode d’être propre à l’homme, marqué par la temporalité et l’ouverture au monde."
+    }
+  ]
+}

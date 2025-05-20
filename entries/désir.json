@@ -1,0 +1,231 @@
+{
+  "periodes": [
+    {
+      "periode": "Antiquité",
+      "description_generale": "Le mot 'désir' n’existe pas encore comme concept abstrait, mais les philosophes s’interrogent sur les appétits, les passions, les pulsions qui animent l’être humain. On distingue les désirs corporels (faim, soif, sexualité) des désirs de l’âme (gloire, connaissance, vertu). Le désir est souvent vu comme une force impulsive, à maîtriser ou à orienter.",
+      "penseurs_cles": [
+        {
+          "nom": "Platon",
+          "contribution": "Il distingue les désirs de l’âme et du corps, et pense que le désir, mal orienté, éloigne de la vérité et du bien. Mais, bien dirigé, il peut élever vers le beau et le vrai.",
+          "extrait": "\"Ce que l’on désire, c’est ce qui nous manque.\" (Le Banquet, 200a)"
+        },
+        {
+          "nom": "Aristote",
+          "contribution": "Il analyse le désir ('orexis') comme principe du mouvement de l’âme, distinct de la raison. Le bonheur est d’ordonner ses désirs selon la vertu.",
+          "extrait": "\"Le désir est le principe du mouvement ; sans désir, pas d’action.\" (De l’âme, III, 10, 433a)"
+        },
+        {
+          "nom": "Épicure",
+          "contribution": "Il distingue désirs naturels et nécessaires, naturels et non nécessaires, et vains. Le bonheur consiste à satisfaire les désirs naturels et nécessaires, et à se libérer des désirs vains.",
+          "extrait": "\"Il faut juger tous les désirs : certains apportent la souffrance, d’autres le plaisir.\" (Lettre à Ménécée)"
+        },
+        {
+          "nom": "Les stoïciens",
+          "contribution": "Ils voient dans le désir une passion à maîtriser, source de trouble et d’aliénation. Le sage vise l’apatheia (absence de passions).",
+          "extrait": "\"Ce n’est pas la chose désirée qui trouble l’homme, mais l’idée qu’il s’en fait.\" (Épictète, Manuel, V)"
+        }
+      ],
+      "usages_et_debats": "Débats sur la nature du désir (manque, élan, passion), sur sa place dans la vie bonne, sur la possibilité de le maîtriser ou de s’en libérer.",
+      "changements_de_signification": "Le désir est vu comme force à organiser, à maîtriser ou à orienter, et non comme valeur en soi.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Passion",
+          "explication_lien": "Le désir est une forme de passion, à contrôler ou à dépasser."
+        },
+        {
+          "notion": "Vertu",
+          "explication_lien": "La vertu consiste à ordonner ou discipliner ses désirs."
+        },
+        {
+          "notion": "Manque",
+          "explication_lien": "Le désir naît du sentiment de manque ou d’absence."
+        }
+      ]
+    },
+    {
+      "periode": "Moyen Âge",
+      "description_generale": "Le désir est pensé dans un cadre chrétien : il est souvent associé au péché, à la concupiscence, à l’attachement aux biens terrestres. Le désir de Dieu, en revanche, est valorisé comme aspiration spirituelle. Le désir doit être soumis à la raison et à la volonté divine.",
+      "penseurs_cles": [
+        {
+          "nom": "Saint Augustin",
+          "contribution": "Il distingue le désir terrestre (concupiscence, source de péché) et le désir spirituel (amour de Dieu). Le désir mal orienté éloigne de Dieu, mais le désir de Dieu est la vraie finalité.",
+          "extrait": "\"Inquiet est notre cœur tant qu’il ne repose en toi, Seigneur.\" (Confessions, I, 1)"
+        },
+        {
+          "nom": "Thomas d’Aquin",
+          "contribution": "Il distingue appétit sensible et appétit rationnel (volonté). Le désir naturel tend vers le bien, mais doit être ordonné par la raison.",
+          "extrait": "\"Tout être désire naturellement le bien.\" (Somme théologique, I-II, q. 5, a. 8)"
+        }
+      ],
+      "usages_et_debats": "Débats sur la place du désir dans la vie morale, sur la possibilité de le transformer, sur le conflit entre désir de Dieu et désirs terrestres.",
+      "changements_de_signification": "Le désir est souvent suspect, associé au péché, mais il peut être élevé à une dimension spirituelle.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Concupiscence",
+          "explication_lien": "Le désir charnel est vu comme source de chute et de péché."
+        },
+        {
+          "notion": "Volonté",
+          "explication_lien": "La volonté doit régler, contrôler ou sublimer le désir."
+        },
+        {
+          "notion": "Amour de Dieu",
+          "explication_lien": "Le vrai désir est aspiration à Dieu, source de béatitude."
+        }
+      ]
+    },
+    {
+      "periode": "Âge classique (XVIIe - XVIIIe siècles)",
+      "description_generale": "Le désir devient objet de réflexion morale, psychologique et philosophique. On s’interroge sur ses origines, ses effets, sa relation avec la volonté et la raison. Certains le voient comme source d’erreur et de souffrance, d’autres comme moteur de l’action et de la vie.",
+      "penseurs_cles": [
+        {
+          "nom": "René Descartes",
+          "contribution": "Il fait du désir l’une des passions fondamentales, une tendance de l’âme à vouloir ce qu’elle se représente comme bon ou agréable.",
+          "extrait": "\"Le désir est une agitation de l’âme, causée par le souvenir ou l’imagination du bien futur.\" (Les Passions de l’âme, art. 167)"
+        },
+        {
+          "nom": "Baruch Spinoza",
+          "contribution": "Il définit le désir comme l’essence même de l’homme, la force qui le pousse à persévérer dans son être (conatus).",
+          "extrait": "\"Le désir est l’essence de l’homme, en tant qu’elle est conçue comme déterminée à faire quelque chose par une affection quelconque donnée en elle-même.\" (Éthique, III, déf. 1)"
+        },
+        {
+          "nom": "Blaise Pascal",
+          "contribution": "Il critique l’inconstance et l’insatisfaction du désir humain, qui cherche toujours ailleurs ce qu’il n’a pas.",
+          "extrait": "\"Nous ne vivons jamais, mais nous espérons de vivre ; et nous disposant toujours à être heureux, il est inévitable que nous ne le soyons jamais.\" (Pensées, B. 172)"
+        },
+        {
+          "nom": "David Hume",
+          "contribution": "Il affirme que la raison est esclave des passions, et que le désir est le moteur véritable de l’action.",
+          "extrait": "\"La raison est, et ne peut qu’être, l’esclave des passions.\" (Traité de la nature humaine, II, III, 3)"
+        }
+      ],
+      "usages_et_debats": "Débats sur la nature et la valeur du désir, sur la possibilité de le maîtriser, sur sa place par rapport à la raison, sur l’opposition entre désir et besoin.",
+      "changements_de_signification": "Le désir devient force positive, moteur de l’existence, mais aussi source de conflits intérieurs et d’illusions.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Passions",
+          "explication_lien": "Le désir est la plus fondamentale des passions humaines."
+        },
+        {
+          "notion": "Conatus",
+          "explication_lien": "Chez Spinoza, le désir est la force de persévérer dans son être."
+        },
+        {
+          "notion": "Raison",
+          "explication_lien": "La tension entre désir et raison structure la réflexion morale."
+        }
+      ]
+    },
+    {
+      "periode": "Époque moderne (XIXe siècle)",
+      "description_generale": "Le désir est étudié comme force inconsciente, sociale, économique, politique. Il est au cœur de la vie psychique, de l’histoire individuelle et collective. On analyse ses mécanismes, ses inhibitions, ses contradictions et ses effets créateurs ou destructeurs.",
+      "penseurs_cles": [
+        {
+          "nom": "Arthur Schopenhauer",
+          "contribution": "Il voit dans le désir l’expression de la 'volonté de vivre', source de souffrance et d’illusion permanente.",
+          "extrait": "\"Toute vie est essentiellement souffrance, car tout désir naît d’un manque, et s’achève dans la satiété ou la douleur.\" (Le Monde comme volonté et comme représentation, I, §56)"
+        },
+        {
+          "nom": "Karl Marx",
+          "contribution": "Il analyse le désir dans son rapport à l’aliénation sociale et à la production : le capitalisme dénature et exploite les désirs humains.",
+          "extrait": "\"La production ne crée pas seulement un objet pour le sujet, mais un sujet pour l’objet.\" (Manuscrits de 1844)"
+        },
+        {
+          "nom": "Sigmund Freud",
+          "contribution": "Il fait du désir sexuel (pulsion, libido) le moteur de l’inconscient. Le désir refoulé structure la personnalité et peut provoquer des symptômes.",
+          "extrait": "\"Le rêve est la voie royale de l’inconscient.\" (L’Interprétation du rêve, 1900)"
+        }
+      ],
+      "usages_et_debats": "Débats sur la part consciente et inconsciente du désir, sur ses effets sociaux et collectifs, sur le désir comme manque ou comme puissance créatrice, sur son rapport à la souffrance.",
+      "changements_de_signification": "Le désir est vu comme force profonde, parfois obscure, à la fois source de souffrance et d’invention.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Inconscient",
+          "explication_lien": "Freud fait du désir une force cachée, agissante à l’insu du sujet."
+        },
+        {
+          "notion": "Aliénation",
+          "explication_lien": "Le désir est instrumentalisé par la société et l’économie."
+        },
+        {
+          "notion": "Volonté de vivre",
+          "explication_lien": "Chez Schopenhauer, le désir est expression d’une force cosmique irrationnelle."
+        }
+      ]
+    },
+    {
+      "periode": "Époque contemporaine (XXe-XXIe siècles)",
+      "description_generale": "Le désir est analysé comme force multiple, créatrice, politique, sociale, économique et subjective. Il est pensé comme moteur de l’innovation, de la consommation, de la subversion, mais aussi comme construction sociale et culturelle. Les philosophes, psychanalystes et sociologues étudient ses formes, ses mécanismes et ses paradoxes.",
+      "penseurs_cles": [
+        {
+          "nom": "Gilles Deleuze & Félix Guattari",
+          "contribution": "Ils voient dans le désir une force de production, de création et de subversion, qui traverse les individus et les sociétés. Le désir n’est pas manque, mais puissance d’agencement.",
+          "extrait": "\"Le désir est machine, il n’est pas manque, il est agencement.\" (L’Anti-Œdipe, 1972)"
+        },
+        {
+          "nom": "Herbert Marcuse",
+          "contribution": "Il analyse la répression du désir dans les sociétés modernes et son potentiel de libération révolutionnaire.",
+          "extrait": "\"La civilisation refoule les pulsions, mais le désir contient une force d’émancipation.\" (Eros et civilisation, 1955)"
+        },
+        {
+          "nom": "Eva Illouz",
+          "contribution": "Elle étudie la manière dont le désir est construit par la culture, les médias et le capitalisme affectif.",
+          "extrait": "\"Le désir amoureux est une production sociale, façonnée par les normes et les attentes collectives.\" (Les Sentiments du capitalisme, 2019)"
+        }
+      ],
+      "usages_et_debats": "Débats sur le désir comme force créatrice ou manipulée, sur la marchandisation du désir, sur le désir comme résistance ou comme aliénation, sur la pluralité des désirs (individuels, collectifs, inconscients, médiatisés).",
+      "changements_de_signification": "Le désir devient force plurielle, positive ou problématique, enjeu de liberté, de création, de consommation ou de contrôle social.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Libido",
+          "explication_lien": "Le désir sexuel comme énergie fondamentale de la psyché."
+        },
+        {
+          "notion": "Production",
+          "explication_lien": "Le désir est aussi puissance créatrice, pas seulement manque."
+        },
+        {
+          "notion": "Marchandisation",
+          "explication_lien": "Le désir est exploité, orienté et fabriqué par la société de consommation."
+        },
+        {
+          "notion": "Agencement",
+          "explication_lien": "Le désir relie et compose des éléments hétérogènes, il est mouvement et création."
+        }
+      ]
+    }
+  ],
+  "etymologie": "Le mot 'désir' vient du latin 'desiderare', qui signifie 'regretter l’absence de', 'aspirer à', 'manquer de'. 'Desiderare' est lié à 'sidus' (étoile) : à l’origine, désirer c’est 'constater l’absence d’une étoile', donc ressentir un manque ou une absence dans le ciel. Le mot apparaît en français au XIIe siècle pour désigner l’aspiration vers ce qui manque. Aujourd’hui, 'désir' désigne à la fois l’élan vers un objet, la force intérieure qui pousse à agir, et les constructions psychiques et sociales qui orientent nos aspirations.",
+  "citations": [
+    {
+      "auteur": "Platon",
+      "oeuvre": "Le Banquet",
+      "citation": "\"Ce que l’on désire, c’est ce qui nous manque.\"",
+      "commentaire": "Platon définit le désir comme tension vers une absence, moteur du mouvement vers le beau et le vrai."
+    },
+    {
+      "auteur": "Épicure",
+      "oeuvre": "Lettre à Ménécée",
+      "citation": "\"Il faut juger tous les désirs : certains apportent la souffrance, d’autres le plaisir.\"",
+      "commentaire": "Épicure distingue les désirs naturels et nécessaires des désirs vains, et appelle à la maîtrise raisonnable des désirs."
+    },
+    {
+      "auteur": "Baruch Spinoza",
+      "oeuvre": "Éthique",
+      "citation": "\"Le désir est l’essence de l’homme, en tant qu’elle est conçue comme déterminée à faire quelque chose par une affection quelconque donnée en elle-même.\"",
+      "commentaire": "Spinoza fait du désir la force fondamentale, positive, de la vie humaine."
+    },
+    {
+      "auteur": "Sigmund Freud",
+      "oeuvre": "L’Interprétation du rêve",
+      "citation": "\"Le rêve est la voie royale de l’inconscient.\"",
+      "commentaire": "Freud montre que le désir inconscient s’exprime dans les rêves et façonne la vie psychique."
+    },
+    {
+      "auteur": "Gilles Deleuze & Félix Guattari",
+      "oeuvre": "L’Anti-Œdipe",
+      "citation": "\"Le désir est machine, il n’est pas manque, il est agencement.\"",
+      "commentaire": "Deleuze et Guattari renversent la conception classique du désir : il est force de création et de transformation."
+    }
+  ]
+}

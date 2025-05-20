@@ -1,0 +1,227 @@
+{
+  "periodes": [
+    {
+      "periode": "Antiquité",
+      "description_generale": "Il n’existe pas encore de concept abstrait de 'savoir' au sens moderne, mais les philosophes distinguent la connaissance vraie de l’opinion, la sagesse pratique de la connaissance théorique. On réfléchit à la différence entre croire et savoir, entre l’expérience, la science et la contemplation.",
+      "penseurs_cles": [
+        {
+          "nom": "Socrate",
+          "contribution": "Il célèbre l’ignorance docte ('je sais que je ne sais rien') et fait du questionnement le chemin du savoir véritable, opposé à la simple opinion.",
+          "extrait": "\"Je sais que je ne sais rien.\" (Apologie de Socrate, 21d)"
+        },
+        {
+          "nom": "Platon",
+          "contribution": "Il distingue la science ('épistémè') de l’opinion ('doxa') : seul le savoir porte sur l’être véritable, c’est-à-dire les Idées, tandis que l’opinion porte sur le monde changeant.",
+          "extrait": "\"L’opinion est intermédiaire entre la science et l’ignorance.\" (La République, V, 477b)"
+        },
+        {
+          "nom": "Aristote",
+          "contribution": "Il classe les savoirs en théorie, pratique et technique, et définit la science ('épistémè') comme connaissance certaine fondée sur des causes.",
+          "extrait": "\"Tous les hommes désirent naturellement savoir.\" (Métaphysique, I, 1)"
+        }
+      ],
+      "usages_et_debats": "Débats sur la nature de la science, la différence entre savoir et opinion, la place de la sagesse, la source du savoir (expérience, raisonnement, intuition).",
+      "changements_de_signification": "Le savoir est vu comme connaissance certaine, stable, universelle, opposée à la simple croyance ou à l’opinion.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Science (épistémè)",
+          "explication_lien": "Le savoir véritable est connaissance rationnelle, démonstrative."
+        },
+        {
+          "notion": "Opinion (doxa)",
+          "explication_lien": "L’opinion s’oppose au savoir par son incertitude et son absence de justification."
+        },
+        {
+          "notion": "Sagesse (sophia)",
+          "explication_lien": "Le savoir pratique ou moral, distinct du savoir théorique."
+        }
+      ]
+    },
+    {
+      "periode": "Moyen Âge",
+      "description_generale": "Le savoir est pensé comme don de Dieu, organisé en disciplines (les sept arts libéraux, la théologie au sommet). On distingue le savoir naturel (rationnel, expérimental) et le savoir révélé (foi, théologie). Le savoir a aussi une dimension morale et spirituelle : il doit conduire à Dieu.",
+      "penseurs_cles": [
+        {
+          "nom": "Saint Augustin",
+          "contribution": "Il distingue le savoir profane (sciences humaines, arts) et le savoir divin (sagesse). Pour lui, le vrai savoir éclaire l’âme et rapproche de la vérité éternelle.",
+          "extrait": "\"Ne cherche pas à comprendre pour croire, mais crois pour comprendre.\" (Sermons, 43, 7, 9)"
+        },
+        {
+          "nom": "Thomas d’Aquin",
+          "contribution": "Il distingue la raison et la foi, mais affirme que le savoir naturel ne contredit jamais la révélation. Il classe les savoirs et met la théologie au sommet de la hiérarchie.",
+          "extrait": "\"Toute vérité, qui que ce soit qui la dise, vient de l’Esprit Saint.\" (Somme théologique, I, q. 109, a. 1)"
+        }
+      ],
+      "usages_et_debats": "Débats sur la hiérarchie des savoirs, sur la place de la foi et de la raison, sur l’autonomie possible du savoir humain.",
+      "changements_de_signification": "Le savoir est valorisé mais subordonné à la révélation ; il est hiérarchisé, ordonné à la connaissance de Dieu.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Foi",
+          "explication_lien": "La foi est un mode de savoir supérieur, mais non démonstratif."
+        },
+        {
+          "notion": "Raison",
+          "explication_lien": "La raison permet d’accéder à un savoir naturel, limité."
+        },
+        {
+          "notion": "Révélation",
+          "explication_lien": "Le savoir suprême vient de Dieu, par la révélation."
+        }
+      ]
+    },
+    {
+      "periode": "Âge classique (XVIIe - XVIIIe siècles)",
+      "description_generale": "Le savoir devient objet de méthode, de doute, de démonstration. On valorise l’expérience, la raison, la preuve. Les sciences se distinguent des croyances et des traditions, le savoir devient synonyme de certitude fondée. On rêve d’un savoir universel, encyclopédique.",
+      "penseurs_cles": [
+        {
+          "nom": "René Descartes",
+          "contribution": "Il fonde le savoir sur la clarté et la distinction des idées, la méthode du doute, la certitude du cogito. Le savoir doit être évident, rationnel, méthodique.",
+          "extrait": "\"Je pense, donc je suis.\" (Discours de la méthode, IV)"
+        },
+        {
+          "nom": "John Locke",
+          "contribution": "Il distingue savoir (connaissance certaine) et croyance (probabilité). Le savoir vient de l’expérience, de la sensation et de la réflexion.",
+          "extrait": "\"Le savoir, c’est la perception de la connexion et de l’accord ou du désaccord de nos idées.\" (Essai sur l’entendement humain, IV, 1, 2)"
+        },
+        {
+          "nom": "Encyclopédistes (Diderot, d’Alembert)",
+          "contribution": "Ils entreprennent de rassembler tous les savoirs humains dans un projet encyclopédique, fondé sur la raison, l’expérience et la critique.",
+          "extrait": "\"Le but de l’encyclopédie est de rassembler les connaissances éparses sur la surface de la terre.\" (Encyclopédie, préface)"
+        }
+      ],
+      "usages_et_debats": "Débats sur le fondement du savoir (raison, expérience, méthode), sur la possibilité d’un savoir universel, sur la distinction entre science et croyance.",
+      "changements_de_signification": "Le savoir devient synonyme de science rigoureuse, méthodique, universelle. Il se sépare de la foi, de la tradition, de la simple opinion.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Méthode",
+          "explication_lien": "Le savoir doit être construit selon des règles rationnelles."
+        },
+        {
+          "notion": "Expérience",
+          "explication_lien": "Le savoir est fondé sur l’observation, la vérification, l’expérimentation."
+        },
+        {
+          "notion": "Encyclopédie",
+          "explication_lien": "Le savoir humain est désormais vu comme un tout à organiser et diffuser."
+        }
+      ]
+    },
+    {
+      "periode": "Époque moderne (XIXe siècle)",
+      "description_generale": "Le savoir devient spécialisé, institutionnalisé, objet de disciplines scientifiques. On insiste sur la méthode expérimentale, la division des savoirs, la professionnalisation de la recherche. La philosophie s’interroge sur les limites du savoir, la différence entre savoir scientifique et autres formes de connaissance.",
+      "penseurs_cles": [
+        {
+          "nom": "Auguste Comte",
+          "contribution": "Il propose une hiérarchie des savoirs scientifiques (loi des trois états) et fonde le positivisme : seul compte le savoir vérifiable, expérimental.",
+          "extrait": "\"Savoir pour prévoir, prévoir pour pouvoir.\" (Discours sur l’esprit positif, 1844)"
+        },
+        {
+          "nom": "Karl Marx",
+          "contribution": "Il critique le savoir comme instrument de pouvoir social : la connaissance n’est jamais neutre, elle est liée aux rapports de production.",
+          "extrait": "\"La classe qui détient le pouvoir matériel détient aussi le pouvoir spirituel.\" (L’Idéologie allemande, 1845)"
+        },
+        {
+          "nom": "Friedrich Nietzsche",
+          "contribution": "Il remet en question la prétention du savoir à l’objectivité : tout savoir est perspectif, lié à la vie, à la volonté de puissance.",
+          "extrait": "\"Il n’y a pas de faits, seulement des interprétations.\" (Fragments posthumes, 1887)"
+        }
+      ],
+      "usages_et_debats": "Débats sur la spécialisation, la neutralité, le sens et la finalité du savoir, sur le rapport entre savoir et pouvoir.",
+      "changements_de_signification": "Le savoir devient scientifique, spécialisé, lié à des institutions, mais aussi objet de critique sociale et philosophique.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Positivisme",
+          "explication_lien": "Le savoir véritable est celui des sciences expérimentales."
+        },
+        {
+          "notion": "Division du travail intellectuel",
+          "explication_lien": "Le savoir est réparti en disciplines, professions, expertises."
+        },
+        {
+          "notion": "Pouvoir",
+          "explication_lien": "Le savoir est lié à des enjeux de domination, de contrôle, de légitimation."
+        }
+      ]
+    },
+    {
+      "periode": "Époque contemporaine (XXe-XXIe siècles)",
+      "description_generale": "Le savoir est étudié comme construction sociale, comme pouvoir, comme production et circulation de discours. On s’interroge sur les savoirs locaux, les savoirs situés, la pluralité des formes de savoir (savoirs scientifiques, populaires, militants, autochtones, etc.), sur le rôle des médias, du numérique, de l’intelligence artificielle.",
+      "penseurs_cles": [
+        {
+          "nom": "Michel Foucault",
+          "contribution": "Il analyse les savoirs comme liés à des dispositifs de pouvoir : 'la vérité n’existe pas sans rapports de pouvoir'. Il montre la multiplicité des régimes de savoir et leur histoire.",
+          "extrait": "\"Il n’y a pas de savoir qui ne soit pris dans des relations de pouvoir.\" (Surveiller et punir, 1975)"
+        },
+        {
+          "nom": "Thomas S. Kuhn",
+          "contribution": "Il montre que le savoir scientifique évolue par 'révolutions', changements de paradigmes, et dépend des communautés savantes.",
+          "extrait": "\"La science progresse par sauts, non par accumulation linéaire.\" (La Structure des révolutions scientifiques, 1962)"
+        },
+        {
+          "nom": "Donna Haraway",
+          "contribution": "Elle insiste sur le caractère situé de tout savoir : il n’existe pas de savoir neutre ou universel, mais des savoirs inscrits dans des contextes, des histoires, des corps.",
+          "extrait": "\"Il n’y a pas de regard de nulle part, seulement des savoirs situés.\" (Savoirs situés, 1988)"
+        }
+      ],
+      "usages_et_debats": "Débats sur la pluralité des savoirs, leur légitimité, leur rapport au pouvoir, à la technologie, à l’expérience vécue, sur la démocratisation et la circulation des savoirs.",
+      "changements_de_signification": "Le savoir devient pluriel, critique, contextualisé, enjeu de pouvoir et de lutte pour la reconnaissance.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Pouvoir/savoir",
+          "explication_lien": "Foucault lie production de savoir et rapports de pouvoir."
+        },
+        {
+          "notion": "Paradigme",
+          "explication_lien": "Le savoir scientifique évolue par ruptures de paradigmes (Kuhn)."
+        },
+        {
+          "notion": "Savoirs situés",
+          "explication_lien": "Les savoirs sont toujours produits depuis un point de vue, une histoire, une position sociale."
+        },
+        {
+          "notion": "Numérique",
+          "explication_lien": "Le numérique bouleverse la production, la diffusion et la validation des savoirs."
+        }
+      ]
+    }
+  ],
+  "etymologie": "Le mot 'savoir' vient du latin 'sapere', qui signifie 'avoir du goût', 'sentir', puis 'comprendre', 'avoir la sagesse'. En latin classique, 'sapientia' désigne la sagesse, et 'scientia' la connaissance. En français, 'savoir' désigne d’abord la connaissance acquise, la compétence, mais aussi la sagesse et la capacité à juger. Aujourd’hui, il recouvre aussi bien la connaissance théorique, scientifique, pratique ou intuitive.",
+  "citations": [
+    {
+      "auteur": "Socrate",
+      "oeuvre": "Apologie de Socrate",
+      "citation": "\"Je sais que je ne sais rien.\"",
+      "commentaire": "Socrate fait du doute le point de départ de la quête du savoir véritable."
+    },
+    {
+      "auteur": "Platon",
+      "oeuvre": "La République",
+      "citation": "\"L’opinion est intermédiaire entre la science et l’ignorance.\"",
+      "commentaire": "Platon oppose le savoir (science) à l’opinion et à l’ignorance."
+    },
+    {
+      "auteur": "Aristote",
+      "oeuvre": "Métaphysique",
+      "citation": "\"Tous les hommes désirent naturellement savoir.\"",
+      "commentaire": "Aristote affirme la tendance naturelle de l’homme à chercher le savoir."
+    },
+    {
+      "auteur": "René Descartes",
+      "oeuvre": "Discours de la méthode",
+      "citation": "\"Je pense, donc je suis.\"",
+      "commentaire": "Descartes fonde le savoir certain sur la clarté et la distinction des idées."
+    },
+    {
+      "auteur": "Michel Foucault",
+      "oeuvre": "Surveiller et punir",
+      "citation": "\"Il n’y a pas de savoir qui ne soit pris dans des relations de pouvoir.\"",
+      "commentaire": "Foucault remet en cause la neutralité du savoir et analyse ses enjeux de pouvoir."
+    },
+    {
+      "auteur": "Donna Haraway",
+      "oeuvre": "Savoirs situés",
+      "citation": "\"Il n’y a pas de regard de nulle part, seulement des savoirs situés.\"",
+      "commentaire": "Haraway défend l’idée que tout savoir est produit depuis une position singulière et située."
+    }
+  ]
+}

@@ -1,0 +1,232 @@
+{
+  "periodes": [
+    {
+      "periode": "Antiquité",
+      "description_generale": "Le mot 'esprit' n’existe pas encore sous cette forme, mais les philosophes s’intéressent déjà à ce qui anime le corps, à la pensée, à l’âme ('psychè' ou 'nous' en grec). On distingue ce qui relève du souffle vital, de la raison, de l’intelligence, et on cherche à comprendre ce qui fait la spécificité de l’humain : la capacité de penser, de raisonner, de contempler.",
+      "penseurs_cles": [
+        {
+          "nom": "Platon",
+          "contribution": "Il distingue plusieurs parties dans l’âme : la partie rationnelle ('logos'), la partie courageuse ('thumos') et la partie désirante ('epithumia'). La raison, la partie la plus noble, ressemble à ce que l’on appellera plus tard l’esprit.",
+          "extrait": "\"L’âme comporte trois parties, dont la plus divine, la raison, doit gouverner les autres.\" (La République, IV, 436a)"
+        },
+        {
+          "nom": "Aristote",
+          "contribution": "Il distingue l’âme végétative, l’âme sensitive et l’âme intellective ('noûs'). Le noûs, ou intellect, est ce qui permet de penser et d’atteindre l’universel.",
+          "extrait": "\"Il y a dans l’âme un principe par lequel elle connaît et pense : on l’appelle l’intellect.\" (De l’âme, III, 4, 429a)"
+        },
+        {
+          "nom": "Épicure",
+          "contribution": "Il distingue l’âme corporelle (mouvement, sensation) et une partie plus subtile, le 'spiritus', principe de pensée et de sensation.",
+          "extrait": "\"L’âme se compose de parties corporelles, mais la partie directrice est la plus fine et la plus mobile.\" (Lettre à Hérodote)"
+        }
+      ],
+      "usages_et_debats": "Débats sur la nature de l’âme, de l’intellect, sur la séparation du corps et de la pensée, sur l’immortalité ou la mortalité de ce principe spirituel.",
+      "changements_de_signification": "Le concept d’esprit n’est pas encore distinct de l’âme ou de l’intellect ; il désigne ce qui pense, réfléchit, contemple.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Âme (psychè)",
+          "explication_lien": "La réflexion porte sur ce qui anime le corps et permet la pensée."
+        },
+        {
+          "notion": "Intellect (noûs)",
+          "explication_lien": "L’intellect est la faculté supérieure de connaissance, proche de ce qu’on appellera l’esprit."
+        },
+        {
+          "notion": "Souffle/vitalité",
+          "explication_lien": "L’esprit est parfois associé à un souffle vital qui anime le vivant."
+        }
+      ]
+    },
+    {
+      "periode": "Moyen Âge",
+      "description_generale": "L’esprit ('spiritus' en latin) prend une place centrale dans la philosophie et la théologie chrétiennes. Il est pensé comme principe immatériel, distinct du corps, capable de connaître Dieu, de vouloir le bien et de s’élever vers le spirituel. On distingue âme, esprit, et corps, et on débat de leur rapport.",
+      "penseurs_cles": [
+        {
+          "nom": "Saint Augustin",
+          "contribution": "Il distingue l’âme et l’esprit : l’esprit est la partie supérieure de l’âme, tournée vers Dieu, capable d’intelligence et de contemplation.",
+          "extrait": "\"L’esprit, c’est cette partie de l’âme qui s’applique à connaître et à aimer Dieu.\" (La Trinité, X, 7)"
+        },
+        {
+          "nom": "Thomas d’Aquin",
+          "contribution": "Il affirme la nature immatérielle de l’esprit humain ('mens'), capable de connaissance intellectuelle, et s’interroge sur la distinction avec l’âme.",
+          "extrait": "\"L’esprit humain est une substance incorporelle, immortelle, capable de comprendre l’universel.\" (Somme théologique, I, q.75, a.6)"
+        }
+      ],
+      "usages_et_debats": "Débats sur la nature de l’esprit, son immortalité, sa distinction du corps et de l’âme, sa capacité à saisir Dieu ou les vérités éternelles.",
+      "changements_de_signification": "L’esprit est désormais pensé comme faculté supérieure, tournée vers la connaissance du divin, immatérielle et immortelle.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Âme",
+          "explication_lien": "L’âme est le principe de vie, l’esprit celui de la pensée supérieure."
+        },
+        {
+          "notion": "Immatérialité",
+          "explication_lien": "L’esprit est conçu comme non-matériel, opposé à la corporéité."
+        },
+        {
+          "notion": "Dieu",
+          "explication_lien": "L’esprit permet de s’unir à Dieu, de connaître le divin."
+        }
+      ]
+    },
+    {
+      "periode": "Âge classique (XVIIe - XVIIIe siècles)",
+      "description_generale": "L’esprit devient objet de réflexion philosophique et scientifique. Il est défini comme faculté de penser, de vouloir, de juger, distincte du corps. Le dualisme entre esprit et corps est formulé explicitement par Descartes. On s’interroge sur la nature de l’esprit, ses pouvoirs, ses limites, sa relation au langage et à la conscience.",
+      "penseurs_cles": [
+        {
+          "nom": "René Descartes",
+          "contribution": "Il fonde le dualisme : l’esprit (res cogitans, chose pensante) est totalement distinct du corps (res extensa). L’esprit est la pensée consciente, libre, rationnelle.",
+          "extrait": "\"Je connus que j’étais une substance dont toute l’essence ou la nature n’est que de penser.\" (Méditations métaphysiques, II)"
+        },
+        {
+          "nom": "John Locke",
+          "contribution": "Il analyse l’esprit comme une 'table rase' (tabula rasa) sur laquelle l’expérience inscrit les idées. L’esprit n’a pas de contenu inné.",
+          "extrait": "\"L’esprit n’est qu’une page blanche, jusqu’à ce que l’expérience y écrive.\" (Essai sur l’entendement humain, II, 1, 2)"
+        },
+        {
+          "nom": "Baruch Spinoza",
+          "contribution": "Il refuse le dualisme et affirme que l’esprit et le corps sont deux aspects d’une même réalité. L’esprit est l’idée du corps.",
+          "extrait": "\"L’esprit humain est la connaissance du corps humain.\" (Éthique, II, proposition 13)"
+        }
+      ],
+      "usages_et_debats": "Débats sur le dualisme corps/esprit, sur la nature de la pensée, sur l’origine des idées (innées ou acquises), sur la possibilité d’une science de l’esprit.",
+      "changements_de_signification": "L’esprit devient synonyme de pensée, de conscience, de subjectivité, et se distingue radicalement du corps.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Dualisme",
+          "explication_lien": "L’esprit est séparé radicalement du corps chez Descartes."
+        },
+        {
+          "notion": "Conscience",
+          "explication_lien": "L’esprit, c’est la capacité de se penser soi-même, d’être conscient."
+        },
+        {
+          "notion": "Tabula rasa",
+          "explication_lien": "L’esprit est réceptif, formé par l’expérience selon Locke."
+        }
+      ]
+    },
+    {
+      "periode": "Époque moderne (XIXe siècle)",
+      "description_generale": "L’esprit est exploré par la psychologie, la philosophie de l’histoire, la phénoménologie naissante. On s’intéresse à la vie de l’esprit, à l’inconscient, à la subjectivité, à la culture. L’esprit peut être individuel ou collectif (esprit d’un peuple, esprit d’une époque).",
+      "penseurs_cles": [
+        {
+          "nom": "Georg Wilhelm Friedrich Hegel",
+          "contribution": "Il pense l’Esprit ('Geist') comme réalité historique, collective, qui se réalise à travers l’histoire, la culture, la société. L’Esprit absolu est la fin du processus historique.",
+          "extrait": "\"L’Esprit, c’est la réalité de ce qui pense et se pense dans l’histoire.\" (Phénoménologie de l’esprit, Préface)"
+        },
+        {
+          "nom": "Sigmund Freud",
+          "contribution": "Il explore l’inconscient, c’est-à-dire la part du psychisme qui échappe à la conscience. L’esprit humain est traversé de forces inconscientes.",
+          "extrait": "\"Le moi n’est pas maître dans sa propre maison.\" (Introduction à la psychanalyse, 1916)"
+        },
+        {
+          "nom": "Wilhelm Wundt",
+          "contribution": "Il fonde la psychologie expérimentale, étudiant l’esprit par des méthodes scientifiques.",
+          "extrait": "\"La psychologie doit devenir une science expérimentale de l’esprit.\" (Principes de psychologie physiologique, 1874)"
+        }
+      ],
+      "usages_et_debats": "Débats sur la nature individuelle ou collective de l’esprit, sur l’inconscient, sur la possibilité de mesurer et d’analyser scientifiquement l’esprit.",
+      "changements_de_signification": "L’esprit devient aussi processus collectif (culture, histoire), mais aussi espace de conflits, de profondeurs cachées (inconscient).",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Inconscient",
+          "explication_lien": "Freud introduit une part obscure, non consciente de l’esprit."
+        },
+        {
+          "notion": "Esprit objectif/absolu",
+          "explication_lien": "Chez Hegel, l’esprit se déploie dans l’histoire, la culture, l’art."
+        },
+        {
+          "notion": "Psychologie",
+          "explication_lien": "L’étude scientifique de l’esprit devient possible."
+        }
+      ]
+    },
+    {
+      "periode": "Époque contemporaine (XXe-XXIe siècles)",
+      "description_generale": "L’esprit est analysé sous l’angle de la phénoménologie, des sciences cognitives, de la linguistique, de la philosophie de l’esprit. On s’interroge sur la conscience, la subjectivité, le langage, la relation au corps, l’intelligence artificielle, la neurobiologie, la dimension sociale et intersubjective de l’esprit.",
+      "penseurs_cles": [
+        {
+          "nom": "Maurice Merleau-Ponty",
+          "contribution": "Il récuse la séparation stricte entre corps et esprit, et insiste sur l’esprit incarné, la subjectivité qui se vit toujours à travers le corps.",
+          "extrait": "\"L’esprit n’est rien sans le corps, et le corps n’est rien sans l’esprit.\" (Phénoménologie de la perception, 1945)"
+        },
+        {
+          "nom": "Gilbert Ryle",
+          "contribution": "Il critique le 'mythe de l’esprit' comme entité séparée : l’esprit, ce sont des comportements, des dispositions à agir ('le fantôme dans la machine').",
+          "extrait": "\"Parler d’esprit, c’est parler de la manière d’agir, non d’une chose cachée.\" (The Concept of Mind, 1949)"
+        },
+        {
+          "nom": "John Searle",
+          "contribution": "Il réfléchit à la conscience, à l’intentionnalité, et aux limites de l’intelligence artificielle pour reproduire l’esprit humain.",
+          "extrait": "\"La pensée humaine est caractérisée par l’intentionnalité, ce qui manque aux machines.\" (Esprits, cerveaux et science, 1984)"
+        },
+        {
+          "nom": "Thomas Nagel",
+          "contribution": "Il souligne la part irréductible de la subjectivité : il y a 'quelque chose que c’est que d’être' un esprit, une conscience.",
+          "extrait": "\"Que fait-il d’être une chauve-souris ?\" (What is it like to be a bat?, 1974)"
+        }
+      ],
+      "usages_et_debats": "Débats sur la nature de l’esprit (incarné ou non), sur la conscience, sur les relations cerveau-esprit, sur l’intelligence artificielle, la subjectivité, l’intersubjectivité.",
+      "changements_de_signification": "L’esprit n’est plus seulement principe immatériel : il devient enjeu de sciences, d’éthique, de technologie, de phénoménologie et d’anthropologie.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Philosophie de l’esprit",
+          "explication_lien": "Discipline qui analyse la conscience, la pensée, l’intentionnalité."
+        },
+        {
+          "notion": "Corps",
+          "explication_lien": "L’esprit est vu comme incarné, indissociable du vécu corporel."
+        },
+        {
+          "notion": "Intelligence artificielle",
+          "explication_lien": "Débat sur la possibilité de reproduire l’esprit par la machine."
+        },
+        {
+          "notion": "Intersubjectivité",
+          "explication_lien": "L’esprit n’est pas seulement individuel, il se forme dans la relation à autrui."
+        }
+      ]
+    }
+  ],
+  "etymologie": "Le mot 'esprit' vient du latin 'spiritus', qui signifie souffle, respiration, principe vital. Il désigne d’abord le souffle de vie, puis, par extension, la pensée, l’âme immatérielle, l’intelligence. En français, 'esprit' s’oppose à 'corps' et prend le sens de faculté de penser, d’intelligence, d’humour, mais aussi d’esprit collectif (esprit d’équipe, esprit du temps). Aujourd’hui, il recouvre la pensée consciente, la subjectivité, l’intelligence et la créativité, mais reste polysémique.",
+  "citations": [
+    {
+      "auteur": "Platon",
+      "oeuvre": "La République",
+      "citation": "\"L’âme comporte trois parties, dont la plus divine, la raison, doit gouverner les autres.\"",
+      "commentaire": "Platon pose la raison, future notion d’esprit, comme principe directeur de l’être humain."
+    },
+    {
+      "auteur": "Saint Augustin",
+      "oeuvre": "La Trinité",
+      "citation": "\"L’esprit, c’est cette partie de l’âme qui s’applique à connaître et à aimer Dieu.\"",
+      "commentaire": "Augustin distingue l’esprit comme faculté supérieure, tournée vers Dieu."
+    },
+    {
+      "auteur": "René Descartes",
+      "oeuvre": "Méditations métaphysiques",
+      "citation": "\"Je connus que j’étais une substance dont toute l’essence ou la nature n’est que de penser.\"",
+      "commentaire": "Descartes fonde le dualisme corps/esprit et affirme la nature pensante de l’esprit."
+    },
+    {
+      "auteur": "Georg Wilhelm Friedrich Hegel",
+      "oeuvre": "Phénoménologie de l’esprit",
+      "citation": "\"L’Esprit, c’est la réalité de ce qui pense et se pense dans l’histoire.\"",
+      "commentaire": "Hegel fait de l’Esprit la force qui se réalise dans l’histoire et la culture."
+    },
+    {
+      "auteur": "Maurice Merleau-Ponty",
+      "oeuvre": "Phénoménologie de la perception",
+      "citation": "\"L’esprit n’est rien sans le corps, et le corps n’est rien sans l’esprit.\"",
+      "commentaire": "Merleau-Ponty pense l’esprit comme indissociable du corps vécu et de l’expérience incarnée."
+    },
+    {
+      "auteur": "Gilbert Ryle",
+      "oeuvre": "The Concept of Mind",
+      "citation": "\"Parler d’esprit, c’est parler de la manière d’agir, non d’une chose cachée.\"",
+      "commentaire": "Ryle critique l’idée d’un esprit séparé, 'fantôme dans la machine', et propose une analyse comportementale."
+    }
+  ]
+}

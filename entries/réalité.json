@@ -1,0 +1,236 @@
+{
+  "periodes": [
+    {
+      "periode": "Antiquité",
+      "description_generale": "Le mot 'réalité' n’existe pas encore, mais les philosophes s’interrogent sur ce qui est vraiment, sur l’être, la vérité, la différence entre l’apparence et ce qui existe en soi. On distingue ce qui change (le devenir, le monde sensible) de ce qui demeure (l’être, l’essence), et on cherche à savoir ce qui mérite d’être appelé 'vrai'.",
+      "penseurs_cles": [
+        {
+          "nom": "Parménide",
+          "contribution": "Il affirme que seule l’Être est, immuable, unique, éternel ; tout changement, toute apparence, n’est qu’illusion. Le monde réel, c’est l’être pur.",
+          "extrait": "\"L’Être est, le non-être n’est pas.\" (De la nature, fragment 2)"
+        },
+        {
+          "nom": "Platon",
+          "contribution": "Il distingue le monde sensible (apparence, opinion) et le monde des Idées (être véritable, intelligible). Seul ce qui relève de l’Idée est pleinement réel.",
+          "extrait": "\"Ce qui est toujours, sans jamais devenir, et ce qui devient sans jamais être.\" (Timée, 27d)"
+        },
+        {
+          "nom": "Aristote",
+          "contribution": "Il oppose la substance (ce qui existe en soi) aux accidents (qualités changeantes). La réalité, c’est ce qui a une existence propre, indépendante.",
+          "extrait": "\"La substance est ce qui existe en soi et n’est pas affirmé d’un sujet.\" (Métaphysique, VII, 1, 1028b)"
+        }
+      ],
+      "usages_et_debats": "Débats sur l'opposition entre être et apparence, sur la réalité comme essence ou comme existence, sur la possibilité de connaître ce qui est vraiment.",
+      "changements_de_signification": "L’idée de réalité s’élabore comme ce qui est stable, véritable, par opposition aux illusions des sens ou aux simples opinions.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Être",
+          "explication_lien": "La question de la réalité est d’abord celle de l’être véritable."
+        },
+        {
+          "notion": "Apparence",
+          "explication_lien": "La réalité s’oppose à l’apparence, au trompeur, à l’illusion."
+        },
+        {
+          "notion": "Idée",
+          "explication_lien": "Chez Platon, la réalité la plus haute est celle des Idées, éternelles et immuables."
+        }
+      ]
+    },
+    {
+      "periode": "Moyen Âge",
+      "description_generale": "La réalité est pensée à travers le prisme de Dieu, de la création et de la distinction entre essence et existence. On s’interroge sur ce qui existe vraiment : Dieu, les créatures, les universaux ? Les débats portent sur la réalité des idées générales et sur la hiérarchie de l’être.",
+      "penseurs_cles": [
+        {
+          "nom": "Saint Augustin",
+          "contribution": "Il considère que Dieu seul possède la réalité suprême ('être véritable') ; les créatures n’ont qu’une existence dérivée, dépendante.",
+          "extrait": "\"Ce qui existe vraiment, c’est ce qui ne peut ni changer, ni périr.\" (La Cité de Dieu, XII, 2)"
+        },
+        {
+          "nom": "Thomas d’Aquin",
+          "contribution": "Il distingue essence (ce qu’est une chose) et existence (le fait d’être). Dieu seul est son existence même, tout le reste reçoit l’existence.",
+          "extrait": "\"En Dieu seul, l’essence est l’existence même.\" (Somme théologique, I, q.3, a.4)"
+        },
+        {
+          "nom": "Guillaume d’Ockham",
+          "contribution": "Il remet en cause la réalité des universaux (idées générales) : seules les choses singulières existent réellement.",
+          "extrait": "\"Les universaux n’existent que dans l’esprit, seule la chose individuelle est réelle.\" (Somme de logique, I, 14)"
+        }
+      ],
+      "usages_et_debats": "Débats sur la réalité des universaux, sur la hiérarchie de l’être, sur la différence entre créateur et créature, sur la réalité comme perfection.",
+      "changements_de_signification": "La réalité s’organise hiérarchiquement : Dieu, puis les créatures, puis les idées ; la question de l’existence réelle des concepts abstraits se pose.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Essence/existence",
+          "explication_lien": "La réalité suppose la distinction entre ce qu’est une chose et le fait qu’elle soit réellement."
+        },
+        {
+          "notion": "Universaux",
+          "explication_lien": "La question de la réalité des idées générales anime la philosophie médiévale."
+        },
+        {
+          "notion": "Création",
+          "explication_lien": "La réalité du monde dépend de l’acte créateur divin."
+        }
+      ]
+    },
+    {
+      "periode": "Âge classique (XVIIe - XVIIIe siècles)",
+      "description_generale": "La réalité devient objet de doute, d’examen critique et de recherche scientifique. On s’interroge sur la réalité du monde extérieur, la certitude de l’existence, la distinction entre réalité objective et subjective. Les sciences cherchent à décrire la réalité par l’observation et l’expérience.",
+      "penseurs_cles": [
+        {
+          "nom": "René Descartes",
+          "contribution": "Il met en doute la réalité du monde sensible, mais affirme la réalité indubitable de la pensée ('je pense, donc je suis'). La réalité extérieure n’est accessible qu’à travers la clarté et la distinction des idées.",
+          "extrait": "\"Je pense, donc je suis.\" (Discours de la méthode, IV)"
+        },
+        {
+          "nom": "Baruch Spinoza",
+          "contribution": "Il identifie la réalité ('réalité ou perfection') à la puissance d’exister ; Dieu ou la Nature est la réalité absolue, infinie.",
+          "extrait": "\"Par réalité et perfection, j’entends la même chose.\" (Éthique, I, déf. VI)"
+        },
+        {
+          "nom": "John Locke",
+          "contribution": "Il distingue qualités premières (objectives) et qualités secondes (subjectives), et analyse la réalité comme accessible par l’expérience, mais toujours médiée par la perception.",
+          "extrait": "\"Les idées qui ont le plus de réalité sont celles qui correspondent à des qualités premières.\" (Essai sur l’entendement humain, II, VIII, 9)"
+        },
+        {
+          "nom": "George Berkeley",
+          "contribution": "Il affirme que la réalité n’est que perception : 'être, c’est être perçu' ('esse est percipi').",
+          "extrait": "\"La réalité des choses consiste à être perçues.\" (Principes de la connaissance humaine, I, 3)"
+        }
+      ],
+      "usages_et_debats": "Débats sur le réalisme (le monde existe-t-il en dehors de notre esprit ?), l’idéalisme, la certitude, la réalité des sensations ou des idées.",
+      "changements_de_signification": "La réalité devient objet de critique, d’analyse, de méthode : elle peut être objective, subjective ou même purement mentale.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Doute",
+          "explication_lien": "La réalité ne va plus de soi, elle doit être fondée sur la certitude."
+        },
+        {
+          "notion": "Subjectivité/objectivité",
+          "explication_lien": "On distingue la réalité indépendante du sujet et celle produite par la conscience."
+        },
+        {
+          "notion": "Perception",
+          "explication_lien": "La question de la réalité passe par l’analyse de la perception."
+        }
+      ]
+    },
+    {
+      "periode": "Époque moderne (XIXe siècle)",
+      "description_generale": "La réalité est explorée dans sa multiplicité : réalité psychique, sociale, historique, inconsciente. La science interroge la réalité des atomes, des forces, de l’invisible. La philosophie s’intéresse à la construction de la réalité par le langage, la culture, l’histoire.",
+      "penseurs_cles": [
+        {
+          "nom": "Georg Wilhelm Friedrich Hegel",
+          "contribution": "Il pense la réalité comme processus dialectique, devenir de l’Esprit dans l’histoire. La réalité n’est pas donnée, mais produite par le mouvement de la pensée.",
+          "extrait": "\"Ce qui est rationnel est réel, et ce qui est réel est rationnel.\" (Principes de la philosophie du droit, préface)"
+        },
+        {
+          "nom": "Auguste Comte",
+          "contribution": "Il affirme que seule la réalité positive, observable, doit être l’objet de la science. La réalité est ce qui se constate, se mesure, se vérifie.",
+          "extrait": "\"Connaître, c’est prévoir, prévoir, c’est pouvoir.\" (Cours de philosophie positive, I, 1830)"
+        },
+        {
+          "nom": "Sigmund Freud",
+          "contribution": "Il distingue la réalité extérieure et la réalité psychique, notamment l’inconscient, qui a ses propres lois et effets.",
+          "extrait": "\"La réalité psychique a pour nous plus de valeur que la réalité matérielle.\" (L’Interprétation du rêve, II, 1900)"
+        }
+      ],
+      "usages_et_debats": "Débats sur la pluralité des réalités (matérielle, psychique, sociale), sur le réalisme scientifique, sur la part de construction et de convention.",
+      "changements_de_signification": "La réalité devient processus, pluralité, objet d’enquête scientifique et de réflexion sur ses différentes dimensions.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Dialectique",
+          "explication_lien": "La réalité est mouvement, contradiction, devenir."
+        },
+        {
+          "notion": "Positivisme",
+          "explication_lien": "La réalité est ce qui se vérifie par les faits et l’expérience."
+        },
+        {
+          "notion": "Inconscient",
+          "explication_lien": "La réalité psychique a sa propre logique, irréductible à la réalité extérieure."
+        }
+      ]
+    },
+    {
+      "periode": "Époque contemporaine (XXe-XXIe siècles)",
+      "description_generale": "La réalité est interrogée comme construction, comme pluralité de mondes possibles, comme expérience, comme production sociale ou technique. Les sciences (physique, biologie, psychologie) remettent en question la réalité naïve et multiplient les niveaux d’analyse (réalité virtuelle, réalité augmentée). La philosophie analyse la réalité comme une question de langage, de pouvoir, d’interprétation.",
+      "penseurs_cles": [
+        {
+          "nom": "Ludwig Wittgenstein",
+          "contribution": "Il affirme que les limites de notre langage sont les limites de notre monde : la réalité est ce que l’on peut dire, décrire, représenter.",
+          "extrait": "\"Les limites de mon langage signifient les limites de mon monde.\" (Tractatus logico-philosophicus, 5.6)"
+        },
+        {
+          "nom": "Nelson Goodman",
+          "contribution": "Il avance l’idée de 'fabrique de mondes' : il n’y a pas une réalité unique, mais une pluralité de mondes construits par nos façons de décrire, de symboliser.",
+          "extrait": "\"Façonner des mondes, c’est décrire, symboliser, organiser l’expérience.\" (Manière de faire des mondes, 1978)"
+        },
+        {
+          "nom": "Jean Baudrillard",
+          "contribution": "Il explore la confusion entre réalité et simulation dans la société contemporaine : le simulacre remplace la réalité ('hyperréalité').",
+          "extrait": "\"Le réel n’est plus ce qu’il était : il y a désormais un hyperréel, produit par la simulation.\" (Simulacres et simulation, 1981)"
+        },
+        {
+          "nom": "Bruno Latour",
+          "contribution": "Il analyse la réalité comme un réseau de relations entre humains et non-humains, produite par l’action, la négociation, la science.",
+          "extrait": "\"La réalité est ce qui résiste à nos efforts de la transformer.\" (Nous n’avons jamais été modernes, 1991)"
+        }
+      ],
+      "usages_et_debats": "Débats sur la réalité virtuelle, la réalité augmentée, la multiplicité des interprétations, la frontière entre réel et fiction, la part de construction sociale ou technique.",
+      "changements_de_signification": "La réalité devient multiple, fluide, parfois incertaine ; elle est produite, interprétée, simulée ou même questionnée dans son existence même.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Langage",
+          "explication_lien": "La réalité est inséparable de nos manières de la dire, la penser, la symboliser."
+        },
+        {
+          "notion": "Simulation",
+          "explication_lien": "La réalité est de plus en plus produite ou remplacée par des simulacres techniques."
+        },
+        {
+          "notion": "Construction sociale",
+          "explication_lien": "La réalité est aussi ce que les sociétés produisent par leurs pratiques et leurs institutions."
+        },
+        {
+          "notion": "Pluralité des mondes",
+          "explication_lien": "Il existe plusieurs façons de construire ou d’expérimenter la réalité."
+        }
+      ]
+    }
+  ],
+  "etymologie": "Le mot 'réalité' vient du latin 'realitas', formé sur 'res' (chose). Il désigne d’abord ce qui a la nature d’une chose, ce qui existe effectivement, par opposition à ce qui est seulement pensé, rêvé ou imaginé. En français, il apparaît au XIVe siècle et désigne progressivement ce qui est effectif, ce qui existe vraiment, en dehors de l’esprit ou des apparences. Aujourd’hui, 'réalité' recouvre aussi bien l’ensemble de ce qui existe, que ce qui s’oppose à l’illusion, la fiction ou la simulation.",
+  "citations": [
+    {
+      "auteur": "Parménide",
+      "oeuvre": "De la nature",
+      "citation": "\"L’Être est, le non-être n’est pas.\"",
+      "commentaire": "Parménide pose la réalité comme existence absolue, niée à l’apparence et au changement."
+    },
+    {
+      "auteur": "Platon",
+      "oeuvre": "Timée",
+      "citation": "\"Ce qui est toujours, sans jamais devenir, et ce qui devient sans jamais être.\"",
+      "commentaire": "Platon sépare réalité intelligible (les Idées) et réalité sensible (changements, apparences)."
+    },
+    {
+      "auteur": "René Descartes",
+      "oeuvre": "Discours de la méthode",
+      "citation": "\"Je pense, donc je suis.\"",
+      "commentaire": "Descartes fonde la réalité sur la certitude de l’existence du sujet pensant."
+    },
+    {
+      "auteur": "Baruch Spinoza",
+      "oeuvre": "Éthique",
+      "citation": "\"Par réalité et perfection, j’entends la même chose.\"",
+      "commentaire": "Pour Spinoza, la réalité est puissance d’exister, liée à la perfection de Dieu ou de la Nature."
+    },
+    {
+      "auteur": "Jean Baudrillard",
+      "oeuvre": "Simulacres et simulation",
+      "citation": "\"Le réel n’est plus ce qu’il était : il y a désormais un hyperréel, produit par la simulation.\"",
+      "commentaire": "Baudrillard interroge la frontière entre réalité, fiction et simulation à l’ère contemporaine."
+    }
+  ]
+}

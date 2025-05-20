@@ -1,0 +1,226 @@
+{
+  "periodes": [
+    {
+      "periode": "Antiquité",
+      "description_generale": "Le mot 'perception' n’existe pas, mais les philosophes s’interrogent sur la sensation, la connaissance sensible, et la manière dont nous recevons les images du monde. On distingue la sensation (passive) et la pensée rationnelle (active). Les débats portent sur la fiabilité des sens et leur rôle dans l’accès à la vérité.",
+      "penseurs_cles": [
+        {
+          "nom": "Platon",
+          "contribution": "Il considère que les sens ne donnent accès qu’à l’opinion, pas à la vérité : seule la raison permet d’atteindre l’être véritable, les idées. La perception sensible est trompeuse.",
+          "extrait": "\"La vue, l’ouïe, l’odorat, le goût, le toucher : aucun de ces sens ne nous fait connaître la vérité.\" (Phédon, 65b)"
+        },
+        {
+          "nom": "Aristote",
+          "contribution": "Il donne une place importante à la sensation ('aisthesis') comme première étape de la connaissance : tout commence par la perception sensible, qui transmet la forme des objets à l’âme.",
+          "extrait": "\"Rien n’est dans l’intellect qui n’ait d’abord été dans les sens.\" (De Anima, III, 8, 431b)"
+        },
+        {
+          "nom": "Épicure",
+          "contribution": "Il affirme que toutes les perceptions sont vraies, mais que nos jugements sur elles peuvent être faux. La perception est un contact direct avec les atomes émis par les choses.",
+          "extrait": "\"Toute perception est vraie, l’erreur vient du jugement que nous en faisons.\" (Lettre à Hérodote)"
+        }
+      ],
+      "usages_et_debats": "Débats sur la confiance à accorder aux sens, sur la différence entre sensation et connaissance, sur le rôle du jugement dans l’erreur.",
+      "changements_de_signification": "La perception est pensée comme expérience sensible, porte d’entrée vers la connaissance mais aussi source possible d’illusion.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Sensation",
+          "explication_lien": "La perception commence par la sensation, passage obligé pour la connaissance."
+        },
+        {
+          "notion": "Opinion (doxa)",
+          "explication_lien": "La perception donne l’opinion, la raison donne la science."
+        },
+        {
+          "notion": "Vérité",
+          "explication_lien": "La confiance en la perception conditionne l’accès à la vérité ou à l’erreur."
+        }
+      ]
+    },
+    {
+      "periode": "Moyen Âge",
+      "description_generale": "La perception est pensée dans le cadre de la distinction entre sens extérieur et sens intérieur. Les philosophes chrétiens distinguent ce qui vient du monde (sensation) et ce qui est élaboré par l’âme (interprétation, imagination). La perception est vue comme un don de Dieu, mais secondaire par rapport à la lumière de la raison.",
+      "penseurs_cles": [
+        {
+          "nom": "Saint Augustin",
+          "contribution": "Il distingue la perception sensible (imparfaite, changeante) de la perception intérieure, qui permet d’accéder aux vérités éternelles. Il valorise l’introspection et la lumière intérieure.",
+          "extrait": "\"Ce n’est pas par les yeux du corps, mais par l’œil de l’âme que je vois la vérité.\" (Les Confessions, VII, 10)"
+        },
+        {
+          "nom": "Thomas d’Aquin",
+          "contribution": "Il reprend Aristote : la connaissance commence par la perception sensible, mais elle doit être complétée par l’intellect qui abstrait les formes universelles.",
+          "extrait": "\"Tout ce que nous connaissons vient des sens, mais l’intellect va au-delà de la perception sensible.\" (Somme théologique, I, q.84, a.6)"
+        }
+      ],
+      "usages_et_debats": "Débats sur la fiabilité de la perception, sur la distinction entre sens externes et internes, sur la dignité de la connaissance sensible par rapport à la connaissance intellectuelle.",
+      "changements_de_signification": "La perception reste subordonnée à la foi et à la raison ; elle est vue comme première étape, jamais achevée.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Sens extérieur/intérieur",
+          "explication_lien": "Distinction médiévale entre ce qui vient du monde et ce que l’âme élabore."
+        },
+        {
+          "notion": "Intellect",
+          "explication_lien": "L’intellect permet de dépasser la simple perception pour atteindre l’universel."
+        },
+        {
+          "notion": "Illumination",
+          "explication_lien": "La vraie connaissance est illumination de l’âme, non simple perception sensible."
+        }
+      ]
+    },
+    {
+      "periode": "Âge classique (XVIIe - XVIIIe siècles)",
+      "description_generale": "La perception devient un objet central en philosophie : on s’interroge sur la nature des idées sensibles, sur la distinction entre perception et réalité, sur le rôle de la conscience. Les empiristes font de la perception la base de toute connaissance, tandis que les rationalistes la suspectent d’illusion.",
+      "penseurs_cles": [
+        {
+          "nom": "René Descartes",
+          "contribution": "Il doute de la fiabilité des perceptions sensibles, mais reconnaît la perception claire et distincte comme fondement de la science. Il distingue la perception des sens et la perception de l’entendement.",
+          "extrait": "\"Je connus que je pouvais douter de tout, sauf du fait que je percevais que je doutais.\" (Méditations métaphysiques, II)"
+        },
+        {
+          "nom": "John Locke",
+          "contribution": "Il fait de la perception (sensation et réflexion) la source de toutes nos idées. La connaissance commence par la réception passive de données sensibles.",
+          "extrait": "\"L’esprit n’a pas d’idées innées, tout vient de la perception.\" (Essai sur l’entendement humain, II, 1, §2)"
+        },
+        {
+          "nom": "George Berkeley",
+          "contribution": "Il affirme que la réalité n’est que perception : être, c’est être perçu ('esse est percipi').",
+          "extrait": "\"Les objets n’existent qu’autant qu’ils sont perçus par un esprit.\" (Principes de la connaissance humaine, I, 3)"
+        },
+        {
+          "nom": "David Hume",
+          "contribution": "Il distingue impressions (perceptions vives, immédiates) et idées (copies affaiblies dans la mémoire ou l’imagination). Toute connaissance vient de la perception.",
+          "extrait": "\"Toutes les perceptions de l’esprit humain se ramènent à deux espèces : impressions et idées.\" (Traité de la nature humaine, I, I, 1)"
+        }
+      ],
+      "usages_et_debats": "Débats sur la fiabilité de la perception, sur le réalisme versus l’idéalisme, sur la perception comme construction ou comme donnée brute.",
+      "changements_de_signification": "La perception devient à la fois fondement de la connaissance (empirisme) et problème épistémologique (rationalisme, scepticisme).",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Empirisme",
+          "explication_lien": "La perception est la source de toute connaissance."
+        },
+        {
+          "notion": "Idéalisme",
+          "explication_lien": "Chez Berkeley, la réalité est faite de perceptions."
+        },
+        {
+          "notion": "Scepticisme",
+          "explication_lien": "La perception peut tromper, d’où la nécessité du doute."
+        }
+      ]
+    },
+    {
+      "periode": "Époque moderne (XIXe siècle)",
+      "description_generale": "La perception est étudiée dans ses mécanismes psychologiques, physiologiques et sociaux. Elle n’est plus vue comme simple réception passive, mais comme activité complexe, sélective et structurée. On s’intéresse à l’influence de l’attention, de l’habitude, de la culture sur la perception.",
+      "penseurs_cles": [
+        {
+          "nom": "Immanuel Kant",
+          "contribution": "Il affirme que la perception n’est possible que grâce à des formes a priori (espace, temps) et des catégories de l’entendement qui structurent l’expérience.",
+          "extrait": "\"Les intuitions sensibles sont ordonnées selon l’espace et le temps, formes a priori de la sensibilité.\" (Critique de la raison pure, Esthétique transcendantale)"
+        },
+        {
+          "nom": "Hermann von Helmholtz",
+          "contribution": "Il analyse la perception comme une opération active, basée sur des inférences inconscientes et des habitudes mentales.",
+          "extrait": "\"La perception est une hypothèse inconsciente sur le monde extérieur.\" (Handbuch der physiologischen Optik, 1867)"
+        },
+        {
+          "nom": "William James",
+          "contribution": "Il introduit la psychologie de l’attention et de la sélection dans la perception : l’esprit choisit ce qu’il perçoit activement.",
+          "extrait": "\"L’attention est la prise de possession par l’esprit, d’une manière claire et vive, d’un objet ou d’une suite de pensées.\" (Principes de psychologie, 1890)"
+        }
+      ],
+      "usages_et_debats": "Débats sur le rôle de l’esprit dans la perception, sur la part d’activité et de passivité, sur l’influence de la culture, de l’attention, de la mémoire.",
+      "changements_de_signification": "La perception devient un processus actif, complexe, structuré par le sujet, la société et la biologie.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Formes a priori",
+          "explication_lien": "La perception est structurée par des cadres mentaux universels chez Kant."
+        },
+        {
+          "notion": "Attention",
+          "explication_lien": "La perception dépend de l’activité sélective de l’esprit."
+        },
+        {
+          "notion": "Habitude",
+          "explication_lien": "La perception est influencée par l’expérience et la répétition."
+        }
+      ]
+    },
+    {
+      "periode": "Époque contemporaine (XXe-XXIe siècles)",
+      "description_generale": "La perception est étudiée comme une construction dynamique et contextuelle, résultat de processus neuronaux, psychologiques, sociaux et culturels. On analyse la perception visuelle, auditive, sensorielle, mais aussi la perception sociale et symbolique. Les neurosciences et la phénoménologie approfondissent la compréhension de la perception incarnée.",
+      "penseurs_cles": [
+        {
+          "nom": "Maurice Merleau-Ponty",
+          "contribution": "Il fait de la perception le fondement de l’expérience : percevoir, c’est être au monde, en relation incarnée avec les choses. Il insiste sur la dimension pré-réflexive et corporelle de la perception.",
+          "extrait": "\"La perception n’est pas une science du monde, ce n’est même pas un acte, c’est l’arrière-fond sur lequel tous les actes se détachent.\" (Phénoménologie de la perception, 1945)"
+        },
+        {
+          "nom": "J.J. Gibson",
+          "contribution": "Il développe l’écologie de la perception : la perception est directe, orientée vers l’action, et dépend de l’environnement dans lequel évolue l’organisme.",
+          "extrait": "\"Nous percevons les affordances, c’est-à-dire ce que l’environnement nous permet de faire.\" (The Ecological Approach to Visual Perception, 1979)"
+        },
+        {
+          "nom": "Francisco Varela & Humberto Maturana",
+          "contribution": "Ils proposent la théorie de l’enaction : la perception est le résultat d’une co-construction entre l’organisme et son environnement, sans séparation stricte entre sujet et objet.",
+          "extrait": "\"Le monde n’est pas donné, il est à chaque instant co-créé par l’être vivant et son milieu.\" (L’Arbre de la connaissance, 1987)"
+        }
+      ],
+      "usages_et_debats": "Débats sur la perception comme construction neuronale, comme expérience vécue, comme processus social et culturel ; sur la part du corps, de l’action, de l’environnement.",
+      "changements_de_signification": "La perception devient interaction, dialogue entre l’organisme et son monde, processus incarné, dynamique, contextuel.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Phénoménologie",
+          "explication_lien": "La perception est au cœur de l’expérience vécue et de la subjectivité."
+        },
+        {
+          "notion": "Affordance",
+          "explication_lien": "La perception nous informe sur les possibilités d’action offertes par l’environnement."
+        },
+        {
+          "notion": "Enaction",
+          "explication_lien": "La perception est un processus de co-création entre l’individu et son milieu."
+        },
+        {
+          "notion": "Neurosciences",
+          "explication_lien": "Les mécanismes cérébraux de la perception sont étudiés en détail."
+        }
+      ]
+    }
+  ],
+  "etymologie": "Le mot 'perception' vient du latin 'perceptio', dérivé de 'percipere' : prendre, saisir, recevoir par les sens ou l’esprit. En latin, il signifie d’abord la prise, la récolte, puis l’acte de saisir par l’intelligence ou les sens. En français, le mot apparaît au XIIIe siècle pour désigner l’action de percevoir, puis l’ensemble des sensations et des représentations issues de l’expérience sensible. Aujourd’hui, il recouvre à la fois l’expérience sensorielle, la construction mentale et l’interprétation active du monde.",
+  "citations": [
+    {
+      "auteur": "Platon",
+      "oeuvre": "Phédon",
+      "citation": "\"La vue, l’ouïe, l’odorat, le goût, le toucher : aucun de ces sens ne nous fait connaître la vérité.\"",
+      "commentaire": "Platon se méfie de la perception sensible, source d’illusion et d’opinion."
+    },
+    {
+      "auteur": "John Locke",
+      "oeuvre": "Essai sur l’entendement humain",
+      "citation": "\"L’esprit n’a pas d’idées innées, tout vient de la perception.\"",
+      "commentaire": "Locke fait de la perception la source de toute connaissance, contre l’innéisme."
+    },
+    {
+      "auteur": "George Berkeley",
+      "oeuvre": "Principes de la connaissance humaine",
+      "citation": "\"Les objets n’existent qu’autant qu’ils sont perçus par un esprit.\"",
+      "commentaire": "Berkeley radicalise l’importance de la perception en la rendant constitutive du réel."
+    },
+    {
+      "auteur": "Maurice Merleau-Ponty",
+      "oeuvre": "Phénoménologie de la perception",
+      "citation": "\"La perception n’est pas une science du monde, ce n’est même pas un acte, c’est l’arrière-fond sur lequel tous les actes se détachent.\"",
+      "commentaire": "Merleau-Ponty fait de la perception le fondement incarné de toute expérience."
+    },
+    {
+      "auteur": "J.J. Gibson",
+      "oeuvre": "The Ecological Approach to Visual Perception",
+      "citation": "\"Nous percevons les affordances, c’est-à-dire ce que l’environnement nous permet de faire.\"",
+      "commentaire": "Gibson insiste sur la perception comme orientation vers l’action et non simple réception passive."
+    }
+  ]
+}

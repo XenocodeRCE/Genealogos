@@ -1,0 +1,237 @@
+{
+  "periodes": [
+    {
+      "periode": "Antiquité",
+      "description_generale": "On ne parle pas encore du 'langage' comme concept abstrait, mais les philosophes s’interrogent sur la parole, la voix, les signes et la communication. Le langage est vu comme ce qui distingue l’humain des autres animaux, comme moyen de transmettre la pensée, de persuader, de décrire le monde ou d’ordonner la cité.",
+      "penseurs_cles": [
+        {
+          "nom": "Platon",
+          "contribution": "Il se demande si les mots sont des conventions arbitraires ou s’ils reflètent la nature des choses. Il analyse la fonction du discours dans la philosophie et la rhétorique.",
+          "extrait": "\"La parole est l’ombre de l’action.\" (Phèdre, 276a)"
+        },
+        {
+          "nom": "Aristote",
+          "contribution": "Il distingue la voix (phonè), qui exprime la douleur ou le plaisir chez les animaux, du langage (logos), qui permet l’expression du juste, de l’injuste, du vrai et du faux.",
+          "extrait": "\"L’homme est le seul animal à posséder le langage, car le langage sert à exprimer le juste et l’injuste.\" (Politiques, I, 2, 1253a)"
+        },
+        {
+          "nom": "Les stoïciens",
+          "contribution": "Ils développent une théorie du signe (sèmeiôn) et distinguent l’expression, le signifié, et le référent, anticipant la réflexion sur la structure du langage.",
+          "extrait": "\"Le mot est un son signifiant par convention, qui exprime une chose et signifie une idée.\" (Diogène Laërce, VII, 56)"
+        }
+      ],
+      "usages_et_debats": "Débats sur le rapport entre mot et chose, sur le rôle du langage dans la vérité ou l’erreur, sur la distinction entre communication animale et langage humain.",
+      "changements_de_signification": "Le langage est vu comme pouvoir humain de nommer, persuader, transmettre, non encore comme système autonome.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Logos",
+          "explication_lien": "Le langage est lié à la raison, au discours, à la pensée logique."
+        },
+        {
+          "notion": "Signe",
+          "explication_lien": "Le langage fonctionne par signes, dont la structure commence à être analysée."
+        },
+        {
+          "notion": "Rhétorique",
+          "explication_lien": "L’art du discours, de la persuasion, est un usage central du langage."
+        }
+      ]
+    },
+    {
+      "periode": "Moyen Âge",
+      "description_generale": "Le langage est pensé dans le cadre de la logique, de la grammaire et de la théologie. On s’interroge sur la capacité du langage à exprimer la vérité des choses et de Dieu, sur la relation entre les mots, les idées et la réalité. Le latin, langue savante, joue un rôle majeur dans la transmission du savoir.",
+      "penseurs_cles": [
+        {
+          "nom": "Saint Augustin",
+          "contribution": "Il analyse le langage comme moyen de transmettre des idées, mais aussi comme source d’ambiguïté et de malentendus. Il réfléchit à la 'parole intérieure', qui précède la parole extérieure.",
+          "extrait": "\"On parle pour signifier quelque chose à autrui, mais il y a d’abord une parole intérieure, adressée à soi-même.\" (La Trinité, XV, 10)"
+        },
+        {
+          "nom": "Thomas d’Aquin",
+          "contribution": "Il distingue le verbe intérieur (pensée) et le verbe extérieur (parole), et s’interroge sur la possibilité de parler de Dieu.",
+          "extrait": "\"Nous ne pouvons parler de Dieu que par analogie, jamais de façon adéquate.\" (Somme théologique, I, q.13, a.5)"
+        },
+        {
+          "nom": "Guillaume d’Ockham",
+          "contribution": "Il développe la 'logique du terme' et réfléchit à la signification des mots, posant les bases de la sémantique.",
+          "extrait": "\"Le signe doit signifier une chose, et non une autre.\" (Somme de logique, I, 1)"
+        }
+      ],
+      "usages_et_debats": "Débats sur le pouvoir du langage à exprimer le vrai, sur les ambiguïtés des mots, sur la possibilité de parler de Dieu ou des universaux.",
+      "changements_de_signification": "Le langage devient objet d’analyse logique et théologique, mais reste subordonné à la réalité et à la pensée.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Vérité",
+          "explication_lien": "Le langage doit exprimer la vérité, mais peut aussi tromper."
+        },
+        {
+          "notion": "Grammaire",
+          "explication_lien": "Étude des règles qui organisent le langage humain."
+        },
+        {
+          "notion": "Universaux",
+          "explication_lien": "Débat sur la capacité des mots à exprimer des réalités générales."
+        }
+      ]
+    },
+    {
+      "periode": "Âge classique (XVIIe - XVIIIe siècles)",
+      "description_generale": "Le langage devient objet d’analyse rationnelle, logique et scientifique. On s’interroge sur l’origine du langage, sa fonction dans la pensée, son rapport à la réalité. Les philosophes débattent de l’arbitraire du signe, de la possibilité d’une langue universelle, et du rôle du langage dans la formation des idées.",
+      "penseurs_cles": [
+        {
+          "nom": "René Descartes",
+          "contribution": "Il fait du langage un critère de l’humanité, opposant la parole humaine à la simple communication animale. Il souligne que le langage suppose la pensée.",
+          "extrait": "\"Il n’y a point d’homme si stupide qu’il ne sache arranger diverses paroles pour se faire entendre.\" (Discours de la méthode, V)"
+        },
+        {
+          "nom": "John Locke",
+          "contribution": "Il analyse le langage comme instrument de communication des idées. Il montre que les mots sont arbitraires et que leur sens dépend de la convention.",
+          "extrait": "\"Les mots, dans leur signification première, ne servent qu’à marquer les idées dans l’esprit de celui qui parle.\" (Essai sur l’entendement humain, III, 2)"
+        },
+        {
+          "nom": "Étienne Bonnot de Condillac",
+          "contribution": "Il pense que le langage est né du besoin de communiquer, et qu’il structure la pensée elle-même. L’origine du langage est liée à l’expérience.",
+          "extrait": "\"Il n’y a pas de pensée sans signes.\" (Essai sur l’origine des connaissances humaines, II, 1)"
+        }
+      ],
+      "usages_et_debats": "Débats sur l’origine du langage, sur la nature arbitraire ou naturelle du signe, sur la possibilité d’un langage universel, sur le rapport entre mots et idées.",
+      "changements_de_signification": "Le langage est vu comme instrument, convention, voire condition de la pensée elle-même.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Arbitraire du signe",
+          "explication_lien": "Le lien entre mot et chose n’est pas nécessaire mais conventionnel."
+        },
+        {
+          "notion": "Pensée",
+          "explication_lien": "Le langage exprime, structure, voire conditionne la pensée."
+        },
+        {
+          "notion": "Langue universelle",
+          "explication_lien": "Rêve d’un langage qui serait compris indépendamment des cultures."
+        }
+      ]
+    },
+    {
+      "periode": "Époque moderne (XIXe siècle)",
+      "description_generale": "Le langage devient objet d’étude scientifique avec la naissance de la linguistique. On analyse ses structures, ses lois, ses évolutions historiques. On s’intéresse aussi à la fonction du langage dans la création du sens, la poésie, la culture, la société.",
+      "penseurs_cles": [
+        {
+          "nom": "Wilhelm von Humboldt",
+          "contribution": "Il pense que chaque langue est une vision du monde, une forme de l’esprit collectif. Le langage n’est pas seulement instrument, mais créateur de réalité.",
+          "extrait": "\"Le langage n’est pas un produit, mais une activité, un faire permanent.\" (Introduction à l’œuvre sur la langue kavi, 1836)"
+        },
+        {
+          "nom": "Ferdinand de Saussure",
+          "contribution": "Il fonde la linguistique moderne, distingue la langue (système de signes) et la parole (usage individuel), et affirme l’arbitraire du signe.",
+          "extrait": "\"Dans la langue, il n’y a que des différences, sans termes positifs.\" (Cours de linguistique générale, II, 4)"
+        },
+        {
+          "nom": "Friedrich Nietzsche",
+          "contribution": "Il critique la croyance en un langage transparent : les mots ne sont que métaphores, interprétations du réel, jamais des reflets fidèles.",
+          "extrait": "\"La vérité n’est qu’une armée de métaphores.\" (Le Gai Savoir, §110)"
+        }
+      ],
+      "usages_et_debats": "Débats sur la structure du langage, sur sa capacité à refléter le réel, sur la diversité des langues, sur le langage comme pouvoir créateur.",
+      "changements_de_signification": "Le langage est vu comme système, structure, force créatrice de sens et de monde, et non plus simple instrument neutre.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Linguistique",
+          "explication_lien": "Science qui étudie les structures et les lois du langage."
+        },
+        {
+          "notion": "Système",
+          "explication_lien": "Le langage est un système de signes en relation."
+        },
+        {
+          "notion": "Vision du monde",
+          "explication_lien": "Chaque langue propose une manière singulière de voir et penser le monde."
+        }
+      ]
+    },
+    {
+      "periode": "Époque contemporaine (XXe-XXIe siècles)",
+      "description_generale": "Le langage devient question centrale en philosophie, en sciences humaines, en psychologie et en informatique. On l’étudie comme structure, jeu, pouvoir, outil de communication mais aussi de domination, de création d’identités et de mondes. On interroge ses limites, ses pathologies, sa matérialité et sa performativité.",
+      "penseurs_cles": [
+        {
+          "nom": "Ludwig Wittgenstein",
+          "contribution": "Il montre que le sens des mots dépend de leur usage dans des 'jeux de langage', et que le langage façonne nos formes de vie.",
+          "extrait": "\"La signification d’un mot, c’est son usage dans la langue.\" (Recherches philosophiques, §43)"
+        },
+        {
+          "nom": "Jacques Derrida",
+          "contribution": "Il met en lumière le caractère indéfiniment différé du sens dans le langage, la 'différance', et la déconstruction des oppositions classiques.",
+          "extrait": "\"Il n’y a pas de hors-texte.\" (De la grammatologie, 1967)"
+        },
+        {
+          "nom": "Noam Chomsky",
+          "contribution": "Il développe la théorie de la grammaire générative universelle : une structure profonde du langage serait innée, commune à tous les humains.",
+          "extrait": "\"Nous sommes des êtres dotés d’une faculté du langage universelle.\" (Aspects de la théorie syntaxique, 1965)"
+        },
+        {
+          "nom": "J.L. Austin",
+          "contribution": "Il analyse les actes de langage : parler, ce n’est pas seulement décrire, c’est aussi agir (promettre, ordonner, nommer, etc.).",
+          "extrait": "\"Dire, c’est faire.\" (Quand dire, c’est faire, 1962)"
+        }
+      ],
+      "usages_et_debats": "Débats sur la performativité du langage, ses usages sociaux et politiques, sur la diversité des jeux de langage, sur ses limites face à l’indicible, sur la possibilité ou l’impossibilité d’un langage universel.",
+      "changements_de_signification": "Le langage est vu comme pratique sociale, outil de pouvoir, structure ouverte, mais aussi comme espace de jeu, de création, de résistance ou de manipulation.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Jeux de langage",
+          "explication_lien": "Le langage varie selon les contextes et les usages sociaux."
+        },
+        {
+          "notion": "Performativité",
+          "explication_lien": "Le langage n’est pas seulement représentation, mais action."
+        },
+        {
+          "notion": "Différance",
+          "explication_lien": "Le sens dans le langage est toujours différé, jamais clos, selon Derrida."
+        },
+        {
+          "notion": "Grammaire universelle",
+          "explication_lien": "Hypothèse d’une structure commune à toutes les langues humaines."
+        }
+      ]
+    }
+  ],
+  "etymologie": "Le mot 'langage' vient du latin 'lingua', qui signifie langue, organe de la parole, puis par extension système de signes permettant la communication. En ancien français, 'langage' désigne la faculté de parler, puis l’ensemble des signes d’une langue, et enfin tout système de communication structuré. Aujourd’hui, il englobe autant la parole humaine que les langages informatiques, symboliques, artistiques ou animaux.",
+  "citations": [
+    {
+      "auteur": "Aristote",
+      "oeuvre": "Politiques",
+      "citation": "\"L’homme est le seul animal à posséder le langage, car le langage sert à exprimer le juste et l’injuste.\"",
+      "commentaire": "Aristote met en avant le langage comme fondement de la vie politique et morale."
+    },
+    {
+      "auteur": "John Locke",
+      "oeuvre": "Essai sur l’entendement humain",
+      "citation": "\"Les mots, dans leur signification première, ne servent qu’à marquer les idées dans l’esprit de celui qui parle.\"",
+      "commentaire": "Locke insiste sur la fonction du langage comme transmission d’idées et sur l’arbitraire du signe."
+    },
+    {
+      "auteur": "Ferdinand de Saussure",
+      "oeuvre": "Cours de linguistique générale",
+      "citation": "\"Dans la langue, il n’y a que des différences, sans termes positifs.\"",
+      "commentaire": "Saussure fonde la linguistique structurale en montrant que le langage repose sur un système de différences."
+    },
+    {
+      "auteur": "Ludwig Wittgenstein",
+      "oeuvre": "Recherches philosophiques",
+      "citation": "\"La signification d’un mot, c’est son usage dans la langue.\"",
+      "commentaire": "Wittgenstein fait du langage une activité sociale, un ensemble de pratiques partagées."
+    },
+    {
+      "auteur": "J.L. Austin",
+      "oeuvre": "Quand dire, c’est faire",
+      "citation": "\"Dire, c’est faire.\"",
+      "commentaire": "Austin montre que le langage n’est pas seulement descriptif, mais performatif : parler, c’est agir."
+    },
+    {
+      "auteur": "Jacques Derrida",
+      "oeuvre": "De la grammatologie",
+      "citation": "\"Il n’y a pas de hors-texte.\"",
+      "commentaire": "Derrida souligne que tout sens passe par le langage, qui structure notre rapport au monde."
+    }
+  ]
+}

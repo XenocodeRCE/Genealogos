@@ -1,0 +1,232 @@
+{
+  "periodes": [
+    {
+      "periode": "Antiquité",
+      "description_generale": "Le mot 'autrui' n’existe pas, mais la question de l’autre — l’étranger, le semblable, l’ami, l’ennemi — occupe une place centrale. Les philosophes se demandent comment vivre avec les autres, quelle est la nature du lien social, de la justice, de l’amitié, ou de la différence entre Grecs et Barbares. L’altérité est souvent pensée à travers la communauté ou la distinction entre soi et l’autre.",
+      "penseurs_cles": [
+        {
+          "nom": "Platon",
+          "contribution": "Il réfléchit à la justice comme harmonie entre les individus dans la cité, à la connaissance de soi par le dialogue avec autrui (maïeutique), et à la possibilité de l’amitié (philia).",
+          "extrait": "\"Nul n’est méchant volontairement.\" (Protagoras, 345d)"
+        },
+        {
+          "nom": "Aristote",
+          "contribution": "Il analyse l’amitié comme forme élevée de rapport à l’autre, fondée sur la vertu et la réciprocité, et pense l’homme comme un animal politique, fait pour vivre avec autrui.",
+          "extrait": "\"L’homme est par nature un animal politique.\" (Politiques, I, 2, 1253a)"
+        },
+        {
+          "nom": "Épictète / Les stoïciens",
+          "contribution": "Ils développent l’idée d’une fraternité universelle : tous les hommes sont citoyens du monde (cosmopolitisme) et doivent respect et bienveillance à autrui.",
+          "extrait": "\"Ce que tu ne veux pas qu’on te fasse, ne le fais pas à autrui.\" (Entretiens, I, 13)"
+        }
+      ],
+      "usages_et_debats": "Débats sur l’amitié, la justice, la place de l’étranger, l’empathie, la différence entre soi et les autres, la possibilité d’un lien universel.",
+      "changements_de_signification": "L’autre est pensé comme membre de la communauté, parfois comme étranger ou ennemi, parfois comme prochain ou ami.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Amitié (philia)",
+          "explication_lien": "Rapport privilégié à l’autre fondé sur la vertu et la réciprocité."
+        },
+        {
+          "notion": "Justice",
+          "explication_lien": "La justice concerne la relation juste à autrui dans la cité."
+        },
+        {
+          "notion": "Cosmopolitisme",
+          "explication_lien": "Idée stoïcienne d’une communauté universelle entre tous les humains."
+        }
+      ]
+    },
+    {
+      "periode": "Moyen Âge",
+      "description_generale": "L’autre est pensé à travers la notion de prochain, dans un contexte religieux et communautaire. Il s’agit d’aimer son prochain comme soi-même, d’accueillir l’étranger, de distinguer chrétien et païen, fidèle et hérétique. L’altérité prend un sens moral et spirituel.",
+      "penseurs_cles": [
+        {
+          "nom": "Saint Augustin",
+          "contribution": "Il insiste sur l’amour du prochain comme devoir chrétien, mais aussi sur la difficulté de vraiment aimer autrui en dehors de Dieu.",
+          "extrait": "\"Aime et fais ce que tu veux.\" (Homélies sur la Première Épître de Jean, VII, 8)"
+        },
+        {
+          "nom": "Thomas d’Aquin",
+          "contribution": "Il définit le prochain comme tout homme, justifiant la charité universelle, même envers l’ennemi.",
+          "extrait": "\"Aimer son prochain, c’est vouloir le bien de l’autre pour lui-même.\" (Somme théologique, II-II, q.23, a.1)"
+        }
+      ],
+      "usages_et_debats": "Débats sur la portée de la charité, sur l’amour des ennemis, sur la place de l’altérité dans la communauté chrétienne versus païenne.",
+      "changements_de_signification": "L’autre devient prochain, objet de charité et de devoir moral universel, mais la frontière avec l’étranger ou l’hérétique subsiste.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Prochain",
+          "explication_lien": "L’autre est celui que la morale chrétienne commande d’aimer."
+        },
+        {
+          "notion": "Charité",
+          "explication_lien": "L’amour d’autrui comme acte central de la morale chrétienne."
+        },
+        {
+          "notion": "Hospitalité",
+          "explication_lien": "Devoir d’accueillir l’étranger comme son prochain."
+        }
+      ]
+    },
+    {
+      "periode": "Âge classique (XVIIe - XVIIIe siècles)",
+      "description_generale": "La réflexion sur autrui s’intensifie : on s’interroge sur la connaissance de l’autre (problème des consciences), la sympathie, la pitié, la naissance de la société, l’origine de la morale. On commence à penser autrui comme miroir, rival, partenaire ou limite de la liberté individuelle.",
+      "penseurs_cles": [
+        {
+          "nom": "René Descartes",
+          "contribution": "Il pose le problème des autres consciences : comment savoir qu’autrui pense ? Il aborde la question du 'corps-machine' et du signe de la pensée chez l’autre.",
+          "extrait": "\"Je reconnais en autrui une âme à travers les signes qu’il me donne.\" (Lettre à Elisabeth, 21 mai 1643)"
+        },
+        {
+          "nom": "Jean-Jacques Rousseau",
+          "contribution": "Il valorise la pitié naturelle comme fondement du lien à autrui, avant la raison ou la société.",
+          "extrait": "\"La pitié est un sentiment naturel qui, modérant l’activité de l’amour de soi, concourt à la conservation mutuelle de l’espèce.\" (Discours sur l’origine de l’inégalité, I)"
+        },
+        {
+          "nom": "David Hume",
+          "contribution": "Il fait de la sympathie la base de la morale : la capacité à ressentir ce que vit autrui fonde l’empathie et la justice.",
+          "extrait": "\"La sympathie est la source de nos jugements moraux.\" (Traité de la nature humaine, III, III, 6)"
+        }
+      ],
+      "usages_et_debats": "Débats sur la possibilité de connaître autrui, sur la sympathie, la rivalité, le contrat social, la nature de la relation morale.",
+      "changements_de_signification": "Autrui devient un problème philosophique : source d’empathie, mais aussi d’aliénation ou de conflit.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Sympathie",
+          "explication_lien": "Capacité à ressentir les émotions d’autrui, base de la morale sentimentaliste."
+        },
+        {
+          "notion": "Pitié",
+          "explication_lien": "Sentiment fondamental envers la souffrance de l’autre."
+        },
+        {
+          "notion": "Conscience",
+          "explication_lien": "Le problème de l’existence d’autres consciences que la mienne."
+        }
+      ]
+    },
+    {
+      "periode": "Époque moderne (XIXe siècle)",
+      "description_generale": "Autrui devient objet d’analyse philosophique, existentielle et sociale : il apparaît comme rival, miroir, ou condition de l’identité de soi. On s’interroge sur l’aliénation, la reconnaissance, la lutte, l’intersubjectivité. Autrui est à la fois menace et condition de la liberté.",
+      "penseurs_cles": [
+        {
+          "nom": "Georg Wilhelm Friedrich Hegel",
+          "contribution": "Il pense la dialectique du maître et de l’esclave : autrui est ce par qui le moi se reconnaît, dans le conflit puis dans la reconnaissance réciproque.",
+          "extrait": "\"La conscience de soi n’atteint sa vérité qu’en trouvant une autre conscience de soi.\" (Phénoménologie de l’esprit, IV)"
+        },
+        {
+          "nom": "Søren Kierkegaard",
+          "contribution": "Il analyse l’angoisse devant le regard d’autrui, la difficulté d’entrer en relation vraie avec l’autre.",
+          "extrait": "\"Le prochain, c’est l’autre, mais aussi celui que je dois aimer comme moi-même.\" (Les Œuvres de l’amour, 1847)"
+        },
+        {
+          "nom": "Karl Marx",
+          "contribution": "Il analyse l’aliénation sociale : autrui peut devenir force d’oppression, mais aussi source de solidarité et d’émancipation.",
+          "extrait": "\"L’homme est, dans le sens le plus littéral, un animal social.\" (Manuscrits de 1844)"
+        }
+      ],
+      "usages_et_debats": "Débats sur la reconnaissance, le conflit, l’aliénation, la subjectivité, la nature du lien social.",
+      "changements_de_signification": "Autrui est pensé comme condition de l’identité, du conflit, de la liberté et de la reconnaissance.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Reconnaissance",
+          "explication_lien": "L’identité de soi passe par la reconnaissance d’autrui."
+        },
+        {
+          "notion": "Aliénation",
+          "explication_lien": "La relation à autrui peut devenir source de dépossession."
+        },
+        {
+          "notion": "Intersubjectivité",
+          "explication_lien": "La subjectivité se construit dans la relation à l’autre."
+        }
+      ]
+    },
+    {
+      "periode": "Époque contemporaine (XXe-XXIe siècles)",
+      "description_generale": "Autrui devient une notion centrale en phénoménologie, en éthique, en psychologie sociale et en philosophie politique. Il est pensé comme alter ego, comme visage, comme exigence éthique, comme sujet irréductible. La question de la responsabilité envers autrui, des rapports de pouvoir, de la diversité culturelle et du respect de la différence devient primordiale.",
+      "penseurs_cles": [
+        {
+          "nom": "Jean-Paul Sartre",
+          "contribution": "Il analyse autrui comme menace et miroir : 'le regard d’autrui me fait objet'. La relation à autrui est toujours tension entre liberté et objectivation.",
+          "extrait": "\"L’enfer, c’est les autres.\" (Huis clos, 1944)"
+        },
+        {
+          "nom": "Emmanuel Lévinas",
+          "contribution": "Il fait du visage d’autrui le fondement de l’éthique : autrui est irréductible, il m’appelle à la responsabilité et à la justice avant toute liberté.",
+          "extrait": "\"Le visage d’autrui m’oblige.\" (Totalité et infini, 1961)"
+        },
+        {
+          "nom": "Simone de Beauvoir",
+          "contribution": "Elle analyse la condition féminine et la relation à autrui comme construction sociale : 'On ne naît pas femme, on le devient', et l’autre est aussi une construction du regard et du pouvoir.",
+          "extrait": "\"L’autre, c’est d’abord l’autre sexe.\" (Le Deuxième Sexe, 1949)"
+        },
+        {
+          "nom": "Paul Ricœur",
+          "contribution": "Il réfléchit à la reconnaissance mutuelle et à la pluralité des identités dans la construction d’une société juste.",
+          "extrait": "\"Le soi ne devient lui-même que par l’autre.\" (Soi-même comme un autre, 1990)"
+        }
+      ],
+      "usages_et_debats": "Débats sur la responsabilité envers autrui, la question du visage, la pluralité, la différence, la domination, la reconnaissance, le respect, la justice.",
+      "changements_de_signification": "Autrui devient altérité irréductible, fondement de l’éthique, enjeu de justice et de reconnaissance, mais aussi source de conflits et de domination.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Responsabilité",
+          "explication_lien": "Lévinas fait de la responsabilité envers autrui la source de l’éthique."
+        },
+        {
+          "notion": "Visage",
+          "explication_lien": "Le visage d’autrui est signe d’une transcendance, d’une exigence de respect."
+        },
+        {
+          "notion": "Différence",
+          "explication_lien": "Autrui est pensé comme irréductible à soi, porteur de singularité."
+        },
+        {
+          "notion": "Reconnaissance",
+          "explication_lien": "La reconnaissance d’autrui fonde l’identité et la justice sociale."
+        }
+      ]
+    }
+  ],
+  "etymologie": "Le mot 'autrui' vient du latin 'alter huic', contraction de 'alter' (l’autre) et 'hui(c)' (à ce, à celui-ci), signifiant littéralement 'l’autre personne'. Il apparaît en ancien français sous la forme 'altrui' ou 'autrui', désignant 'l’autre', 'les autres', ou 'autre que soi'. Aujourd’hui, il désigne tout autre être humain, distinct du moi, et incarne la figure philosophique de l’altérité.",
+  "citations": [
+    {
+      "auteur": "Aristote",
+      "oeuvre": "Politiques",
+      "citation": "\"L’homme est par nature un animal politique.\"",
+      "commentaire": "Aristote pose la vie avec autrui comme condition de la réalisation humaine."
+    },
+    {
+      "auteur": "Saint Augustin",
+      "oeuvre": "Homélies sur la Première Épître de Jean",
+      "citation": "\"Aime et fais ce que tu veux.\"",
+      "commentaire": "Augustin fait de l’amour du prochain la base du rapport à autrui."
+    },
+    {
+      "auteur": "Jean-Jacques Rousseau",
+      "oeuvre": "Discours sur l’origine et les fondements de l’inégalité parmi les hommes",
+      "citation": "\"La pitié est un sentiment naturel qui, modérant l’activité de l’amour de soi, concourt à la conservation mutuelle de l’espèce.\"",
+      "commentaire": "Rousseau fait de la pitié envers autrui le fondement de la morale naturelle."
+    },
+    {
+      "auteur": "Georg Wilhelm Friedrich Hegel",
+      "oeuvre": "Phénoménologie de l’esprit",
+      "citation": "\"La conscience de soi n’atteint sa vérité qu’en trouvant une autre conscience de soi.\"",
+      "commentaire": "Hegel voit dans la relation à autrui la condition de la conscience de soi."
+    },
+    {
+      "auteur": "Jean-Paul Sartre",
+      "oeuvre": "Huis clos",
+      "citation": "\"L’enfer, c’est les autres.\"",
+      "commentaire": "Sartre met en lumière la tension entre liberté et regard d’autrui."
+    },
+    {
+      "auteur": "Emmanuel Lévinas",
+      "oeuvre": "Totalité et infini",
+      "citation": "\"Le visage d’autrui m’oblige.\"",
+      "commentaire": "Lévinas fait d’autrui le fondement de l’éthique et de la responsabilité."
+    }
+  ]
+}

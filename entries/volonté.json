@@ -1,0 +1,237 @@
+{
+  "periodes": [
+    {
+      "periode": "Antiquité",
+      "description_generale": "Le mot 'volonté' n’existe pas encore au sens moderne, mais les philosophes distinguent déjà la part rationnelle et la part désirante de l’âme. Ils réfléchissent à la maîtrise de soi, à la capacité de choisir et de se gouverner, à la différence entre simple désir et décision réfléchie.",
+      "penseurs_cles": [
+        {
+          "nom": "Platon",
+          "contribution": "Il distingue dans l’âme trois parties : la raison, le courage (thumos) et le désir (epithumia). La partie rationnelle doit gouverner les désirs, mais la notion de volonté comme puissance autonome est encore absente.",
+          "extrait": "\"Chacune de nos âmes comporte trois éléments : le désir, l’ardeur, et la raison.\" (La République, IV, 436a)"
+        },
+        {
+          "nom": "Aristote",
+          "contribution": "Il parle de 'prohairesis', la délibération volontaire, faculté de choisir en connaissance de cause. L’action morale résulte du choix réfléchi, plus que du simple désir.",
+          "extrait": "\"La vertu morale est celle qui se manifeste par le choix, déterminé par la raison.\" (Éthique à Nicomaque, II, 6, 1106b36)"
+        },
+        {
+          "nom": "Les stoïciens",
+          "contribution": "Ils introduisent l’idée d’assentiment intérieur ('sunkatathesis'), acte par lequel l’âme consent ou résiste, proche de la volonté comme pouvoir d’adhérer ou de refuser.",
+          "extrait": "\"Ce qui dépend de nous, c’est l’assentiment, le désir, l’impulsion, le refus.\" (Épictète, Manuel, 1)"
+        }
+      ],
+      "usages_et_debats": "Débats sur la maîtrise de soi, la liberté intérieure, la part de choix dans l’action morale, la capacité du sage à se gouverner.",
+      "changements_de_signification": "La volonté est pensée comme maîtrise rationnelle, comme capacité de choisir ou de refuser, mais n’est pas encore conçue comme faculté distincte ou toute-puissante.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Raison",
+          "explication_lien": "La volonté s’exerce sous la conduite de la raison, qui doit orienter les désirs."
+        },
+        {
+          "notion": "Maîtrise de soi",
+          "explication_lien": "La vertu consiste à dominer ses passions par la délibération."
+        },
+        {
+          "notion": "Choix (prohairesis)",
+          "explication_lien": "Le choix réfléchi, acte central de l’éthique aristotélicienne, annonce la réflexion sur la volonté."
+        }
+      ]
+    },
+    {
+      "periode": "Moyen Âge",
+      "description_generale": "La volonté ('voluntas' en latin) devient une notion centrale de la philosophie chrétienne. Elle est vue comme faculté spirituelle, capable de choisir librement entre le bien et le mal, distincte de l’intelligence et du désir. Le débat porte sur la liberté de la volonté et sa capacité à vouloir le bien.",
+      "penseurs_cles": [
+        {
+          "nom": "Saint Augustin",
+          "contribution": "Il fait de la volonté la faculté libre par laquelle l’homme se détourne du mal pour choisir Dieu. Il insiste sur la liberté intérieure et la responsabilité du choix.",
+          "extrait": "\"La volonté est la faculté qui nous fait vouloir ou ne pas vouloir.\" (Les Confessions, VIII, 9)"
+        },
+        {
+          "nom": "Thomas d’Aquin",
+          "contribution": "Il distingue l’intellect (qui connaît le bien) et la volonté (qui incline au bien connu), tout en affirmant que la volonté humaine est libre mais blessée par le péché.",
+          "extrait": "\"La volonté est appétit rationnel, elle suit la raison mais demeure libre.\" (Somme théologique, I-II, q.8, a.1)"
+        },
+        {
+          "nom": "Duns Scot",
+          "contribution": "Il radicalise la liberté de la volonté : la volonté n’est déterminée ni par l’intellect ni par le désir, elle est autonome et indéterminée.",
+          "extrait": "\"La volonté est maîtresse d’elle-même, indépendante de toute détermination extérieure.\" (Questions sur les Sentences, II, d.25)"
+        }
+      ],
+      "usages_et_debats": "Débats sur la liberté de la volonté (libre arbitre), sur la primauté de la volonté ou de l’intellect, sur la capacité à vouloir le bien malgré le péché.",
+      "changements_de_signification": "La volonté devient une faculté spirituelle, principe de responsabilité morale et de liberté, mais aussi lieu de lutte entre bien et mal.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Libre arbitre",
+          "explication_lien": "La volonté est libre et responsable de ses choix."
+        },
+        {
+          "notion": "Intellect",
+          "explication_lien": "La volonté s’oriente vers le bien tel qu’il est connu par l’intellect."
+        },
+        {
+          "notion": "Péché",
+          "explication_lien": "La volonté est blessée par le péché mais appelée à se redresser par la grâce."
+        }
+      ]
+    },
+    {
+      "periode": "Âge classique (XVIIe - XVIIIe siècles)",
+      "description_generale": "La volonté devient objet d’analyse psychologique, morale et métaphysique. On s’interroge sur son autonomie, sa puissance, ses rapports avec la raison, le désir, les passions. Certains la voient comme faculté souveraine, d’autres insistent sur ses limites.",
+      "penseurs_cles": [
+        {
+          "nom": "René Descartes",
+          "contribution": "Il fait de la volonté l’une des deux facultés fondamentales (avec l’entendement) : la volonté est illimitée, libre de consentir ou de refuser, mais peut se tromper si elle juge sans comprendre.",
+          "extrait": "\"La volonté est si grande en moi qu’elle n’est point plus grande en Dieu.\" (Méditations métaphysiques, IV)"
+        },
+        {
+          "nom": "Baruch Spinoza",
+          "contribution": "Il critique l’illusion du libre arbitre. Pour lui, la volonté n’est qu’un mode de l’esprit, déterminée par des causes extérieures ou intérieures.",
+          "extrait": "\"Les hommes se croient libres parce qu’ils sont conscients de leurs actions, mais ignorants des causes qui les déterminent.\" (Éthique, II, scolie de la proposition 35)"
+        },
+        {
+          "nom": "John Locke",
+          "contribution": "Il distingue la volonté (pouvoir de décider) et le désir (tendance à rechercher un plaisir). La volonté est la faculté de choisir une action, mais elle est influencée par les motifs et les passions.",
+          "extrait": "\"La volonté est le pouvoir de commencer, de poursuivre ou de suspendre un mouvement du corps ou de l’esprit.\" (Essai sur l’entendement humain, II, XXI, §5)"
+        }
+      ],
+      "usages_et_debats": "Débats sur la liberté de la volonté, son rapport aux passions et à la raison, sur la distinction entre vouloir et désirer, sur la responsabilité morale.",
+      "changements_de_signification": "La volonté devient le centre de l’autonomie morale, mais sa liberté est remise en question par le déterminisme naturel ou psychologique.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Libre arbitre",
+          "explication_lien": "La question centrale : la volonté est-elle vraiment libre ?"
+        },
+        {
+          "notion": "Passions",
+          "explication_lien": "La volonté doit résister ou composer avec les passions."
+        },
+        {
+          "notion": "Déterminisme",
+          "explication_lien": "Spinoza remet en cause la liberté absolue de la volonté."
+        }
+      ]
+    },
+    {
+      "periode": "Époque moderne (XIXe siècle)",
+      "description_generale": "La volonté est explorée comme force psychique, sociale, vitale. On s’interroge sur sa place dans l’action, la morale, la création, la lutte contre les déterminismes. Elle devient aussi objet de soupçon, de critique, de dépassement.",
+      "penseurs_cles": [
+        {
+          "nom": "Arthur Schopenhauer",
+          "contribution": "Il fait de la volonté la force fondamentale, irrationnelle, qui anime tout l’univers ('volonté de vivre'). Le sujet humain doit apprendre à connaître, puis à nier cette volonté pour échapper à la souffrance.",
+          "extrait": "\"Le monde est ma représentation, mais il est aussi volonté.\" (Le Monde comme volonté et comme représentation, I, §1)"
+        },
+        {
+          "nom": "Friedrich Nietzsche",
+          "contribution": "Il propose la 'volonté de puissance' comme force créatrice, affirmation de soi, moteur de la vie et de la valeur.",
+          "extrait": "\"Le monde est la volonté de puissance – et rien d’autre !\" (Par-delà bien et mal, §36)"
+        },
+        {
+          "nom": "William James",
+          "contribution": "Il analyse la volonté comme capacité de fixer l’attention, de choisir et de persévérer malgré les obstacles. Il insiste sur la part active et pratique de la volonté.",
+          "extrait": "\"La volonté, c’est la faculté de faire attention à une idée parmi d’autres, et de la retenir.\" (Principes de psychologie, 1890)"
+        }
+      ],
+      "usages_et_debats": "Débats sur la volonté comme force aveugle ou créatrice, sur son rôle dans l’histoire, la vie psychique, la morale, la maladie (hystérie, faiblesse de la volonté).",
+      "changements_de_signification": "La volonté passe d’une faculté rationnelle à une force vitale, irrationnelle, ou à une capacité d’action pratique.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Volonté de vivre",
+          "explication_lien": "Chez Schopenhauer, la volonté anime toute chose, source de souffrance et de création."
+        },
+        {
+          "notion": "Volonté de puissance",
+          "explication_lien": "Chez Nietzsche, la volonté est énergie créatrice, dépassement de soi."
+        },
+        {
+          "notion": "Liberté",
+          "explication_lien": "La volonté est liée à la capacité d’agir, de choisir, de se dépasser."
+        }
+      ]
+    },
+    {
+      "periode": "Époque contemporaine (XXe-XXIe siècles)",
+      "description_generale": "La volonté est questionnée dans ses limites, ses déterminations sociales, biologiques, inconscientes. On interroge sa réalité face à l’inconscient (Freud), à l’habitude (Bergson), à la société (Bourdieu). Elle est aussi repensée dans ses dimensions collectives, politiques, éthiques (volonté générale, volonté collective, empowerment).",
+      "penseurs_cles": [
+        {
+          "nom": "Sigmund Freud",
+          "contribution": "Il analyse la volonté comme façade du moi, traversée par des forces inconscientes (désir, pulsion, refoulement). La volonté consciente n’est jamais totalement maîtresse d’elle-même.",
+          "extrait": "\"Le moi n’est pas maître dans sa propre maison.\" (Introduction à la psychanalyse, 1916)"
+        },
+        {
+          "nom": "Simone Weil",
+          "contribution": "Elle critique la volonté comme illusion de toute-puissance, et valorise l’attention, la réception, la disponibilité à l’autre et au réel.",
+          "extrait": "\"La volonté n’est qu’un effort aveugle. L’attention seule est créatrice.\" (La Pesanteur et la grâce, 1947)"
+        },
+        {
+          "nom": "Pierre Bourdieu",
+          "contribution": "Il montre que les choix et les actes volontaires sont largement déterminés par l’habitus social, les structures de pouvoir, les attentes collectives.",
+          "extrait": "\"La liberté n’est jamais donnée, elle est toujours à conquérir contre la force de l’habitus.\" (Le Sens pratique, 1980)"
+        },
+        {
+          "nom": "Hannah Arendt",
+          "contribution": "Elle analyse la volonté politique comme capacité collective à commencer, à instituer, à agir en commun (volonté générale, révolution, action politique).",
+          "extrait": "\"La volonté est la faculté de commencer quelque chose de nouveau.\" (La Vie de l’esprit, II, 1978)"
+        }
+      ],
+      "usages_et_debats": "Débats sur la réalité et les limites de la volonté individuelle, sur la volonté collective, l’auto-détermination, l’empowerment, la résistance à l’aliénation sociale ou inconsciente.",
+      "changements_de_signification": "La volonté est pluralisée, relativisée, déconstruite ; elle n’est plus une pure puissance autonome mais une faculté située, traversée par des déterminismes, mais aussi capable de nouveauté et de résistance.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Inconscient",
+          "explication_lien": "La volonté est traversée par des forces qui lui échappent."
+        },
+        {
+          "notion": "Habitus",
+          "explication_lien": "Les choix volontaires sont influencés par la culture et la société."
+        },
+        {
+          "notion": "Empowerment",
+          "explication_lien": "La volonté collective est vue comme force de transformation sociale et politique."
+        },
+        {
+          "notion": "Attention",
+          "explication_lien": "Simone Weil oppose la véritable ouverture au monde à l’effort volontaire."
+        }
+      ]
+    }
+  ],
+  "etymologie": "Le mot 'volonté' vient du latin 'voluntas', dérivé de 'velle' (vouloir). Chez les Romains, 'voluntas' désigne la disposition à vouloir, l’intention, le choix, la décision. En français, 'volonté' apparaît au XIIe siècle pour désigner la capacité de vouloir, la puissance d’agir par décision propre, puis s’étend à l’intention, au souhait, à la détermination morale. Aujourd’hui, le terme recouvre la force intérieure qui pousse à agir, la liberté de choisir, mais aussi les déterminations inconscientes ou collectives de l’action.",
+  "citations": [
+    {
+      "auteur": "Aristote",
+      "oeuvre": "Éthique à Nicomaque",
+      "citation": "\"La vertu morale est celle qui se manifeste par le choix, déterminé par la raison.\"",
+      "commentaire": "Aristote place la volonté dans le choix réfléchi et rationnel, fondement de l’éthique."
+    },
+    {
+      "auteur": "Saint Augustin",
+      "oeuvre": "Les Confessions",
+      "citation": "\"La volonté est la faculté qui nous fait vouloir ou ne pas vouloir.\"",
+      "commentaire": "Augustin fait de la volonté le principe du choix moral et de la liberté."
+    },
+    {
+      "auteur": "René Descartes",
+      "oeuvre": "Méditations métaphysiques",
+      "citation": "\"La volonté est si grande en moi qu’elle n’est point plus grande en Dieu.\"",
+      "commentaire": "Descartes insiste sur la puissance illimitée de la volonté humaine, source de liberté mais aussi d’erreur."
+    },
+    {
+      "auteur": "Arthur Schopenhauer",
+      "oeuvre": "Le Monde comme volonté et comme représentation",
+      "citation": "\"Le monde est ma représentation, mais il est aussi volonté.\"",
+      "commentaire": "Schopenhauer fait de la volonté la force irrationnelle à l’œuvre dans l’univers et la vie humaine."
+    },
+    {
+      "auteur": "Sigmund Freud",
+      "oeuvre": "Introduction à la psychanalyse",
+      "citation": "\"Le moi n’est pas maître dans sa propre maison.\"",
+      "commentaire": "Freud remet en cause l’illusion d’une volonté consciente et toute-puissante."
+    },
+    {
+      "auteur": "Simone Weil",
+      "oeuvre": "La Pesanteur et la grâce",
+      "citation": "\"La volonté n’est qu’un effort aveugle. L’attention seule est créatrice.\"",
+      "commentaire": "Simone Weil critique la volonté comme illusion de maîtrise et valorise l’attention comme ouverture vraie au réel."
+    }
+  ]
+}

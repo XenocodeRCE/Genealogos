@@ -1,0 +1,238 @@
+{
+  "periodes": [
+    {
+      "periode": "Antiquité",
+      "description_generale": "Le mot 'corps' existe, mais il n’est pas encore un concept abstrait étudié pour lui-même. Les philosophes s’interrogent sur la relation entre le corps et l’âme, sur la nature matérielle de l’homme, sur la santé et la maladie, sur le mouvement et la perception. Le corps est souvent vu comme lieu d’opposition ou de hiérarchie avec l’âme.",
+      "penseurs_cles": [
+        {
+          "nom": "Platon",
+          "contribution": "Il oppose radicalement le corps (prison de l’âme, source de passions et d’illusions) à l’âme (immortelle, rationnelle). Le corps est un obstacle à la connaissance et à la vie véritable.",
+          "extrait": "\"Le corps est pour nous un mal, et il faut nous en délivrer autant que possible.\" (Phédon, 66b)"
+        },
+        {
+          "nom": "Aristote",
+          "contribution": "Il pense le corps et l’âme comme deux aspects d’un même être vivant : l’âme est la forme du corps, ce qui l’anime. Le corps est donc indissociable de la vie.",
+          "extrait": "\"L’âme est la forme d’un corps naturel ayant la vie en puissance.\" (De l’âme, II, 1, 412a)"
+        },
+        {
+          "nom": "Les stoïciens",
+          "contribution": "Ils développent une conception matérielle de tout ce qui existe, y compris l’âme. Le corps est le mode d’existence de la matière, mais peut être discipliné par la raison.",
+          "extrait": "\"Tout ce qui existe est corporel.\" (Sextus Empiricus, Esquisses pyrrhoniennes, II, 79)"
+        }
+      ],
+      "usages_et_debats": "Débats sur la place du corps par rapport à l’âme, sur la hiérarchie entre matière et esprit, sur le rôle du corps dans la connaissance, la passion, la maladie.",
+      "changements_de_signification": "Le corps oscille entre statut dévalorisé (prison de l’âme) et condition positive de la vie et de la sensibilité.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Âme",
+          "explication_lien": "La grande question est la relation entre le corps et l’âme, leur union ou séparation."
+        },
+        {
+          "notion": "Matière",
+          "explication_lien": "Le corps, c’est l’aspect matériel de l’homme et de la nature."
+        },
+        {
+          "notion": "Santé/maladie",
+          "explication_lien": "Le corps est étudié aussi par la médecine, comme siège de forces naturelles."
+        }
+      ]
+    },
+    {
+      "periode": "Moyen Âge",
+      "description_generale": "Le corps est pensé dans le cadre chrétien, comme création de Dieu mais aussi comme lieu du péché, de la tentation et de la souffrance. On s’interroge sur la résurrection des corps, sur la place du corps dans la spiritualité et la morale, sur la hiérarchie entre vie corporelle et vie spirituelle.",
+      "penseurs_cles": [
+        {
+          "nom": "Saint Augustin",
+          "contribution": "Il voit le corps comme bon en soi (créé par Dieu), mais corrompu par le péché originel. Le salut passe par la maîtrise du corps.",
+          "extrait": "\"Le corps, bien que corruptible, n’est pas mauvais, car il est l’œuvre de Dieu.\" (La Cité de Dieu, XIV, 3)"
+        },
+        {
+          "nom": "Thomas d’Aquin",
+          "contribution": "Il affirme que l’homme est une unité de corps et d’âme. Le corps est nécessaire à la vie humaine, mais doit être ordonné à la raison et à la foi.",
+          "extrait": "\"L’âme et le corps forment un seul et même être.\" (Somme théologique, I, q.75, a.4)"
+        }
+      ],
+      "usages_et_debats": "Débats sur la résurrection du corps, sur la dignité du corps, sur la chasteté, la souffrance, la place du corps dans la morale chrétienne.",
+      "changements_de_signification": "Le corps est réhabilité comme créature de Dieu, mais reste subordonné à l’âme et marqué par la chute.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Péché",
+          "explication_lien": "Le corps est parfois vu comme source de tentations et de péchés."
+        },
+        {
+          "notion": "Résurrection",
+          "explication_lien": "Débat majeur sur le retour du corps à la fin des temps."
+        },
+        {
+          "notion": "Ascèse",
+          "explication_lien": "La maîtrise du corps est centrale dans la spiritualité chrétienne."
+        }
+      ]
+    },
+    {
+      "periode": "Âge classique (XVIIe - XVIIIe siècles)",
+      "description_generale": "Le corps devient objet de science, de réflexion philosophique et de critique. On le pense comme machine, comme objet d’observation, comme lieu des passions, ou encore comme obstacle à la raison. Le dualisme entre corps et esprit est formulé explicitement.",
+      "penseurs_cles": [
+        {
+          "nom": "René Descartes",
+          "contribution": "Il pose la distinction radicale entre le corps (substance étendue, mécanique) et l’esprit (substance pensante). Le corps fonctionne comme une machine.",
+          "extrait": "\"Je connus que j’étais une substance dont toute l’essence ou la nature n’est que de penser, et qui, pour être, n’a besoin d’aucun lieu ni ne dépend d’aucune chose matérielle.\" (Discours de la méthode, IV)"
+        },
+        {
+          "nom": "Baruch Spinoza",
+          "contribution": "Il refuse le dualisme et pense le corps et l’esprit comme deux aspects d’une même réalité. Le corps a des lois propres et une puissance d’agir.",
+          "extrait": "\"L’esprit et le corps sont une seule et même chose, conçue tantôt sous l’attribut de la pensée, tantôt sous celui de l’étendue.\" (Éthique, III, scolie de la proposition 2)"
+        },
+        {
+          "nom": "La Mettrie",
+          "contribution": "Il défend un matérialisme radical : l’homme est une machine complexe, et le corps explique toutes les fonctions humaines.",
+          "extrait": "\"L’homme n’est qu’une machine.\" (L’Homme machine, 1747)"
+        }
+      ],
+      "usages_et_debats": "Débats sur le dualisme, le matérialisme, la possibilité d’une science du corps, la place du corps dans la morale et la connaissance.",
+      "changements_de_signification": "Le corps devient objet d’étude scientifique, mais aussi enjeu philosophique : machine, puissance, ou obstacle.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Dualisme",
+          "explication_lien": "Distinction radicale entre corps et esprit (Descartes)."
+        },
+        {
+          "notion": "Matérialisme",
+          "explication_lien": "Le corps est tout, l’esprit n’est qu’une fonction du corps."
+        },
+        {
+          "notion": "Passions",
+          "explication_lien": "Le corps est le siège des passions qui influencent l’âme."
+        }
+      ]
+    },
+    {
+      "periode": "Époque moderne (XIXe siècle)",
+      "description_generale": "Le corps est étudié dans ses dimensions biologiques, psychologiques et sociales. Il devient terrain d’expérimentation scientifique (médecine, physiologie), mais aussi d’interrogation sur la sexualité, la maladie, la normalité. On commence à voir le corps comme porteur d’histoire, de symboles, de marques sociales.",
+      "penseurs_cles": [
+        {
+          "nom": "Charles Darwin",
+          "contribution": "Il inscrit le corps humain dans l’histoire évolutive des espèces, expliquant sa structure par la sélection naturelle.",
+          "extrait": "\"La structure de chaque être est le produit de l’évolution.\" (De l’origine des espèces, 1859)"
+        },
+        {
+          "nom": "Friedrich Nietzsche",
+          "contribution": "Il réhabilite le corps comme source de la pensée, de la créativité, de la puissance vitale. Le corps est volonté de puissance.",
+          "extrait": "\"Il faut apprendre à penser avec le corps et non contre lui.\" (Ainsi parlait Zarathoustra, II, De la lecture et de l’écriture)"
+        },
+        {
+          "nom": "Sigmund Freud",
+          "contribution": "Il fait du corps le siège de la libido, des pulsions et de l’inconscient. Les symptômes psychiques s’expriment à travers le corps.",
+          "extrait": "\"Le moi est avant tout un moi corporel.\" (Le Moi et le Ça, 1923)"
+        }
+      ],
+      "usages_et_debats": "Débats sur l’origine naturelle du corps, sur le corps comme ensemble de pulsions, sur la médicalisation et la normalisation des corps, sur la sexualité.",
+      "changements_de_signification": "Le corps devient porteur d’histoire, de désir, d’inconscient, de normes sociales.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Évolution",
+          "explication_lien": "Le corps humain est un produit de l’histoire naturelle."
+        },
+        {
+          "notion": "Inconscient",
+          "explication_lien": "Le corps exprime des désirs et des conflits inconscients."
+        },
+        {
+          "notion": "Sexualité",
+          "explication_lien": "Le corps est le lieu du désir, de la norme, du tabou."
+        }
+      ]
+    },
+    {
+      "periode": "Époque contemporaine (XXe-XXIe siècles)",
+      "description_generale": "Le corps est pensé comme construction sociale, politique, culturelle, et comme expérience vécue. On s’intéresse au corps vécu, au corps genré, au corps souffrant, au corps performant, au corps transformé par la technique. Le corps devient enjeu de luttes, de revendications, d’identités et de nouvelles technologies.",
+      "penseurs_cles": [
+        {
+          "nom": "Maurice Merleau-Ponty",
+          "contribution": "Il fait du corps le centre de l’expérience : le corps n’est pas un objet, mais le lieu même de la perception et du rapport au monde.",
+          "extrait": "\"Je ne suis pas devant mon corps, je suis dans mon corps et mon corps est en moi.\" (Phénoménologie de la perception, 1945)"
+        },
+        {
+          "nom": "Michel Foucault",
+          "contribution": "Il étudie le corps comme cible du pouvoir, de la discipline, de la normalisation. Le corps est façonné par les institutions, les discours, les normes sociales.",
+          "extrait": "\"Le corps est investi de relations de pouvoir.\" (Surveiller et punir, 1975)"
+        },
+        {
+          "nom": "Judith Butler",
+          "contribution": "Elle analyse le corps comme construction de genre : le corps n’est pas donné, il est produit par des normes sociales et des pratiques répétées.",
+          "extrait": "\"Le corps n’est pas un être, mais un devenir, une construction sociale.\" (Trouble dans le genre, 1990)"
+        },
+        {
+          "nom": "Donna Haraway",
+          "contribution": "Elle réfléchit au 'cyborg' : le corps transformé par la technique, brouillant les frontières entre nature, culture et machine.",
+          "extrait": "\"Nous sommes tous des cyborgs.\" (Le Manifeste cyborg, 1985)"
+        }
+      ],
+      "usages_et_debats": "Débats sur le corps comme territoire du pouvoir, sur la médicalisation, sur le genre, la sexualité, le handicap, le transhumanisme, le corps augmenté ou souffrant.",
+      "changements_de_signification": "Le corps est pensé comme lieu d’identité, de résistance, de transformation, d’expérience et de lutte sociale.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Corps vécu",
+          "explication_lien": "L’expérience du corps par le sujet est au centre de la phénoménologie."
+        },
+        {
+          "notion": "Pouvoir",
+          "explication_lien": "Le corps est façonné par les normes et les institutions."
+        },
+        {
+          "notion": "Genre",
+          "explication_lien": "Le corps est une construction sociale et culturelle, non seulement biologique."
+        },
+        {
+          "notion": "Cyborg",
+          "explication_lien": "Le corps peut être transformé, augmenté, hybridé par la technique."
+        }
+      ]
+    }
+  ],
+  "etymologie": "Le mot 'corps' vient du latin 'corpus', qui signifie d’abord 'ensemble organisé', puis par extension 'corps humain', 'corps vivant', 'corps matériel'. En français, il désigne à la fois la totalité organisée d’un être vivant, la matière physique, et par extension un groupe organisé (corps social, corps enseignant). Aujourd’hui, il recouvre l’ensemble des dimensions biologique, vécue, sociale et symbolique du corps humain.",
+  "citations": [
+    {
+      "auteur": "Platon",
+      "oeuvre": "Phédon",
+      "citation": "\"Le corps est pour nous un mal, et il faut nous en délivrer autant que possible.\"",
+      "commentaire": "Platon valorise l’âme et considère le corps comme source d’illusion et d’entrave à la connaissance."
+    },
+    {
+      "auteur": "Aristote",
+      "oeuvre": "De l’âme",
+      "citation": "\"L’âme est la forme d’un corps naturel ayant la vie en puissance.\"",
+      "commentaire": "Aristote pense l’unité du corps et de l’âme comme principe de la vie."
+    },
+    {
+      "auteur": "René Descartes",
+      "oeuvre": "Discours de la méthode",
+      "citation": "\"Je connus que j’étais une substance dont toute l’essence ou la nature n’est que de penser, et qui, pour être, n’a besoin d’aucun lieu ni ne dépend d’aucune chose matérielle.\"",
+      "commentaire": "Descartes affirme la séparation radicale entre le corps (machine) et l’esprit (pensée)."
+    },
+    {
+      "auteur": "La Mettrie",
+      "oeuvre": "L’Homme machine",
+      "citation": "\"L’homme n’est qu’une machine.\"",
+      "commentaire": "La Mettrie défend un matérialisme radical où tout s’explique par le corps."
+    },
+    {
+      "auteur": "Sigmund Freud",
+      "oeuvre": "Le Moi et le Ça",
+      "citation": "\"Le moi est avant tout un moi corporel.\"",
+      "commentaire": "Freud souligne que la personnalité et la psyché s’enracinent dans le corps."
+    },
+    {
+      "auteur": "Maurice Merleau-Ponty",
+      "oeuvre": "Phénoménologie de la perception",
+      "citation": "\"Je ne suis pas devant mon corps, je suis dans mon corps et mon corps est en moi.\"",
+      "commentaire": "Merleau-Ponty fait du corps le fondement de l’expérience et du rapport au monde."
+    },
+    {
+      "auteur": "Michel Foucault",
+      "oeuvre": "Surveiller et punir",
+      "citation": "\"Le corps est investi de relations de pouvoir.\"",
+      "commentaire": "Foucault montre que le corps est façonné, discipliné, contrôlé par la société."
+    }
+  ]
+}
