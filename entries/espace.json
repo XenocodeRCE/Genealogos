@@ -1,0 +1,222 @@
+{
+  "periodes": [
+    {
+      "periode": "Antiquité",
+      "description_generale": "L’idée d’espace n’est pas encore abstraite ni universelle : les philosophes s’interrogent sur le lieu ('topos' en grec), le vide, l’étendue et la place des choses dans le monde. On pense l’espace à partir du mouvement, de la limite, de la relation entre les corps, sans le traiter comme une réalité indépendante.",
+      "penseurs_cles": [
+        {
+          "nom": "Platon",
+          "contribution": "Il introduit le concept de 'chôra' dans le Timée : un réceptacle, un lieu, qui accueille et rend possible la formation des choses sensibles, sans être lui-même une substance.",
+          "extrait": "\"Il faut admettre un troisième genre, le réceptacle, qui reçoit toutes choses et qui n’a d’autre qualité que d’être le siège de tout ce qui naît.\" (Timée, 52a)"
+        },
+        {
+          "nom": "Aristote",
+          "contribution": "Il définit l’espace ('topos') comme le lieu, c’est-à-dire la limite immobile du contenant par rapport au contenu. Pour lui, il n’y a pas d’espace vide.",
+          "extrait": "\"Le lieu est la limite immobile de ce qui contient.\" (Physique, IV, 212a)"
+        },
+        {
+          "nom": "Les atomistes (Démocrite, Épicure)",
+          "contribution": "Ils soutiennent l’existence du vide ('kenon'), condition du mouvement des atomes. Le vide est un espace, mais il n’a d’existence que pour permettre les déplacements.",
+          "extrait": "\"Le vide existe, c’est-à-dire l’espace sans corps, où les atomes se meuvent.\" (Lettre à Hérodote, Épicure)"
+        }
+      ],
+      "usages_et_debats": "Débats sur la possibilité du vide, la nature du lieu, la différence entre l’espace rempli et l’espace vide, le rapport entre espace, mouvement et corps.",
+      "changements_de_signification": "L’espace n’est pas encore conçu comme un contenant neutre, mais comme une relation entre les corps, ou un réceptacle mystérieux.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Lieu (topos)",
+          "explication_lien": "L’espace est pensé à partir de la notion de lieu, position relative des choses."
+        },
+        {
+          "notion": "Vide",
+          "explication_lien": "La question du vide est centrale dans la pensée de l’espace."
+        },
+        {
+          "notion": "Mouvement",
+          "explication_lien": "L’espace est lié à la possibilité pour les corps de se mouvoir."
+        }
+      ]
+    },
+    {
+      "periode": "Moyen Âge",
+      "description_generale": "L’espace est discuté dans le cadre de la cosmologie chrétienne : il est ordonné par Dieu, fini, hiérarchisé (cieux, terre, enfers). On reprend les débats antiques sur le vide, mais la création divine donne une limite à l’espace. L’espace n’est pas infini ni homogène.",
+      "penseurs_cles": [
+        {
+          "nom": "Saint Augustin",
+          "contribution": "Il s’oppose à l’idée d’un espace existant indépendamment de Dieu. Pour lui, l’espace et le temps commencent avec la Création.",
+          "extrait": "\"Avant la Création, ni le temps ni le lieu n’existaient.\" (Confessions, XI, 13)"
+        },
+        {
+          "nom": "Thomas d’Aquin",
+          "contribution": "Il reprend Aristote pour penser l’espace comme le lieu, mais affirme que Dieu peut agir en dehors des lois naturelles, et que le monde a une limite.",
+          "extrait": "\"Le lieu n’existe pas sans corps, et l’espace n’est pas infini.\" (Somme théologique, I, q.46, a.1)"
+        }
+      ],
+      "usages_et_debats": "Débats sur le rapport entre espace et Création, sur le statut du vide, sur la possibilité d’un espace infini ou d’autres mondes.",
+      "changements_de_signification": "L’espace est subordonné à l’ordre divin, limité, structuré en régions hiérarchiques.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Création",
+          "explication_lien": "L’espace est pensé comme créé par Dieu, limité et ordonné."
+        },
+        {
+          "notion": "Cosmologie",
+          "explication_lien": "L’organisation de l’espace reflète l’ordre du monde et du salut."
+        },
+        {
+          "notion": "Lieu",
+          "explication_lien": "On conserve la notion aristotélicienne du lieu comme déterminant de l’espace."
+        }
+      ]
+    },
+    {
+      "periode": "Âge classique (XVIIe - XVIIIe siècles)",
+      "description_generale": "L’espace devient un concept central de la physique moderne. Il est pensé comme étendue homogène, infinie, neutre et mathématisable. Il n’est plus seulement le lieu des choses, mais un cadre universel, indépendant des corps, dans lequel se situent tous les phénomènes.",
+      "penseurs_cles": [
+        {
+          "nom": "René Descartes",
+          "contribution": "Il identifie l’espace (étendue) à la substance même de la matière : il n’y a pas de vide, tout espace est rempli par la matière.",
+          "extrait": "\"L’essence de la matière consiste en l’étendue.\" (Principes de la philosophie, II, 11)"
+        },
+        {
+          "nom": "Isaac Newton",
+          "contribution": "Il conçoit l’espace comme un contenant absolu, infini, dans lequel les corps se déplacent. L’espace existe indépendamment des objets qu’il contient.",
+          "extrait": "\"L’espace absolu, de sa nature, sans relation aux choses extérieures, demeure toujours semblable et immobile.\" (Principia Mathematica, Scholium)"
+        },
+        {
+          "nom": "Gottfried Wilhelm Leibniz",
+          "contribution": "Il s’oppose à Newton : pour lui, l’espace est relatif, il n’est que l’ordre des relations entre les choses, une sorte de réseau de positions.",
+          "extrait": "\"L’espace n’est rien d’autre qu’un ordre des situations entre les objets.\" (Correspondance avec Clarke, Lettre V)"
+        }
+      ],
+      "usages_et_debats": "Débats sur la réalité de l’espace absolu ou relatif, sur l’existence du vide, sur la nature géométrique et mathématique de l’espace.",
+      "changements_de_signification": "L’espace devient infini, homogène, cadre universel des phénomènes naturels, distinct du lieu ou du réceptacle antique.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Étendue",
+          "explication_lien": "Chez Descartes, l’étendue est l’essence de la matière, donc de l’espace."
+        },
+        {
+          "notion": "Absolu/Relatif",
+          "explication_lien": "Newton défend l’espace absolu, Leibniz l’espace relatif."
+        },
+        {
+          "notion": "Physique mathématique",
+          "explication_lien": "L’espace devient objet de mesure, de calcul, de représentation géométrique."
+        }
+      ]
+    },
+    {
+      "periode": "Époque moderne (XIXe siècle)",
+      "description_generale": "L’espace est repensé à travers les progrès des mathématiques (géométries non euclidiennes), de la physique (champ, force, énergie) et de la philosophie (conditions de l’expérience). On remet en cause l’évidence de l’espace unique et homogène.",
+      "penseurs_cles": [
+        {
+          "nom": "Carl Friedrich Gauss / Lobatchevski / Riemann",
+          "contribution": "Ils inventent les géométries non euclidiennes : il existe des espaces courbes, multiples, qui remettent en question l’unicité de l’espace.",
+          "extrait": "\"L’espace peut être non-euclidien, selon la structure des parallèles.\" (Géométrie non euclidienne, début XIXe siècle)"
+        },
+        {
+          "nom": "Immanuel Kant",
+          "contribution": "Il fait de l’espace une forme a priori de la sensibilité : l’espace n’existe pas en soi, il est la condition subjective de toute expérience extérieure.",
+          "extrait": "\"L’espace n’est pas un concept empirique, mais une forme pure de l’intuition sensible.\" (Critique de la raison pure, Esthétique transcendantale)"
+        }
+      ],
+      "usages_et_debats": "Débats sur la nature empirique ou transcendantale de l’espace, sur la pluralité des géométries, sur la possibilité de concevoir d’autres espaces que celui de l’expérience commune.",
+      "changements_de_signification": "L’espace n’est plus unique, ni forcément absolu : il devient condition de l’expérience, pluralité mathématique, voire construction subjective.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Forme a priori",
+          "explication_lien": "L’espace est, pour Kant, une structure de la perception humaine."
+        },
+        {
+          "notion": "Géométrie non euclidienne",
+          "explication_lien": "Découverte qu’il existe plusieurs types d’espaces possibles."
+        },
+        {
+          "notion": "Champ",
+          "explication_lien": "En physique, l’espace est traversé par des champs de forces, pas seulement vide ou étendue."
+        }
+      ]
+    },
+    {
+      "periode": "Époque contemporaine (XXe-XXIe siècles)",
+      "description_generale": "L’espace devient objet de recherches en physique (relativité, cosmologie), en philosophie (espace vécu, espace social, espace linguistique), en arts et en sciences humaines. Il n’est plus neutre : il peut être courbe, dynamique, construit par nos perceptions ou nos pratiques sociales.",
+      "penseurs_cles": [
+        {
+          "nom": "Albert Einstein",
+          "contribution": "Il bouleverse la conception classique : l’espace n’est plus absolu, il est relatif, courbe, indissociable du temps ('espace-temps'), modifié par la matière et l’énergie.",
+          "extrait": "\"L’espace et le temps ne sont plus des réalités indépendantes, mais des aspects d’un même continuum.\" (Relativité, 1916)"
+        },
+        {
+          "nom": "Maurice Merleau-Ponty",
+          "contribution": "Il pense l’espace vécu, existentiel : l’espace n’est pas seulement géométrique mais perçu, habité, structuré par le corps et l’expérience.",
+          "extrait": "\"L’espace n’est pas l’arrière-plan neutre de nos actions, mais leur milieu vivant.\" (Phénoménologie de la perception, 1945)"
+        },
+        {
+          "nom": "Henri Lefebvre",
+          "contribution": "Il introduit la notion d’espace social : l’espace est produit par les rapports sociaux, l’urbanisme, l’économie, la politique.",
+          "extrait": "\"L’espace est un produit social.\" (La Production de l’espace, 1974)"
+        }
+      ],
+      "usages_et_debats": "Débats sur l’espace-temps, sur l’espace comme expérience subjective, comme construction sociale, sur la pluralité des espaces (physique, vécu, social, virtuel).",
+      "changements_de_signification": "L’espace n’est plus neutre ni unique ; il est courbe, relatif, vécu, social, transformé par les pratiques humaines et les technologies.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Espace-temps",
+          "explication_lien": "Einstein unit espace et temps dans un même continuum dynamique."
+        },
+        {
+          "notion": "Espace vécu",
+          "explication_lien": "L’espace est aussi celui de la perception, de l’habiter, du corps."
+        },
+        {
+          "notion": "Espace social",
+          "explication_lien": "L’espace est produit par les rapports sociaux, économiques et politiques."
+        },
+        {
+          "notion": "Virtualité",
+          "explication_lien": "Le numérique introduit de nouveaux espaces immatériels, interactifs."
+        }
+      ]
+    }
+  ],
+  "etymologie": "Le mot 'espace' vient du latin 'spatium', qui signifie intervalle, distance, étendue. Il désigne d’abord la distance entre deux points, puis l’étendue mesurable. En français, le terme évolue pour désigner à la fois l’étendue physique, la place disponible, le champ d’action ou de pensée, et l’espace abstrait des mathématiques ou de la physique moderne. Aujourd’hui, 'espace' recouvre aussi bien la réalité physique, la perception vécue, le champ social ou virtuel.",
+  "citations": [
+    {
+      "auteur": "Platon",
+      "oeuvre": "Timée",
+      "citation": "\"Il faut admettre un troisième genre, le réceptacle, qui reçoit toutes choses et qui n’a d’autre qualité que d’être le siège de tout ce qui naît.\"",
+      "commentaire": "Platon pense l’espace comme réceptacle, condition de la naissance des choses mais sans forme propre."
+    },
+    {
+      "auteur": "Aristote",
+      "oeuvre": "Physique",
+      "citation": "\"Le lieu est la limite immobile de ce qui contient.\"",
+      "commentaire": "Aristote définit l’espace à partir du lieu, comme relation entre contenant et contenu."
+    },
+    {
+      "auteur": "Isaac Newton",
+      "oeuvre": "Principia Mathematica",
+      "citation": "\"L’espace absolu, de sa nature, sans relation aux choses extérieures, demeure toujours semblable et immobile.\"",
+      "commentaire": "Newton conçoit l’espace comme un contenant universel, indépendant des objets qu’il contient."
+    },
+    {
+      "auteur": "Immanuel Kant",
+      "oeuvre": "Critique de la raison pure",
+      "citation": "\"L’espace n’est pas un concept empirique, mais une forme pure de l’intuition sensible.\"",
+      "commentaire": "Kant fait de l’espace une condition subjective de toute expérience extérieure."
+    },
+    {
+      "auteur": "Albert Einstein",
+      "oeuvre": "Relativité",
+      "citation": "\"L’espace et le temps ne sont plus des réalités indépendantes, mais des aspects d’un même continuum.\"",
+      "commentaire": "Einstein révolutionne la conception classique en liant espace et temps, et en rendant l’espace dynamique et relatif."
+    },
+    {
+      "auteur": "Henri Lefebvre",
+      "oeuvre": "La Production de l’espace",
+      "citation": "\"L’espace est un produit social.\"",
+      "commentaire": "Lefebvre affirme que l’espace n’est jamais neutre mais toujours façonné par les rapports sociaux et politiques."
+    }
+  ]
+}

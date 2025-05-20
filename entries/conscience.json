@@ -1,0 +1,217 @@
+{
+  "periodes": [
+    {
+      "periode": "Antiquité",
+      "description_generale": "Le mot 'conscience' n’existe pas en tant que tel dans la langue grecque ou latine classique. Les penseurs s’intéressent cependant à la capacité de l’âme à se connaître elle-même, à discerner le bien et le mal, ou à percevoir le monde. On parle d’intellect, de psyché ou de 'syneidêsis' (sentiment intérieur de savoir ou de faute).",
+      "penseurs_cles": [
+        {
+          "nom": "Socrate",
+          "contribution": "Il met l’accent sur la connaissance de soi ('gnôthi seauton'), insistant sur l’examen intérieur et la voix intérieure qui avertit du mal.",
+          "extrait": "\"Ce que je sais, c’est que je ne sais rien.\" (Apologie, 21d)"
+        },
+        {
+          "nom": "Platon",
+          "contribution": "Il distingue les différentes parties de l’âme et insiste sur la réflexion intérieure permettant d’accéder à la vérité.",
+          "extrait": "\"Connais-toi toi-même.\" (Alcibiade majeur, 124a)"
+        },
+        {
+          "nom": "Stoïciens",
+          "contribution": "Ils utilisent 'syneidêsis' pour désigner la voix intérieure, la conscience morale ou le sentiment d’avoir bien ou mal agi.",
+          "extrait": "\"La conscience (syneidêsis) accompagne toutes nos actions.\" (Épictète, Entretiens, II, 16)"
+        }
+      ],
+      "usages_et_debats": "Débats sur la capacité de l’âme à se connaître, sur l’origine du discernement moral et sur la distinction entre perception sensible et réflexion intérieure.",
+      "changements_de_signification": "Pas encore de concept formel de conscience, mais émergence d’idées de connaissance de soi et de sentiment moral intérieur.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Âme",
+          "explication_lien": "La conscience est abordée à travers la réflexion sur l’âme et ses facultés."
+        },
+        {
+          "notion": "Intellect",
+          "explication_lien": "L’intellect est la capacité de penser, de réfléchir et de se connaître."
+        },
+        {
+          "notion": "Savoir de soi",
+          "explication_lien": "La connaissance de soi prépare la future notion de conscience réflexive."
+        }
+      ]
+    },
+    {
+      "periode": "Moyen Âge",
+      "description_generale": "Le terme latin 'conscientia' apparaît, signifiant à la fois le savoir partagé ('avoir connaissance avec') et la conscience morale (le témoin intérieur du bien et du mal). La conscience est principalement pensée comme juge intérieur qui approuve ou condamne les actes.",
+      "penseurs_cles": [
+        {
+          "nom": "Saint Augustin",
+          "contribution": "Il développe la notion de 'conscientia' comme présence intérieure du bien, et comme tribunal intime où l’homme se juge sous le regard de Dieu.",
+          "extrait": "\"Retourne dans ta conscience ; l’homme intérieur y habite, et Dieu habite dans l’homme intérieur.\" (De vera religione, 39)"
+        },
+        {
+          "nom": "Thomas d’Aquin",
+          "contribution": "Il distingue 'synderesis' (disposition naturelle à connaître le bien) et 'conscientia' (application concrète du jugement moral sur ses propres actes).",
+          "extrait": "\"La conscience est l’application de la science à l’acte particulier.\" (Somme théologique, I-II, q.19, a.5)"
+        }
+      ],
+      "usages_et_debats": "Débats sur l’infaillibilité de la conscience, sur sa relation à la loi divine, sur la distinction entre connaissance morale naturelle et jugement concret.",
+      "changements_de_signification": "La conscience devient témoin moral intérieur, faculté de juger ses propres actes à la lumière de la loi divine.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Synderesis",
+          "explication_lien": "Disposition naturelle à vouloir le bien, liée à la conscience morale."
+        },
+        {
+          "notion": "Péché",
+          "explication_lien": "La conscience accuse ou excuse l’âme devant Dieu lors du péché."
+        },
+        {
+          "notion": "Loi morale",
+          "explication_lien": "La conscience est médiatrice entre la loi morale et l’action individuelle."
+        }
+      ]
+    },
+    {
+      "periode": "Âge classique (XVIIe - XVIIIe siècles)",
+      "description_generale": "La conscience devient centrale pour la connaissance de soi et la certitude. Elle est pensée comme transparence à soi-même, comme sentiment intérieur de penser, de vouloir, de sentir. Le cogito cartésien fait de la conscience le fondement de toute certitude.",
+      "penseurs_cles": [
+        {
+          "nom": "René Descartes",
+          "contribution": "Il pose l’existence du sujet pensant grâce à la conscience réflexive : le 'je pense' est indubitable parce qu’il est immédiatement présent à la conscience.",
+          "extrait": "\"Je pense, donc je suis.\" (Discours de la méthode, IV)"
+        },
+        {
+          "nom": "John Locke",
+          "contribution": "Il définit la conscience comme perception réflexive de ce que nous faisons ou pensons, et la relie à l’identité personnelle.",
+          "extrait": "\"La conscience accompagne toujours la pensée, et c’est cela, à proprement parler, qui fait que chacun est soi-même.\" (Essai sur l’entendement humain, II, xxvii, 9)"
+        }
+      ],
+      "usages_et_debats": "Débats sur la transparence de la conscience à elle-même, sur l’identité personnelle, sur la distinction entre conscience morale et conscience de soi.",
+      "changements_de_signification": "La conscience devient principe de certitude et d’identité, fondement du sujet moderne.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Cogito",
+          "explication_lien": "La conscience de penser fonde la certitude de l’existence."
+        },
+        {
+          "notion": "Identité personnelle",
+          "explication_lien": "La conscience réflexive constitue la continuité du moi dans le temps."
+        },
+        {
+          "notion": "Transparence",
+          "explication_lien": "La conscience est pensée comme claire, immédiate, sans opacité."
+        }
+      ]
+    },
+    {
+      "periode": "Époque moderne (XIXe siècle)",
+      "description_generale": "La conscience est analysée dans ses limites, ses conditions et ses zones d’ombre. On découvre l’inconscient ; la conscience n’est plus seulement maîtrise de soi mais aussi résultat de processus historiques, sociaux ou psychiques.",
+      "penseurs_cles": [
+        {
+          "nom": "Georg Wilhelm Friedrich Hegel",
+          "contribution": "Il pense la conscience comme processus dialectique, qui se développe à travers l’histoire, le travail, la reconnaissance et le conflit.",
+          "extrait": "\"La conscience est en soi et pour soi seulement par la reconnaissance.\" (Phénoménologie de l’esprit, §178)"
+        },
+        {
+          "nom": "Sigmund Freud",
+          "contribution": "Il découvre l’inconscient et montre que la conscience n’est qu’une partie de la vie psychique, souvent illusion de maîtrise.",
+          "extrait": "\"Le moi n’est pas maître dans sa propre maison.\" (Introduction à la psychanalyse, 1917)"
+        }
+      ],
+      "usages_et_debats": "Débats sur la nature de l’inconscient, sur la part de la conscience dans l’action humaine, sur la possibilité de se connaître soi-même pleinement.",
+      "changements_de_signification": "La conscience cesse d’être toute-puissante : elle devient limitée, traversée par l’histoire, la société, l’inconscient.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Inconscient",
+          "explication_lien": "La découverte de l’inconscient remet en cause la transparence de la conscience."
+        },
+        {
+          "notion": "Reconnaissance",
+          "explication_lien": "La conscience de soi se construit dans le rapport à autrui."
+        },
+        {
+          "notion": "Aliénation",
+          "explication_lien": "Perdre la conscience claire de soi, être dominé par des forces étrangères."
+        }
+      ]
+    },
+    {
+      "periode": "Époque contemporaine (XXe-XXIe siècles)",
+      "description_generale": "La conscience est étudiée dans sa diversité et sa complexité : conscience immédiate, conscience réfléchie, conscience morale, conscience collective. Les neurosciences, la phénoménologie et la philosophie de l’esprit interrogent ses mécanismes et ses limites.",
+      "penseurs_cles": [
+        {
+          "nom": "Edmund Husserl",
+          "contribution": "Il fonde la phénoménologie comme étude rigoureuse de la conscience vécue (Erlebnis), en insistant sur l’intentionnalité (la conscience est toujours conscience de quelque chose).",
+          "extrait": "\"Toute conscience est conscience de quelque chose.\" (Méditations cartésiennes, §9)"
+        },
+        {
+          "nom": "Paul Ricœur",
+          "contribution": "Il analyse la conscience comme toujours impliquée dans le langage, l’action, la mémoire, et comme dimension narrative de l’identité.",
+          "extrait": "\"L’homme de conscience est un homme de mémoire et de promesse.\" (Soi-même comme un autre, 1990)"
+        },
+        {
+          "nom": "Antonio Damasio",
+          "contribution": "Il étudie la conscience à partir des neurosciences, montrant son enracinement corporel et son développement progressif.",
+          "extrait": "\"La conscience est le sentiment d’un soi qui connaît et ressent.\" (L’Erreur de Descartes, 1994)"
+        }
+      ],
+      "usages_et_debats": "Débats sur la nature de la conscience (subjective, corporelle, sociale), sur sa possibilité chez l’animal ou la machine, sur la conscience morale et politique.",
+      "changements_de_signification": "La conscience se pluralise, se complexifie, devient objet de la science aussi bien que de la philosophie ; elle n’est plus un donné immédiat mais un phénomène à expliquer.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Intentionnalité",
+          "explication_lien": "La conscience est toujours tournée vers un objet (phénoménologie)."
+        },
+        {
+          "notion": "Subjectivité",
+          "explication_lien": "La conscience fonde l’expérience subjective du monde."
+        },
+        {
+          "notion": "Identité narrative",
+          "explication_lien": "La conscience de soi se construit dans le récit et la mémoire (Ricœur)."
+        },
+        {
+          "notion": "Cognition",
+          "explication_lien": "Les sciences cognitives étudient les processus de la conscience."
+        }
+      ]
+    }
+  ],
+  "etymologie": "Le mot 'conscience' vient du latin 'conscientia', formé de 'cum' (avec) et 'scire' (savoir), ce qui signifie littéralement 'savoir avec soi-même', ou 'savoir partagé'. D’abord employé pour désigner le témoignage intérieur de la moralité d’un acte, il prend progressivement le sens de perception réflexive de soi, puis de faculté d’éprouver ses propres états mentaux. Aujourd’hui, le mot désigne à la fois la vigilance psychologique, la connaissance de soi, la conscience morale ou encore la conscience collective.",
+  "citations": [
+    {
+      "auteur": "Socrate (rapporté par Platon)",
+      "oeuvre": "Apologie",
+      "citation": "\"Ce que je sais, c’est que je ne sais rien.\"",
+      "commentaire": "Socrate met l’accent sur l’examen intérieur, préfigurant la conscience réflexive."
+    },
+    {
+      "auteur": "Saint Augustin",
+      "oeuvre": "De vera religione",
+      "citation": "\"Retourne dans ta conscience ; l’homme intérieur y habite, et Dieu habite dans l’homme intérieur.\"",
+      "commentaire": "Augustin fait de la conscience un sanctuaire intérieur, centre du discernement moral."
+    },
+    {
+      "auteur": "René Descartes",
+      "oeuvre": "Discours de la méthode",
+      "citation": "\"Je pense, donc je suis.\"",
+      "commentaire": "Descartes fonde la certitude de l’existence sur la conscience réflexive de penser."
+    },
+    {
+      "auteur": "John Locke",
+      "oeuvre": "Essai sur l’entendement humain",
+      "citation": "\"La conscience accompagne toujours la pensée, et c’est cela, à proprement parler, qui fait que chacun est soi-même.\"",
+      "commentaire": "Locke lie la conscience à l’identité personnelle et à la continuité du moi."
+    },
+    {
+      "auteur": "Sigmund Freud",
+      "oeuvre": "Introduction à la psychanalyse",
+      "citation": "\"Le moi n’est pas maître dans sa propre maison.\"",
+      "commentaire": "Freud remet en cause la toute-puissance de la conscience au profit de l’inconscient."
+    },
+    {
+      "auteur": "Edmund Husserl",
+      "oeuvre": "Méditations cartésiennes",
+      "citation": "\"Toute conscience est conscience de quelque chose.\"",
+      "commentaire": "Husserl fait de l’intentionnalité la structure fondamentale de toute conscience vécue."
+    }
+  ]
+}

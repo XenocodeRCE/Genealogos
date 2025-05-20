@@ -1,0 +1,212 @@
+{
+  "periodes": [
+    {
+      "periode": "Antiquité",
+      "description_generale": "Le travail manuel est souvent considéré comme une nécessité servile, réservé aux esclaves ou aux classes inférieures. Les penseurs valorisent l’activité intellectuelle, la contemplation et la vie politique, jugées plus nobles que le travail physique, vu comme contrainte imposée par la nature ou le besoin.",
+      "penseurs_cles": [
+        {
+          "nom": "Platon",
+          "contribution": "Il distingue les tâches nécessaires à la survie de la cité (assurées par les artisans et les esclaves) et les activités intellectuelles ou politiques, réservées aux citoyens.",
+          "extrait": "\"Chacun doit s’adonner à l’œuvre pour laquelle sa nature le destine.\" (La République, II, 370b)"
+        },
+        {
+          "nom": "Aristote",
+          "contribution": "Il considère le travail manuel comme un obstacle à la vertu et à la vie citoyenne, réservée aux hommes libres.",
+          "extrait": "\"Il n’y a pas de lois pour ceux qui vivent du travail manuel, car leur vie n’est pas honorable.\" (Politiques, I, 13, 1260a)"
+        }
+      ],
+      "usages_et_debats": "Débats sur la place du travail dans la hiérarchie sociale, sur la valeur de l’activité productive, sur l’opposition entre travail et loisir (scholè).",
+      "changements_de_signification": "Le travail est vu comme nécessité dévalorisante, lié à la survie et à la contrainte, opposé à la vie de l’esprit.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Esclavage",
+          "explication_lien": "Le travail manuel est associé à la condition servile."
+        },
+        {
+          "notion": "Loisir (scholè)",
+          "explication_lien": "Le loisir est valorisé comme temps de la pensée et de la citoyenneté, par opposition au travail."
+        },
+        {
+          "notion": "Vertu",
+          "explication_lien": "La pratique des vertus est réservée à ceux qui sont libérés du travail manuel."
+        }
+      ]
+    },
+    {
+      "periode": "Moyen Âge",
+      "description_generale": "Le travail devient plus valorisé, notamment dans la tradition chrétienne où il est vu comme participation à l’œuvre divine, remède à l’oisiveté et moyen de sanctification. Toutefois, il reste souvent considéré comme conséquence du péché originel.",
+      "penseurs_cles": [
+        {
+          "nom": "Saint Benoît de Nursie",
+          "contribution": "Il fonde la règle bénédictine sur l’équilibre entre prière et travail ('ora et labora'), valorisant le travail manuel comme discipline spirituelle.",
+          "extrait": "\"Ils seront vraiment moines s’ils vivent du travail de leurs mains.\" (Règle de saint Benoît, 48)"
+        },
+        {
+          "nom": "Saint Thomas d’Aquin",
+          "contribution": "Il considère le travail comme nécessité naturelle, utile à la société, mais aussi comme peine liée à la condition humaine après la chute.",
+          "extrait": "\"Le travail est ordonné à la nécessité de la vie présente, en punition du péché.\" (Somme théologique, II-II, q.187, a.3)"
+        }
+      ],
+      "usages_et_debats": "Débats sur la dignité du travail, sur sa valeur spirituelle et morale, sur la distinction entre travail servile et travail libre.",
+      "changements_de_signification": "Le travail commence à être vu comme valeur positive (ascèse, service), mais reste associé à la souffrance et à la condition déchue de l’homme.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Péché originel",
+          "explication_lien": "Le travail pénible est interprété comme conséquence du péché d’Adam."
+        },
+        {
+          "notion": "Ascèse",
+          "explication_lien": "Le travail devient moyen de discipline et de sanctification."
+        },
+        {
+          "notion": "Ordre social",
+          "explication_lien": "Le travail participe à la hiérarchie et à l’organisation de la société."
+        }
+      ]
+    },
+    {
+      "periode": "Âge classique (XVIIe - XVIIIe siècles)",
+      "description_generale": "Le travail est progressivement réévalué comme source de richesse et de progrès. Avec la philosophie du contrat social et la naissance de l’économie politique, il devient moteur de développement social et personnel, bien que la distinction subsiste entre travail intellectuel et travail manuel.",
+      "penseurs_cles": [
+        {
+          "nom": "John Locke",
+          "contribution": "Il fait du travail la source principale de la propriété privée : c’est en travaillant la terre que l’homme s’approprie la nature.",
+          "extrait": "\"Le travail de son corps et l’ouvrage de ses mains, voilà proprement ce qu’on peut appeler sien.\" (Second traité du gouvernement civil, V, 27)"
+        },
+        {
+          "nom": "Adam Smith",
+          "contribution": "Il fonde l’économie politique moderne en faisant du travail la source de la valeur des biens et de la richesse des nations.",
+          "extrait": "\"Le travail annuel d’une nation est le fonds qui la fait vivre.\" (Recherche sur la nature et les causes de la richesse des nations, I, 1776)"
+        }
+      ],
+      "usages_et_debats": "Débats sur la valeur du travail, sur la division du travail, sur l’aliénation ou la liberté qu’il procure, sur l’origine de la propriété.",
+      "changements_de_signification": "Le travail passe du statut de nécessité à celui de fondement de la société, de la valeur et de l’émancipation individuelle.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Propriété",
+          "explication_lien": "Le travail est vu comme fondement du droit de propriété."
+        },
+        {
+          "notion": "Richesse",
+          "explication_lien": "Le travail est la source de toute richesse sociale."
+        },
+        {
+          "notion": "Division du travail",
+          "explication_lien": "La spécialisation des tâches accroît la productivité mais peut aussi entraîner l’aliénation."
+        }
+      ]
+    },
+    {
+      "periode": "Époque moderne (XIXe siècle)",
+      "description_generale": "Le travail devient enjeu central de la philosophie sociale, politique et économique. On analyse ses effets sur la liberté, l’aliénation, la dignité humaine. Il est à la fois source d’émancipation et d’exploitation, dépendant des transformations industrielles.",
+      "penseurs_cles": [
+        {
+          "nom": "Georg Wilhelm Friedrich Hegel",
+          "contribution": "Il pense le travail comme médiation essentielle entre l’homme et le monde, processus par lequel l’homme se transforme lui-même et accède à la reconnaissance.",
+          "extrait": "\"C’est par le travail que la conscience vient à soi dans l’objectivité.\" (Phénoménologie de l’esprit, IV)"
+        },
+        {
+          "nom": "Karl Marx",
+          "contribution": "Il analyse le travail comme source de valeur, mais aussi comme lieu d’aliénation sous le capitalisme. Il fait de la transformation du travail la clé de l’émancipation humaine.",
+          "extrait": "\"Le travail crée l’homme lui-même.\" (Manuscrits de 1844)"
+        }
+      ],
+      "usages_et_debats": "Débats sur l’aliénation au travail, la valeur-travail, la lutte des classes, la dignité ou la dépossession des travailleurs.",
+      "changements_de_signification": "Le travail est vu comme moyen de réalisation de soi, mais aussi comme source d’oppression dans le système capitaliste.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Aliénation",
+          "explication_lien": "Le travail salarié peut déposséder l’homme de lui-même."
+        },
+        {
+          "notion": "Valeur-travail",
+          "explication_lien": "La valeur économique est fondée sur la quantité de travail incorporée dans les biens."
+        },
+        {
+          "notion": "Émancipation",
+          "explication_lien": "La transformation du travail est vue comme condition de la liberté humaine."
+        }
+      ]
+    },
+    {
+      "periode": "Époque contemporaine (XXe-XXIe siècles)",
+      "description_generale": "Le travail est interrogé dans ses formes, ses finalités et son sens : automatisation, précarité, sens du travail, rapport au temps libre, place dans la construction de l’identité. On réfléchit à sa centralité dans la société, à ses transformations et à sa possible disparition.",
+      "penseurs_cles": [
+        {
+          "nom": "Hannah Arendt",
+          "contribution": "Elle distingue le travail (nécessité biologique), l’œuvre (création durable) et l’action (engagement politique), et s’inquiète d’une société dominée par le travail.",
+          "extrait": "\"Le travail est l’activité qui correspond au processus biologique du corps humain.\" (La Condition de l’homme moderne, 1958)"
+        },
+        {
+          "nom": "Simone Weil",
+          "contribution": "Elle analyse la dimension spirituelle et existentielle du travail, sa capacité à relier l’homme au réel mais aussi à écraser l’âme dans la souffrance industrielle.",
+          "extrait": "\"Le travail est une prière, à condition qu’on y mette son âme.\" (La Condition ouvrière, 1951)"
+        },
+        {
+          "nom": "André Gorz",
+          "contribution": "Il interroge la place du travail à l’ère de l’automatisation et du capitalisme avancé, posant la question d’un 'droit à la paresse' ou à l’activité libérée.",
+          "extrait": "\"Le travail perd son caractère central dans la définition de l’homme et de la société.\" (Métamorphoses du travail, 1988)"
+        }
+      ],
+      "usages_et_debats": "Débats sur le sens du travail face à l’automatisation, la précarité, la quête de sens, la place du loisir et de la créativité, la notion de revenu universel.",
+      "changements_de_signification": "Le travail cesse d’être une évidence : il est repensé comme activité parmi d’autres, et sa disparition partielle interroge le sens de l’existence.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Œuvre",
+          "explication_lien": "L’œuvre se distingue du travail par sa durabilité et son sens créateur."
+        },
+        {
+          "notion": "Précarité",
+          "explication_lien": "Le travail contemporain est marqué par l’incertitude et l’instabilité."
+        },
+        {
+          "notion": "Automatisation",
+          "explication_lien": "La technique remet en cause la centralité du travail humain."
+        },
+        {
+          "notion": "Loisir",
+          "explication_lien": "On repense le rapport entre travail et temps libre à l’ère post-industrielle."
+        }
+      ]
+    }
+  ],
+  "etymologie": "Le mot 'travail' vient du latin 'tripalium', instrument de torture composé de trois pieux, puis par extension, 'travail' désigne la souffrance, la peine, l’effort pénible. Au Moyen Âge, le terme s’applique à l’accouchement (douleur physiologique), puis à toute forme d’activité laborieuse. Il n’acquiert une valeur positive et centrale qu’avec la modernité, où il devient principe d’émancipation, de richesse et d’identité sociale.",
+  "citations": [
+    {
+      "auteur": "Platon",
+      "oeuvre": "La République",
+      "citation": "\"Chacun doit s’adonner à l’œuvre pour laquelle sa nature le destine.\"",
+      "commentaire": "Platon inscrit le travail dans la division sociale, comme nécessité pour l’organisation de la cité."
+    },
+    {
+      "auteur": "Saint Benoît de Nursie",
+      "oeuvre": "Règle de saint Benoît",
+      "citation": "\"Ils seront vraiment moines s’ils vivent du travail de leurs mains.\"",
+      "commentaire": "Saint Benoît valorise le travail manuel comme discipline spirituelle et mode de vie communautaire."
+    },
+    {
+      "auteur": "John Locke",
+      "oeuvre": "Second traité du gouvernement civil",
+      "citation": "\"Le travail de son corps et l’ouvrage de ses mains, voilà proprement ce qu’on peut appeler sien.\"",
+      "commentaire": "Locke fait du travail le fondement du droit de propriété."
+    },
+    {
+      "auteur": "Karl Marx",
+      "oeuvre": "Manuscrits de 1844",
+      "citation": "\"Le travail crée l’homme lui-même.\"",
+      "commentaire": "Marx met au centre de l’humanisation la transformation de soi par le travail."
+    },
+    {
+      "auteur": "Hannah Arendt",
+      "oeuvre": "La Condition de l’homme moderne",
+      "citation": "\"Le travail est l’activité qui correspond au processus biologique du corps humain.\"",
+      "commentaire": "Arendt distingue le travail, lié à la nécessité, de l’œuvre et de l’action, qui relèvent de la liberté et de la création."
+    },
+    {
+      "auteur": "André Gorz",
+      "oeuvre": "Métamorphoses du travail",
+      "citation": "\"Le travail perd son caractère central dans la définition de l’homme et de la société.\"",
+      "commentaire": "Gorz questionne la place du travail à l’ère de l’automatisation et du post-capitalisme."
+    }
+  ]
+}

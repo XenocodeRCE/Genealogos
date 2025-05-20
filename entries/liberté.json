@@ -1,0 +1,223 @@
+{
+  "periodes": [
+    {
+      "periode": "Antiquité",
+      "description_generale": "Le mot équivalent à 'liberté' (eleutheria en grec, libertas en latin) désigne d’abord l’état de l’homme libre, par opposition à l’esclave. La réflexion porte sur la liberté politique (être membre d’une cité libre), la capacité à se gouverner soi-même, ou, chez certains philosophes, la maîtrise de soi face aux passions.",
+      "penseurs_cles": [
+        {
+          "nom": "Platon",
+          "contribution": "Il se méfie de la liberté comme licence (faire tout ce qu’on veut). Pour lui, la vraie liberté est celle de l’âme gouvernée par la raison.",
+          "extrait": "\"L’homme libre est celui que la raison commande.\" (La République, IX, 577d)"
+        },
+        {
+          "nom": "Aristote",
+          "contribution": "Il distingue la liberté politique (participation à la vie de la cité) et la liberté morale (agir selon la raison et la vertu).",
+          "extrait": "\"Être libre, c’est vivre pour soi-même.\" (Politiques, VI, 1317b)"
+        },
+        {
+          "nom": "Stoïciens",
+          "contribution": "Ils pensent la liberté intérieure comme indépendance à l’égard du monde extérieur : être libre, c’est ne dépendre que de soi-même.",
+          "extrait": "\"Tu es esclave de ce qui ne dépend pas de toi.\" (Épictète, Manuel, I, 1)"
+        }
+      ],
+      "usages_et_debats": "Débat sur la véritable nature de la liberté : est-elle politique (vivre dans une cité autonome), morale (maîtrise de soi), ou intérieure (indépendance des passions) ?",
+      "changements_de_signification": "La liberté n’est pas encore conçue comme droit universel ou comme autonomie absolue du sujet ; elle est liée à la condition sociale et à l’ordre politique.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Esclavage",
+          "explication_lien": "La liberté est pensée en opposition à la condition d’esclave."
+        },
+        {
+          "notion": "Maîtrise de soi",
+          "explication_lien": "Pour être libre, il faut d’abord se gouverner soi-même."
+        },
+        {
+          "notion": "Citoyenneté",
+          "explication_lien": "La liberté politique suppose la participation à la vie de la cité."
+        }
+      ]
+    },
+    {
+      "periode": "Moyen Âge",
+      "description_generale": "La réflexion sur la liberté se concentre sur la question du libre-arbitre : l’homme peut-il choisir entre le bien et le mal ? La liberté est aussi conçue comme don de Dieu, mais limitée par la nature humaine et la grâce.",
+      "penseurs_cles": [
+        {
+          "nom": "Saint Augustin",
+          "contribution": "Il affirme d’abord la liberté du vouloir humain, mais insiste ensuite sur la dépendance de l’homme à la grâce divine pour faire le bien.",
+          "extrait": "\"Sans la grâce, la volonté humaine n’est pas libre pour le bien.\" (La Cité de Dieu, XIV, 11)"
+        },
+        {
+          "nom": "Thomas d’Aquin",
+          "contribution": "Il concilie liberté et détermination divine : l’homme est libre dans ses choix, mais Dieu connaît et veut le bien ultime.",
+          "extrait": "\"Plus on agit selon la raison, plus on est libre.\" (Somme théologique, I-II, q.17, a.1)"
+        }
+      ],
+      "usages_et_debats": "Débat sur la compatibilité entre liberté humaine et toute-puissance divine ; sur la possibilité de choisir le mal ; sur la place de la volonté dans l’acte moral.",
+      "changements_de_signification": "La liberté devient surtout capacité morale (faire le bien ou le mal), mais elle reste subordonnée à la loi divine.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Libre-arbitre",
+          "explication_lien": "La faculté de choisir entre plusieurs possibles, centrale dans la réflexion sur la liberté."
+        },
+        {
+          "notion": "Grâce",
+          "explication_lien": "La grâce divine conditionne la liberté humaine, selon Augustin."
+        },
+        {
+          "notion": "Volonté",
+          "explication_lien": "La liberté s’exprime par la volonté de choisir et d’agir."
+        }
+      ]
+    },
+    {
+      "periode": "Âge classique (XVIIe - XVIIIe siècles)",
+      "description_generale": "La liberté est repensée dans le cadre du sujet autonome et de la naissance des droits individuels. On distingue liberté naturelle, liberté civile, liberté morale. Le débat oppose déterminisme et autonomie de la volonté.",
+      "penseurs_cles": [
+        {
+          "nom": "René Descartes",
+          "contribution": "Il fait de la liberté de la volonté la marque de la ressemblance avec Dieu : nous sommes libres de consentir ou de refuser.",
+          "extrait": "\"Rien ne m’est plus aisé à connaître que mon libre arbitre.\" (Méditations métaphysiques, IV)"
+        },
+        {
+          "nom": "John Locke",
+          "contribution": "Il définit la liberté comme absence de contrainte extérieure, et pose les bases du libéralisme politique.",
+          "extrait": "\"Être libre, c’est ne pas être soumis à la volonté arbitraire d’autrui.\" (Second traité du gouvernement civil, II, 4)"
+        },
+        {
+          "nom": "Jean-Jacques Rousseau",
+          "contribution": "Il distingue liberté naturelle et liberté civile : la vraie liberté consiste à obéir à la loi qu’on s’est prescrite soi-même.",
+          "extrait": "\"L’obéissance à la loi qu’on s’est prescrite est liberté.\" (Du Contrat social, I, 8)"
+        }
+      ],
+      "usages_et_debats": "Débats sur le déterminisme (naturel, divin ou social), sur la liberté comme autonomie, sur la compatibilité entre liberté individuelle et vie en société.",
+      "changements_de_signification": "La liberté devient valeur politique et morale centrale, associée aux droits de l’homme et à la souveraineté du sujet.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Autonomie",
+          "explication_lien": "La liberté est définie comme autodétermination, capacité à se donner sa propre loi."
+        },
+        {
+          "notion": "Droits naturels",
+          "explication_lien": "La liberté est un droit fondamental de tout être humain."
+        },
+        {
+          "notion": "Déterminisme",
+          "explication_lien": "La liberté est pensée en opposition au déterminisme naturel ou social."
+        }
+      ]
+    },
+    {
+      "periode": "Époque moderne (XIXe siècle)",
+      "description_generale": "La liberté devient un enjeu philosophique, politique et existentiel. On s’interroge sur ses limites (sociales, psychologiques, économiques) et sur sa réalisation concrète, individuelle ou collective.",
+      "penseurs_cles": [
+        {
+          "nom": "Georg Wilhelm Friedrich Hegel",
+          "contribution": "Il pense la liberté comme réalisation dans l’histoire et dans l’État : la liberté n’est pas donnée, elle se conquiert par la reconnaissance et l’institution des lois.",
+          "extrait": "\"L’histoire du monde est le progrès de la conscience de la liberté.\" (Leçons sur la philosophie de l’histoire, Introduction)"
+        },
+        {
+          "nom": "Karl Marx",
+          "contribution": "Il critique la liberté formelle des droits bourgeois et insiste sur la nécessité de conditions matérielles réelles pour la liberté.",
+          "extrait": "\"La liberté, c’est l’abolition de toute domination de l’homme par l’homme.\" (Manuscrits de 1844)"
+        },
+        {
+          "nom": "Friedrich Nietzsche",
+          "contribution": "Il remet en cause la liberté comme libre-arbitre ; la vraie liberté est création de soi et affirmation de la volonté de puissance.",
+          "extrait": "\"Deviens ce que tu es.\" (Ainsi parlait Zarathoustra, III, De la vision et de l’énigme)"
+        }
+      ],
+      "usages_et_debats": "Débats sur la liberté réelle versus formelle, sur la liberté individuelle et collective, sur l’aliénation et l’émancipation.",
+      "changements_de_signification": "La liberté se politise, s’existentialise, se matérialise : elle n’est pas seulement un droit mais une conquête concrète, individuelle et sociale.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Aliénation",
+          "explication_lien": "L’absence de liberté réelle est liée à l’aliénation sociale ou économique."
+        },
+        {
+          "notion": "Émancipation",
+          "explication_lien": "La liberté devient un processus collectif d’émancipation."
+        },
+        {
+          "notion": "Volonté de puissance",
+          "explication_lien": "Chez Nietzsche, la liberté se confond avec la capacité à se dépasser soi-même."
+        }
+      ]
+    },
+    {
+      "periode": "Époque contemporaine (XXe-XXIe siècles)",
+      "description_generale": "La liberté est interrogée par les sciences humaines, la psychanalyse, la phénoménologie et l’existentialisme. On distingue liberté de fait, liberté de droit, liberté existentielle, et on analyse ses conditions et ses obstacles (sociaux, psychiques, techniques).",
+      "penseurs_cles": [
+        {
+          "nom": "Jean-Paul Sartre",
+          "contribution": "Il définit l’homme comme condamné à être libre : la liberté est inévitable, mais elle s’accompagne d’angoisse et de responsabilité.",
+          "extrait": "\"L’homme est condamné à être libre.\" (L’Être et le Néant, I, 3)"
+        },
+        {
+          "nom": "Hannah Arendt",
+          "contribution": "Elle pense la liberté comme capacité d’initiative et d’action collective dans l’espace public.",
+          "extrait": "\"La liberté, c’est d’abord de commencer quelque chose de neuf.\" (La Condition de l’homme moderne, II, 5)"
+        },
+        {
+          "nom": "Michel Foucault",
+          "contribution": "Il analyse la liberté non comme absence de contraintes, mais comme capacité à se constituer soi-même dans et contre des rapports de pouvoir.",
+          "extrait": "\"La liberté est la pratique de soi sur soi.\" (L’herméneutique du sujet, Cours au Collège de France, 1982)"
+        }
+      ],
+      "usages_et_debats": "Débats sur la réalité de la liberté face à l’inconscient, à la société, à la technique ; sur la liberté comme pouvoir d’agir ou comme structure fondamentale de l’existence humaine.",
+      "changements_de_signification": "La liberté devient question d’existence, de subjectivité, de rapports sociaux et de résistances. Elle est vue à la fois comme donnée et comme tâche à accomplir.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Responsabilité",
+          "explication_lien": "La liberté implique la responsabilité de ses actes (existentialisme)."
+        },
+        {
+          "notion": "Pouvoir",
+          "explication_lien": "La liberté s’exerce dans, contre ou à travers les rapports de pouvoir."
+        },
+        {
+          "notion": "Authenticité",
+          "explication_lien": "La liberté est liée à la capacité de choisir et d’assumer ses propres valeurs."
+        }
+      ]
+    }
+  ],
+  "etymologie": "Le mot 'liberté' vient du latin 'libertas', qui désigne l’état de l’homme libre, par opposition à l’esclave ('servus'). 'Libertas' est lié à 'liber', qui signifie 'indépendant', 'non soumis'. En grec, 'eleutheria' exprime aussi bien la liberté politique que la condition de celui qui n’est pas esclave. Le terme va progressivement acquérir une dimension morale (capacité de choisir), politique (droits des citoyens), puis existentielle (autonomie du sujet).",
+  "citations": [
+    {
+      "auteur": "Aristote",
+      "oeuvre": "Politiques",
+      "citation": "\"Être libre, c’est vivre pour soi-même.\"",
+      "commentaire": "Aristote lie la liberté à la participation à la vie politique et à l’autonomie du citoyen."
+    },
+    {
+      "auteur": "Saint Augustin",
+      "oeuvre": "La Cité de Dieu",
+      "citation": "\"Sans la grâce, la volonté humaine n’est pas libre pour le bien.\"",
+      "commentaire": "Augustin souligne la tension entre liberté humaine et dépendance à la grâce divine."
+    },
+    {
+      "auteur": "Jean-Jacques Rousseau",
+      "oeuvre": "Du Contrat social",
+      "citation": "\"L’obéissance à la loi qu’on s’est prescrite est liberté.\"",
+      "commentaire": "Rousseau fait de l’autonomie la vraie forme de la liberté politique et morale."
+    },
+    {
+      "auteur": "Karl Marx",
+      "oeuvre": "Manuscrits de 1844",
+      "citation": "\"La liberté, c’est l’abolition de toute domination de l’homme par l’homme.\"",
+      "commentaire": "Marx radicalise la liberté en l’associant à l’émancipation sociale réelle."
+    },
+    {
+      "auteur": "Jean-Paul Sartre",
+      "oeuvre": "L’Être et le Néant",
+      "citation": "\"L’homme est condamné à être libre.\"",
+      "commentaire": "Sartre affirme la liberté fondamentale et inévitable du sujet humain."
+    },
+    {
+      "auteur": "Hannah Arendt",
+      "oeuvre": "La Condition de l’homme moderne",
+      "citation": "\"La liberté, c’est d’abord de commencer quelque chose de neuf.\"",
+      "commentaire": "Arendt met l’accent sur la liberté comme capacité d’initiative et de nouveauté dans l’action."
+    }
+  ]
+}

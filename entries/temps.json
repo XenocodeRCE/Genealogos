@@ -1,0 +1,232 @@
+{
+  "periodes": [
+    {
+      "periode": "Antiquité",
+      "description_generale": "Le temps est une énigme centrale pour les philosophes grecs, mais il n’est pas encore un concept abstrait et universel. On distingue le temps cyclique (lié aux saisons, aux astres, à la nature) et le temps mesuré ('chronos'). On s’interroge sur son rapport à l’éternité, au mouvement, à l’être et au devenir.",
+      "penseurs_cles": [
+        {
+          "nom": "Parménide",
+          "contribution": "Il nie la réalité du temps et du devenir, affirmant que seul l’être est, éternel et immobile. Le temps n’est qu’illusion des sens.",
+          "extrait": "\"L’être est, le non-être n’est pas.\" (De la nature, fragment 2)"
+        },
+        {
+          "nom": "Héraclite",
+          "contribution": "Il affirme le flux perpétuel de toutes choses : tout s’écoule, rien ne demeure. Le temps est mouvement, changement, devenir.",
+          "extrait": "\"On ne se baigne jamais deux fois dans le même fleuve.\" (Fragment 12)"
+        },
+        {
+          "nom": "Platon",
+          "contribution": "Il distingue le monde intelligible (éternel) et le monde sensible (soumis au temps). Le temps est l’image mobile de l’éternité, créé en même temps que le ciel.",
+          "extrait": "\"Le temps est l’image mobile de l’éternité immobile.\" (Timée, 37d)"
+        },
+        {
+          "nom": "Aristote",
+          "contribution": "Il définit le temps comme 'le nombre du mouvement selon l’antérieur et le postérieur' : le temps est lié au changement et à la mesure du mouvement.",
+          "extrait": "\"Le temps est le nombre du mouvement selon l’antérieur et le postérieur.\" (Physique, IV, 219b)"
+        }
+      ],
+      "usages_et_debats": "Débats sur la réalité ou l’illusion du temps, sur son rapport au changement, à l’être, à l’éternité, sur le temps cyclique (naturel) ou linéaire.",
+      "changements_de_signification": "Le temps oscille entre l’éternité, le mouvement cyclique de la nature, et la mesure humaine du changement.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Éternité",
+          "explication_lien": "Le temps est opposé à l’éternité, qui est immuable."
+        },
+        {
+          "notion": "Mouvement",
+          "explication_lien": "Le temps est lié au changement et au mouvement des choses."
+        },
+        {
+          "notion": "Devenir",
+          "explication_lien": "Le temps exprime le passage de l’être au devenir, du possible au réel."
+        }
+      ]
+    },
+    {
+      "periode": "Moyen Âge",
+      "description_generale": "Le temps est repensé à partir de la théologie chrétienne : il devient linéaire, orienté, marqué par la Création, la Révélation, le Jugement dernier. On distingue le temps humain (fugace, marqué par la chute) et l’éternité de Dieu. Le temps est aussi considéré comme condition de l’existence terrestre, opposé à la béatitude éternelle.",
+      "penseurs_cles": [
+        {
+          "nom": "Saint Augustin",
+          "contribution": "Il médite sur la nature du temps, qui n’existe qu’en tant que présent de la mémoire, du regard, de l’attente. Le temps est une distension de l’âme.",
+          "extrait": "\"Qu’est-ce donc que le temps ? Si personne ne me le demande, je le sais ; si je veux l’expliquer, je ne le sais plus.\" (Confessions, XI, 14)"
+        },
+        {
+          "nom": "Thomas d’Aquin",
+          "contribution": "Il reprend la définition aristotélicienne mais la subordonne à la création divine : le temps commence avec le monde, il n’y a pas de temps avant la création.",
+          "extrait": "\"Le temps commence avec la création du monde.\" (Somme théologique, I, q.46, a.3)"
+        }
+      ],
+      "usages_et_debats": "Débats sur l’origine du temps, sa réalité, sa finitude, sur le rapport entre temps humain et éternité divine.",
+      "changements_de_signification": "Le temps acquiert une dimension linéaire, orientée vers un accomplissement (salut, fin des temps), et devient expérience intérieure de l’âme.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Éternité",
+          "explication_lien": "L’éternité de Dieu est hors du temps ; le temps humain est limité et orienté."
+        },
+        {
+          "notion": "Création",
+          "explication_lien": "Le temps commence avec la création du monde."
+        },
+        {
+          "notion": "Mémoire",
+          "explication_lien": "Le temps est vécu comme souvenir, présence et attente dans l’âme."
+        }
+      ]
+    },
+    {
+      "periode": "Âge classique (XVIIe - XVIIIe siècles)",
+      "description_generale": "Le temps devient objet d’étude scientifique et philosophique. On cherche à le mesurer objectivement (horloges, mathématiques), à le concevoir comme flux continu, homogène, indépendant des événements. Il s’impose comme cadre universel du mouvement et de la perception.",
+      "penseurs_cles": [
+        {
+          "nom": "Isaac Newton",
+          "contribution": "Il conçoit le temps comme absolu, mathématique, identique partout, coulant uniformément sans rapport avec quoi que ce soit d’extérieur.",
+          "extrait": "\"Le temps absolu, vrai et mathématique, coule uniformément sans relation à rien d’extérieur.\" (Principia Mathematica, I, déf. VIII)"
+        },
+        {
+          "nom": "René Descartes",
+          "contribution": "Il pense le temps comme une suite d’instants, mesurable, mais souligne l’importance de la conscience du temps dans l’expérience.",
+          "extrait": "\"Le temps n’est rien d’autre que la mesure du mouvement.\" (Principes de la philosophie, II, 23)"
+        },
+        {
+          "nom": "John Locke",
+          "contribution": "Il analyse le temps comme une idée simple, issue de la succession des idées dans l’esprit.",
+          "extrait": "\"L’idée du temps naît de la réflexion sur la succession de nos idées.\" (Essai sur l’entendement humain, II, XIV, 3)"
+        }
+      ],
+      "usages_et_debats": "Débats sur le temps absolu ou relatif, le temps comme réalité objective ou construction de l’esprit, la mesure du temps.",
+      "changements_de_signification": "Le temps devient universel, homogène, mesurable, cadre indifférent de tous les phénomènes.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Espace",
+          "explication_lien": "Le temps et l’espace deviennent des cadres fondamentaux de la physique."
+        },
+        {
+          "notion": "Succession",
+          "explication_lien": "Le temps se définit par la succession des instants ou des perceptions."
+        },
+        {
+          "notion": "Mouvement",
+          "explication_lien": "Le temps reste lié à la mesure du mouvement."
+        }
+      ]
+    },
+    {
+      "periode": "Époque moderne (XIXe siècle)",
+      "description_generale": "Le temps est repensé comme condition de l’expérience, structure de la conscience et de la vie. On s’intéresse à la subjectivité du temps (phénoménologie), à son historicité (évolution, progrès), à ses différentes formes (biologique, historique, psychique). La science interroge aussi la relativité du temps.",
+      "penseurs_cles": [
+        {
+          "nom": "Immanuel Kant",
+          "contribution": "Il affirme que le temps n’est pas une réalité extérieure, mais une forme a priori de la sensibilité, condition de toute expérience.",
+          "extrait": "\"Le temps n’est pas quelque chose qui existe en soi, mais la forme du sens interne.\" (Critique de la raison pure, Esthétique transcendantale)"
+        },
+        {
+          "nom": "Henri Bergson",
+          "contribution": "Il distingue le temps des horloges (mesuré, spatial) et la durée vécue (expérience intérieure, continue, qualitative).",
+          "extrait": "\"Le temps vécu n’est pas le temps mesurable, mais la durée, le flux de la conscience.\" (Essai sur les données immédiates de la conscience, 1889)"
+        },
+        {
+          "nom": "Charles Darwin",
+          "contribution": "Il introduit l’idée du temps évolutif, du devenir de la vie, de l’histoire naturelle.",
+          "extrait": "\"La nature ne fait rien brusquement, tout change lentement.\" (De l’origine des espèces, ch. IV)"
+        }
+      ],
+      "usages_et_debats": "Débats sur le temps subjectif et objectif, la durée, la mémoire, l’historicité, le temps biologique et social.",
+      "changements_de_signification": "Le temps devient pluralité d’expériences : durée vécue, évolution historique, temps psychologique, temps mesuré.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Durée",
+          "explication_lien": "Bergson oppose la durée (temps vécu) au temps mesuré."
+        },
+        {
+          "notion": "Historicité",
+          "explication_lien": "Le temps est la condition de l’histoire et de l’évolution."
+        },
+        {
+          "notion": "Mémoire",
+          "explication_lien": "Le temps vécu est inséparable de la mémoire individuelle et collective."
+        }
+      ]
+    },
+    {
+      "periode": "Époque contemporaine (XXe-XXIe siècles)",
+      "description_generale": "Le temps est étudié comme construction culturelle, sociale et symbolique, mais aussi comme réalité physique complexe (relativité, flèche du temps). Les sciences humaines interrogent la multiplicité des temps (social, psychique, historique), la mémoire, l’oubli, l’accélération du temps contemporain.",
+      "penseurs_cles": [
+        {
+          "nom": "Albert Einstein",
+          "contribution": "Il révolutionne la physique en montrant que le temps est relatif, dépendant de la vitesse et du champ gravitationnel ; il n’y a plus de temps absolu.",
+          "extrait": "\"La distinction entre passé, présent et futur n’est qu’une illusion, si tenace soit-elle.\" (Lettre à Michele Besso, 1955)"
+        },
+        {
+          "nom": "Paul Ricoeur",
+          "contribution": "Il analyse la narration comme manière de donner sens au temps humain, et réfléchit au rapport entre temps vécu, temps cosmique et temps raconté.",
+          "extrait": "\"Le temps devient temps humain dans la mesure où il est articulé selon un mode narratif.\" (Temps et récit, I, 1983)"
+        },
+        {
+          "nom": "Hartmut Rosa",
+          "contribution": "Il s’intéresse à l’accélération du temps dans les sociétés modernes et à ses effets sur l’expérience humaine.",
+          "extrait": "\"Nous vivons dans une société de l’accélération, où le temps semble toujours manquer.\" (Accélération, 2010)"
+        }
+      ],
+      "usages_et_debats": "Débats sur le temps subjectif et objectif, le temps des sociétés, l’accélération, l’oubli, la mémoire, la gestion du temps dans la modernité.",
+      "changements_de_signification": "Le temps est désormais pensé comme pluralité d’expériences, objet de disciplines multiples (physique, philosophie, sociologie, psychologie).",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Relativité",
+          "explication_lien": "Le temps n’est pas absolu mais dépend du point de vue et du mouvement."
+        },
+        {
+          "notion": "Narration",
+          "explication_lien": "Le récit donne forme et sens au temps vécu."
+        },
+        {
+          "notion": "Accélération",
+          "explication_lien": "Le temps social semble s’accélérer dans la modernité, bouleversant les rythmes de vie."
+        },
+        {
+          "notion": "Mémoire/oubli",
+          "explication_lien": "La gestion du temps est liée à la mémoire et à l’oubli individuels et collectifs."
+        }
+      ]
+    }
+  ],
+  "etymologie": "Le mot 'temps' vient du latin 'tempus', qui signifie aussi bien la durée, la saison, le moment propice. En grec ancien, on distingue 'chronos' (le temps mesuré, linéaire) et 'kairos' (le temps opportun, le moment décisif). Le mot français 'temps' désigne à la fois la durée, la succession des instants, le climat, ou encore la conjugaison verbale. Au fil de l’histoire, le terme s’est enrichi de sens philosophiques, scientifiques et existentiels.",
+  "citations": [
+    {
+      "auteur": "Platon",
+      "oeuvre": "Timée",
+      "citation": "\"Le temps est l’image mobile de l’éternité immobile.\"",
+      "commentaire": "Platon fait du temps une copie imparfaite de l’éternité, liée au mouvement du ciel."
+    },
+    {
+      "auteur": "Saint Augustin",
+      "oeuvre": "Confessions",
+      "citation": "\"Qu’est-ce donc que le temps ? Si personne ne me le demande, je le sais ; si je veux l’expliquer, je ne le sais plus.\"",
+      "commentaire": "Augustin exprime le mystère du temps et son lien à la conscience."
+    },
+    {
+      "auteur": "Isaac Newton",
+      "oeuvre": "Principia Mathematica",
+      "citation": "\"Le temps absolu, vrai et mathématique, coule uniformément sans relation à rien d’extérieur.\"",
+      "commentaire": "Newton pose le temps comme réalité universelle, indépendante, mesurable."
+    },
+    {
+      "auteur": "Henri Bergson",
+      "oeuvre": "Essai sur les données immédiates de la conscience",
+      "citation": "\"Le temps vécu n’est pas le temps mesurable, mais la durée, le flux de la conscience.\"",
+      "commentaire": "Bergson distingue radicalement le temps intérieur de la mesure objective."
+    },
+    {
+      "auteur": "Albert Einstein",
+      "oeuvre": "Lettre à Michele Besso",
+      "citation": "\"La distinction entre passé, présent et futur n’est qu’une illusion, si tenace soit-elle.\"",
+      "commentaire": "Einstein remet en cause le temps absolu, soulignant la relativité de la temporalité."
+    },
+    {
+      "auteur": "Paul Ricoeur",
+      "oeuvre": "Temps et récit",
+      "citation": "\"Le temps devient temps humain dans la mesure où il est articulé selon un mode narratif.\"",
+      "commentaire": "Ricoeur montre que le récit est essentiel pour donner sens à notre expérience du temps."
+    }
+  ]
+}

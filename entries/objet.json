@@ -1,0 +1,181 @@
+{
+  "periodes": [
+    {
+      "periode": "Antiquité",
+      "description_generale": "À cette époque, il n’existe pas de mot ou de concept équivalent à notre 'objet' au sens moderne. Les penseurs s’intéressent plutôt à ce qui est 'ce dont on parle', 'ce qui est perçu', ou encore à ce qui se tient 'devant' le regard ou la pensée. Les préoccupations portent sur la distinction entre les choses matérielles, les êtres vivants, ou encore ce qui relève du monde des idées.",
+      "penseurs_cles": [
+        {
+          "nom": "Platon",
+          "contribution": "Il distingue le monde sensible, composé de choses particulières, et le monde intelligible, composé d’entités idéales. Ce que nous saisissons par les sens n’est qu’une copie imparfaite de formes parfaites.",
+          "extrait": "\"Ce que nous appelons une table, n'est pas la vraie Table, mais une imitation de l'Idée de la Table.\" (République, Livre X)"
+        },
+        {
+          "nom": "Aristote",
+          "contribution": "Il développe une analyse de la substance, du substrat, de ce qui existe en soi. Il distingue aussi les attributs qui appartiennent aux choses, sans formuler encore la notion d’objet comme entité indépendante du sujet.",
+          "extrait": "\"La substance première est ce qui n’est dit d’aucun sujet, mais dont tout le reste est affirmé.\" (Catégories, 2a)"
+        }
+      ],
+      "usages_et_debats": "Les débats portent sur la différence entre ce qui existe par soi (substance) et ce qui n’existe qu’en relation à autre chose (accident, attribut). On réfléchit également à ce qui est perçu par les sens ou pensé par l’intellect.",
+      "changements_de_signification": "L’idée de ce qui se dresse devant le regard ou la pensée (ob-jectum, au sens étymologique latin) n’est pas encore formalisée. On parle plutôt de la substance ou du 'ce qui est'.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Substance",
+          "explication_lien": "La substance désigne ce qui existe en soi, ce qui serait plus tard rapproché de la notion d’objet."
+        },
+        {
+          "notion": "Idée",
+          "explication_lien": "Chez Platon, l’Idée est la réalité véritable derrière ce qui apparaît dans le monde sensible."
+        }
+      ]
+    },
+    {
+      "periode": "Moyen Âge",
+      "description_generale": "Le terme latin 'objectum' commence à apparaître, désignant ce qui est 'jeté devant' l’esprit ou la pensée, principalement dans le contexte de la logique et de la théologie scolastique.",
+      "penseurs_cles": [
+        {
+          "nom": "Thomas d’Aquin",
+          "contribution": "Il emploie 'objectum' pour désigner ce sur quoi porte une faculté de l’âme (comme l’intellect ou les sens). L’accent est mis sur la relation entre l’esprit et ce qu’il vise.",
+          "extrait": "\"L’objet de l’intellect est le vrai, l’objet de la volonté est le bien.\" (Somme théologique, I, q. 82, a. 3)"
+        },
+        {
+          "nom": "Jean Duns Scot",
+          "contribution": "Il approfondit la notion d’objectum comme ce qui donne forme à l’acte cognitif. L’objet devient ce qui spécifie une opération de l’esprit.",
+          "extrait": "\"L’objet propre du sens est ce qui est accessible à la sensation.\" (Questions sur la Métaphysique d’Aristote, I, q. 3)"
+        }
+      ],
+      "usages_et_debats": "Les débats portent sur la correspondance entre la pensée et ce sur quoi elle porte. On interroge la distinction entre l’objet propre de chaque faculté (vue, ouïe, intellect) et l’objet général du savoir.",
+      "changements_de_signification": "La notion d’objet commence à se détacher de la seule matérialité pour désigner ce qui 'se présente' à une faculté cognitive.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Acte et puissance",
+          "explication_lien": "L’objet est ce qui actualise une puissance de l’âme (par exemple, la vue est actualisée par la couleur)."
+        },
+        {
+          "notion": "Intentionnalité",
+          "explication_lien": "L’idée que la pensée est toujours 'à propos de' quelque chose se précise autour de l’objet."
+        }
+      ]
+    },
+    {
+      "periode": "Âge classique (XVIIe - XVIIIe siècles)",
+      "description_generale": "Le mot 'objet' prend un sens philosophique central : il désigne ce qui est posé en face du sujet pensant. La distinction sujet/objet devient structurante dans la philosophie de la connaissance.",
+      "penseurs_cles": [
+        {
+          "nom": "René Descartes",
+          "contribution": "Il pose la dualité sujet/objet : le sujet est la conscience pensante, l’objet est ce qui est représenté à cette conscience.",
+          "extrait": "\"Je pense, donc je suis.\" (Discours de la méthode) — sous-entendu : ce que je pense, ce sont des objets de pensée."
+        },
+        {
+          "nom": "John Locke",
+          "contribution": "Il analyse les idées comme des représentations dans l’esprit, issues d’objets extérieurs communiqués par la sensation.",
+          "extrait": "\"Les idées qui sont dans l’esprit sont les objets immédiats de la pensée.\" (Essai sur l’entendement humain, II, i, 2)"
+        }
+      ],
+      "usages_et_debats": "Le débat s’organise autour de la confiance à accorder aux objets de la perception et du rapport entre objets matériels et objets mentaux.",
+      "changements_de_signification": "L’objet devient ce qui est face au sujet, ce qui est susceptible d’être connu ou perçu, et non plus seulement ce qui existe matériellement.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Sujet",
+          "explication_lien": "Le sujet, c’est ce qui connaît ; l’objet, ce qui est connu."
+        },
+        {
+          "notion": "Représentation",
+          "explication_lien": "L’objet est ce qui se donne à la conscience sous forme de représentation."
+        }
+      ]
+    },
+    {
+      "periode": "Époque moderne (XIXe siècle)",
+      "description_generale": "L’objet devient un concept clé de la théorie de la connaissance et de la psychologie naissante. On s’interroge sur la constitution de l’objet dans la perception et dans la pensée, et sur la relation entre objet et sujet.",
+      "penseurs_cles": [
+        {
+          "nom": "Immanuel Kant",
+          "contribution": "Il affirme que l’objet de la connaissance n’est pas donné en soi, mais construit par les formes a priori de la sensibilité et de l’entendement.",
+          "extrait": "\"Les objets doivent se conformer à notre connaissance.\" (Critique de la raison pure, Préface à la 2e édition)"
+        },
+        {
+          "nom": "Franz Brentano",
+          "contribution": "Il redéfinit l’intentionnalité comme le fait que toute conscience est conscience de quelque chose — c’est-à-dire d’un objet intentionnel.",
+          "extrait": "\"Tout phénomène psychique contient quelque chose comme objet en lui-même.\" (Psychologie du point de vue empirique, §5)"
+        }
+      ],
+      "usages_et_debats": "On débat sur la réalité des objets indépendamment du sujet, et sur la manière dont l’objet est construit ou découvert par la pensée.",
+      "changements_de_signification": "L’objet n’est plus seulement ce qui est là, mais ce qui est constitué par l’activité du sujet, ou ce vers quoi la conscience se dirige.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Phénomène",
+          "explication_lien": "L’objet, pour Kant, est toujours un phénomène, c’est-à-dire ce qui apparaît à un sujet."
+        },
+        {
+          "notion": "Intentionnalité",
+          "explication_lien": "L’objet est ce vers quoi tend la conscience."
+        }
+      ]
+    },
+    {
+      "periode": "Époque contemporaine (XXe-XXIe siècles)",
+      "description_generale": "La notion d’objet se diversifie et devient centrale aussi bien en phénoménologie, en psychanalyse, en sciences sociales ou encore dans la philosophie analytique. On distingue objets matériels, objets logiques, objets sociaux, etc.",
+      "penseurs_cles": [
+        {
+          "nom": "Edmund Husserl",
+          "contribution": "Il distingue l’objet intentionnel (ce vers quoi la conscience se dirige) et l’objet réel (ce qui existe effectivement dans le monde).",
+          "extrait": "\"L’objet intentionnel est ce à quoi se rapporte un acte de conscience, qu’il existe ou non réellement.\" (Recherches logiques, II)"
+        },
+        {
+          "nom": "Jacques Lacan",
+          "contribution": "Il introduit la notion d'objet a, comme objet cause du désir, insaisissable, qui structure le manque du sujet.",
+          "extrait": "\"L’objet a, c’est ce qui cause le désir.\" (Le Séminaire, Livre XI)"
+        }
+      ],
+      "usages_et_debats": "Les débats contemporains portent sur la multiplicité des types d’objets (physiques, mathématiques, sociaux, fictionnels) et sur la possibilité de penser des objets sans sujet ou indépendamment de la conscience.",
+      "changements_de_signification": "L’objet n’est plus seulement ce qui se présente à une conscience, il peut être construit collectivement, être purement formel, ou encore être mis en question dans son existence même.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Objet intentionnel",
+          "explication_lien": "Ce qui est visé par un acte de conscience, indépendamment de son existence réelle."
+        },
+        {
+          "notion": "Objet social",
+          "explication_lien": "Ce qui existe parce qu’il est reconnu collectivement (comme l’argent, les lois, etc.)."
+        },
+        {
+          "notion": "Objet a (Lacan)",
+          "explication_lien": "L’objet cause du désir, notion psychanalytique."
+        }
+      ]
+    }
+  ],
+  "etymologie": "Le mot 'objet' vient du latin 'objectum', participe passé neutre de 'objectare', qui signifie littéralement 'jeté devant'. À Rome, le mot sert d’abord à désigner ce qui se trouve en face, ce qui fait obstacle ou s’oppose. Au Moyen Âge, le latin scolastique raffine le sens pour décrire ce sur quoi une opération de l’esprit s’exerce (l’objectum de la vue est la couleur, etc.). En français, le mot apparaît au XIIIe siècle et prend peu à peu le sens philosophique de ce qui est posé face au sujet pensant. Au fil des siècles, la portée conceptuelle du mot s’élargit : d’abord ce qui fait face, il devient ce qui est visé par la pensée, puis ce qui est construit par l’esprit, puis ce qui peut être aussi bien matériel qu’immatériel, réel ou fictif, selon les contextes philosophiques.",
+  "citations": [
+    {
+      "auteur": "Thomas d’Aquin",
+      "oeuvre": "Somme théologique",
+      "citation": "\"L'objet de l'intellect est le vrai, l'objet de la volonté est le bien.\"",
+      "commentaire": "Thomas explicite la manière dont chaque faculté de l’âme humaine vise un type particulier d’objet, marquant l’usage médiéval du terme."
+    },
+    {
+      "auteur": "John Locke",
+      "oeuvre": "Essai sur l’entendement humain",
+      "citation": "\"Les idées qui sont dans l’esprit sont les objets immédiats de la pensée.\"",
+      "commentaire": "Locke montre que ce que nous pensons, ce sont des objets mentaux, c’est-à-dire des représentations internes."
+    },
+    {
+      "auteur": "Immanuel Kant",
+      "oeuvre": "Critique de la raison pure",
+      "citation": "\"Les objets doivent se conformer à notre connaissance.\"",
+      "commentaire": "Kant inverse la perspective traditionnelle : ce n’est pas la pensée qui s’adapte aux objets, mais les objets qui sont constitués par la pensée."
+    },
+    {
+      "auteur": "Edmund Husserl",
+      "oeuvre": "Recherches logiques",
+      "citation": "\"L’objet intentionnel est ce à quoi se rapporte un acte de conscience, qu’il existe ou non réellement.\"",
+      "commentaire": "Husserl distingue l’objet réel de l’objet intentionnel, ouvrant la voie à une analyse fine des objets de la pensée."
+    },
+    {
+      "auteur": "Jacques Lacan",
+      "oeuvre": "Le Séminaire, Livre XI",
+      "citation": "\"L’objet a, c’est ce qui cause le désir.\"",
+      "commentaire": "Lacan réinvente la notion d’objet dans la psychanalyse en le liant à la question du manque et du désir."
+    }
+  ]
+}

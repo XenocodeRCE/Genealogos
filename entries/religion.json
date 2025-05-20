@@ -1,0 +1,222 @@
+{
+  "periodes": [
+    {
+      "periode": "Antiquité",
+      "description_generale": "Le mot 'religion' n’existe pas encore comme concept autonome, mais les Grecs et les Romains pratiquent des cultes, des rites, des sacrifices et des fêtes en l’honneur des dieux. La religion est avant tout affaire de tradition, de respect des dieux de la cité, et d’harmonie avec l’ordre cosmique. Il n’y a pas de séparation entre religion, morale, politique et culture.",
+      "penseurs_cles": [
+        {
+          "nom": "Platon",
+          "contribution": "Il réfléchit sur la piété (eusebeia), la justice envers les dieux, et l’importance des rites pour l’ordre de la cité. Il ne distingue pas foi et raison, mais voit la religion comme fondement de l’ordre moral et politique.",
+          "extrait": "\"Il faut honorer les dieux comme il est prescrit par la loi.\" (Les Lois, IV, 716a)"
+        },
+        {
+          "nom": "Cicéron",
+          "contribution": "Il emploie le mot latin 'religio' pour désigner le respect scrupuleux des rites, des serments et des traditions, plus que la foi intérieure.",
+          "extrait": "\"La religion consiste à rendre à la nature divine un culte et un honneur convenables.\" (De natura deorum, II, 28)"
+        }
+      ],
+      "usages_et_debats": "Débats sur la piété, le rôle des rites, la relation entre humains et dieux. Les philosophes interrogent parfois le sens des mythes ou la nature du divin.",
+      "changements_de_signification": "La religion est d’abord un ensemble de pratiques collectives et de traditions, liée à l’ordre de la cité.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Piété",
+          "explication_lien": "Respect des dieux, attitude fondamentale de la religion antique."
+        },
+        {
+          "notion": "Mythe",
+          "explication_lien": "Les récits mythiques structurent la vision du monde et les pratiques religieuses."
+        },
+        {
+          "notion": "Rite",
+          "explication_lien": "La religion s’exprime surtout par des gestes rituels collectifs."
+        }
+      ]
+    },
+    {
+      "periode": "Moyen Âge",
+      "description_generale": "La religion devient un concept central, synonyme de foi, d’appartenance à une Église, de relation à Dieu unique. Le christianisme structure l’ensemble de la vie sociale, juridique, morale et politique. La foi, les dogmes, les sacrements et l’obéissance à l’Église sont au cœur de la vie religieuse.",
+      "penseurs_cles": [
+        {
+          "nom": "Saint Augustin",
+          "contribution": "Il définit la religion comme relation intime à Dieu, fondée sur la foi, la prière, la charité et l’appartenance à la vraie Église.",
+          "extrait": "\"La vraie religion est celle qui s’attache au seul Dieu, source du salut.\" (La Cité de Dieu, X, 1)"
+        },
+        {
+          "nom": "Thomas d’Aquin",
+          "contribution": "Il fait de la religion une vertu morale qui consiste à rendre à Dieu ce qui lui est dû par le culte, la prière et l’obéissance.",
+          "extrait": "\"La religion est la vertu par laquelle l’homme rend à Dieu le culte qui lui est dû.\" (Somme théologique, II-II, q.81, a.1)"
+        }
+      ],
+      "usages_et_debats": "Débats sur la vraie religion, sur l’hérésie, sur la distinction foi/raison, sur le salut, sur la place des autres religions (juive, musulmane, païenne).",
+      "changements_de_signification": "La religion devient foi personnelle et institution collective, fondement de la morale et de la politique.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Foi",
+          "explication_lien": "La religion est indissociable de la foi dans le Dieu unique."
+        },
+        {
+          "notion": "Église",
+          "explication_lien": "La religion s’incarne dans une institution hiérarchique."
+        },
+        {
+          "notion": "Salut",
+          "explication_lien": "La religion vise le salut de l’âme et la vie éternelle."
+        }
+      ]
+    },
+    {
+      "periode": "Âge classique (XVIIe - XVIIIe siècles)",
+      "description_generale": "La religion est interrogée par la philosophie : on distingue religion naturelle (accessible à la raison) et religion révélée. Les Lumières critiquent le fanatisme, l’intolérance, et défendent la tolérance et la liberté de conscience. La religion devient objet de débat public et de réflexion critique.",
+      "penseurs_cles": [
+        {
+          "nom": "Baruch Spinoza",
+          "contribution": "Il critique la superstition, défend une religion rationnelle, universelle, fondée sur l’amour du prochain et la connaissance de Dieu.",
+          "extrait": "\"La vraie religion consiste dans la justice et la charité.\" (Traité théologico-politique, XIV)"
+        },
+        {
+          "nom": "Voltaire",
+          "contribution": "Il combat le fanatisme religieux et prône la tolérance, la liberté de pensée et la séparation entre Église et État.",
+          "extrait": "\"Si Dieu n’existait pas, il faudrait l’inventer.\" (Épîtres, XVI, 1768)"
+        },
+        {
+          "nom": "Jean-Jacques Rousseau",
+          "contribution": "Il distingue religion civile (fondant le lien social) et religion naturelle (sentiment du divin, conscience morale universelle).",
+          "extrait": "\"Il y a une religion naturelle, écrite dans le cœur de l’homme.\" (Émile, IV)"
+        }
+      ],
+      "usages_et_debats": "Débats sur la tolérance, la place de la religion dans l’État, la distinction entre religion naturelle et révélée, la critique des dogmes et des superstitions.",
+      "changements_de_signification": "La religion devient objet de critique rationnelle, de débat politique et de réflexion sur la liberté de conscience.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Tolérance",
+          "explication_lien": "La liberté religieuse devient un idéal des Lumières."
+        },
+        {
+          "notion": "Raison",
+          "explication_lien": "La religion est confrontée à l’autonomie de la raison critique."
+        },
+        {
+          "notion": "Religion naturelle",
+          "explication_lien": "Idée d’une religion fondée sur la raison et l’universalité morale."
+        }
+      ]
+    },
+    {
+      "periode": "Époque moderne (XIXe siècle)",
+      "description_generale": "La religion est analysée comme phénomène historique, social, psychologique. Elle n’est plus seulement question de foi ou de dogme, mais fait l’objet de la critique, de la sociologie, de la psychologie et de l’histoire comparée des religions. On s’interroge sur sa fonction dans la société et son rapport à la modernité.",
+      "penseurs_cles": [
+        {
+          "nom": "Friedrich Schleiermacher",
+          "contribution": "Il définit la religion comme sentiment de dépendance absolue, expérience vécue du sacré plutôt que simple adhésion à des dogmes.",
+          "extrait": "\"La religion est le sentiment immédiat du rapport de l’homme à l’infini.\" (Discours sur la religion, I, 1799)"
+        },
+        {
+          "nom": "Karl Marx",
+          "contribution": "Il analyse la religion comme 'opium du peuple', illusion produite par la société pour supporter la misère, et instrument de domination.",
+          "extrait": "\"La religion est le soupir de la créature opprimée... l’opium du peuple.\" (Critique de la philosophie du droit de Hegel, 1843)"
+        },
+        {
+          "nom": "Émile Durkheim",
+          "contribution": "Il voit la religion comme fait social fondamental, moyen de cohésion, de distinction du sacré et du profane.",
+          "extrait": "\"La religion est un système solidaire de croyances et de pratiques relatives à des choses sacrées.\" (Les Formes élémentaires de la vie religieuse, 1912)"
+        }
+      ],
+      "usages_et_debats": "Débats sur la fonction sociale de la religion, sur la sécularisation, sur la religion comme illusion ou comme ciment collectif, sur le religieux comme expérience intime ou institution sociale.",
+      "changements_de_signification": "La religion devient objet d’analyse scientifique et critique, pluralisée, historicisée, et parfois relativisée.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Sécularisation",
+          "explication_lien": "La religion perd son monopole au profit d’autres institutions."
+        },
+        {
+          "notion": "Sacré",
+          "explication_lien": "La religion structure la distinction entre sacré et profane."
+        },
+        {
+          "notion": "Aliénation",
+          "explication_lien": "La religion peut être vue comme source d’aliénation ou de consolation."
+        }
+      ]
+    },
+    {
+      "periode": "Époque contemporaine (XXe-XXIe siècles)",
+      "description_generale": "La religion est étudiée sous l’angle de la pluralité, de la diversité des croyances, des rapports avec la modernité, la science, la politique et la mondialisation. On analyse la résurgence du religieux, le fondamentalisme, la spiritualité individuelle, la sécularisation, et la recomposition des formes religieuses.",
+      "penseurs_cles": [
+        {
+          "nom": "Mircea Eliade",
+          "contribution": "Il explore la structure du sacré dans toutes les cultures : la religion est expérience fondamentale du sacré, de la transcendance, et de la répétition des mythes fondateurs.",
+          "extrait": "\"L’homme religieux s’efforce toujours de vivre dans un monde sacralisé.\" (Le Sacré et le profane, 1957)"
+        },
+        {
+          "nom": "Marcel Gauchet",
+          "contribution": "Il analyse la sortie de la religion comme passage vers la modernité, mais montre aussi la persistance du religieux sous d’autres formes.",
+          "extrait": "\"La religion est la matrice de la sortie de la religion.\" (Le Désenchantement du monde, 1985)"
+        },
+        {
+          "nom": "Jürgen Habermas",
+          "contribution": "Il réfléchit au rôle du dialogue entre croyants et non-croyants dans les sociétés pluralistes, à la nécessité d’une traduction des valeurs religieuses dans l’espace public.",
+          "extrait": "\"Les convictions religieuses peuvent nourrir le débat public, à condition de se traduire en langage accessible à tous.\" (Entre naturalisme et religion, 2005)"
+        }
+      ],
+      "usages_et_debats": "Débats sur la coexistence des religions, la laïcité, la montée du fondamentalisme, la spiritualité 'sans religion', le dialogue interreligieux, ou encore la religion face à la science et à la technique.",
+      "changements_de_signification": "La religion devient pluralité de croyances, pratiques, expériences ; elle n’est plus monopole d’une institution mais phénomène social, culturel et individuel complexe.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Sacré",
+          "explication_lien": "La religion est souvent analysée par rapport à l’expérience du sacré."
+        },
+        {
+          "notion": "Laïcité",
+          "explication_lien": "La séparation entre sphère religieuse et sphère publique devient enjeu central."
+        },
+        {
+          "notion": "Spiritualité",
+          "explication_lien": "La recherche de sens peut se détacher des dogmes et des institutions pour devenir quête individuelle."
+        },
+        {
+          "notion": "Dialogue interreligieux",
+          "explication_lien": "La pluralité religieuse conduit à la nécessité du dialogue et de la tolérance."
+        }
+      ]
+    }
+  ],
+  "etymologie": "Le mot 'religion' vient du latin 'religio', qui signifie d’abord scrupule, respect, souci d’accomplir correctement les rites, puis ensemble organisé de croyances et de pratiques en relation avec le divin. Son origine est discutée : certains le relient à 'religare' (relier) – la religion relie les hommes entre eux et à Dieu ; d’autres à 'relegere' (recueillir, méditer). Au fil du temps, 'religion' en français désigne à la fois l’institution, la foi, le système de croyances et l’expérience du sacré.",
+  "citations": [
+    {
+      "auteur": "Cicéron",
+      "oeuvre": "De natura deorum",
+      "citation": "\"La religion consiste à rendre à la nature divine un culte et un honneur convenables.\"",
+      "commentaire": "Cicéron donne à la religion son sens antique de respect des rites et des dieux."
+    },
+    {
+      "auteur": "Saint Augustin",
+      "oeuvre": "La Cité de Dieu",
+      "citation": "\"La vraie religion est celle qui s’attache au seul Dieu, source du salut.\"",
+      "commentaire": "Augustin fait de la religion la relation intime et exclusive à Dieu."
+    },
+    {
+      "auteur": "Baruch Spinoza",
+      "oeuvre": "Traité théologico-politique",
+      "citation": "\"La vraie religion consiste dans la justice et la charité.\"",
+      "commentaire": "Spinoza rationalise la religion comme fondée sur l’éthique universelle."
+    },
+    {
+      "auteur": "Karl Marx",
+      "oeuvre": "Critique de la philosophie du droit de Hegel",
+      "citation": "\"La religion est le soupir de la créature opprimée... l’opium du peuple.\"",
+      "commentaire": "Marx analyse la religion comme consolation et illusion sociale."
+    },
+    {
+      "auteur": "Émile Durkheim",
+      "oeuvre": "Les Formes élémentaires de la vie religieuse",
+      "citation": "\"La religion est un système solidaire de croyances et de pratiques relatives à des choses sacrées.\"",
+      "commentaire": "Durkheim fonde la sociologie de la religion sur la distinction sacré/profane."
+    },
+    {
+      "auteur": "Mircea Eliade",
+      "oeuvre": "Le Sacré et le profane",
+      "citation": "\"L’homme religieux s’efforce toujours de vivre dans un monde sacralisé.\"",
+      "commentaire": "Eliade rappelle la dimension universelle de l’expérience religieuse du sacré."
+    }
+  ]
+}

@@ -1,0 +1,223 @@
+{
+  "periodes": [
+    {
+      "periode": "Antiquité",
+      "description_generale": "La beauté est pensée comme harmonie, proportion, éclat ou ordre. Elle concerne aussi bien les corps, les œuvres humaines que la nature ou les idées. Les philosophes grecs recherchent ce qui fait qu’une chose attire, plaît, ou élève l’âme. La beauté n’est pas qu’esthétique : elle touche au vrai et au bien.",
+      "penseurs_cles": [
+        {
+          "nom": "Platon",
+          "contribution": "Il distingue la beauté sensible (des corps ou des œuvres) et la beauté idéale, suprême, accessible seulement à l’intellect. La beauté est ce qui élève l’âme vers le Bien.",
+          "extrait": "\"Ce n’est que par la beauté que l’homme s’élève à la contemplation du vrai Bien.\" (Le Banquet, 210e)"
+        },
+        {
+          "nom": "Aristote",
+          "contribution": "Il voit la beauté dans l’ordre, la proportion et la grandeur convenable. La beauté concerne à la fois l’art (tragédie, sculpture) et la nature.",
+          "extrait": "\"La beauté consiste dans la grandeur et l’ordre des parties.\" (Poétique, VII, 1450b)"
+        },
+        {
+          "nom": "Plotin",
+          "contribution": "Il insiste sur la beauté spirituelle et intérieure, au-delà de l’apparence. La beauté est rayonnement de l’âme sur le sensible.",
+          "extrait": "\"La beauté n’est pas dans les objets, mais dans la lumière qui s’y projette.\" (Ennéades, I, 6, 1)"
+        }
+      ],
+      "usages_et_debats": "Débats sur la beauté comme qualité objective (harmonie, proportion) ou comme valeur spirituelle ; sur la beauté naturelle versus artistique ; sur le rôle éducatif ou moral de la beauté.",
+      "changements_de_signification": "La beauté est d’abord une qualité universelle, liée à l’ordre du monde et à la vérité ; elle n’est pas encore subjective ou purement esthétique.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Harmonie",
+          "explication_lien": "La beauté se manifeste par l’harmonie des parties dans l’ensemble."
+        },
+        {
+          "notion": "Bien",
+          "explication_lien": "Chez Platon et Plotin, la beauté est chemin vers le Bien."
+        },
+        {
+          "notion": "Mimesis",
+          "explication_lien": "L’art imite la beauté de la nature ou des idées."
+        }
+      ]
+    },
+    {
+      "periode": "Moyen Âge",
+      "description_generale": "La beauté est pensée comme reflet de la perfection divine. Elle n’est pas séparable du vrai et du bien. La beauté du monde, des œuvres et des âmes est une participation à la Beauté suprême, qui est Dieu. La théorie des proportions, des lumières et des symboles occupe une place centrale.",
+      "penseurs_cles": [
+        {
+          "nom": "Saint Augustin",
+          "contribution": "Il voit la beauté comme trace de Dieu dans la création : la beauté sensible renvoie à la beauté spirituelle et à l’harmonie divine.",
+          "extrait": "\"Interroge la beauté de la terre, de la mer, de l’air... tout te répond : Nous sommes belles.\" (Sermons, 241, 2)"
+        },
+        {
+          "nom": "Thomas d’Aquin",
+          "contribution": "Il définit la beauté par l’intégrité, la proportion et la clarté. Toute beauté créée est participation à la beauté divine.",
+          "extrait": "\"Les choses sont belles dans la mesure où elles imitent la beauté divine.\" (Somme théologique, I, q.5, a.4)"
+        }
+      ],
+      "usages_et_debats": "Débats sur la beauté comme voie vers Dieu, sur la fonction symbolique de l’art religieux, sur la hiérarchie des beautés (corporelle, morale, spirituelle).",
+      "changements_de_signification": "La beauté devient signe de la transcendance, médiatrice entre le monde et Dieu.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Dieu",
+          "explication_lien": "Dieu est la source et le modèle de toute beauté."
+        },
+        {
+          "notion": "Symbole",
+          "explication_lien": "La beauté sensible renvoie à une réalité supérieure, invisible."
+        },
+        {
+          "notion": "Lumière",
+          "explication_lien": "La lumière est souvent symbole et condition de la beauté."
+        }
+      ]
+    },
+    {
+      "periode": "Âge classique (XVIIe - XVIIIe siècles)",
+      "description_generale": "La beauté devient objet d’analyse rationnelle et esthétique. On cherche à définir des critères objectifs (proportion, symétrie, ordre), mais aussi à comprendre le rôle du goût, du plaisir et de la sensibilité. L’idée d’un 'beau universel' est discutée, ainsi que le rôle de l’art dans la production du beau.",
+      "penseurs_cles": [
+        {
+          "nom": "Nicolas Boileau",
+          "contribution": "Il affirme l’existence de règles du beau dans l’art, fondées sur l’imitation de la nature et l’ordre.",
+          "extrait": "\"Rien n’est beau que le vrai : le vrai seul est aimable.\" (Art poétique, I, v. 41)"
+        },
+        {
+          "nom": "Alexander Baumgarten",
+          "contribution": "Il fonde l’esthétique comme science du beau et de la perception sensible.",
+          "extrait": "\"L’esthétique est la science de la connaissance sensible.\" (Aesthetica, 1750)"
+        },
+        {
+          "nom": "Immanuel Kant",
+          "contribution": "Il distingue le beau subjectif (plaisir désintéressé, universalisable) et le sublime ; il fait du jugement de beauté une expérience libre, sans concept.",
+          "extrait": "\"Est beau ce qui plaît universellement sans concept.\" (Critique de la faculté de juger, §9)"
+        }
+      ],
+      "usages_et_debats": "Débats sur la possibilité d’un beau universel, sur les critères objectifs ou subjectifs de la beauté, sur la relation entre beauté naturelle et artistique.",
+      "changements_de_signification": "La beauté se sépare du bien et du vrai, devient expérience esthétique, liée au jugement et au goût.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Goût",
+          "explication_lien": "Le beau dépend du goût, faculté de juger sans concept."
+        },
+        {
+          "notion": "Sublime",
+          "explication_lien": "Le sublime dépasse le beau, produisant admiration ou effroi."
+        },
+        {
+          "notion": "Art",
+          "explication_lien": "L’art devient champ privilégié de la création du beau."
+        }
+      ]
+    },
+    {
+      "periode": "Époque moderne (XIXe siècle)",
+      "description_generale": "La beauté devient expérience subjective, parfois bouleversante ou dérangeante. L’art se libère des règles classiques : le beau n’est plus universel, il devient expression, émotion, originalité, voire scandale. On découvre le 'beau étrange', l’esthétique du laid, du sublime, ou du choc.",
+      "penseurs_cles": [
+        {
+          "nom": "Friedrich Nietzsche",
+          "contribution": "Il critique l’idéal classique du beau et valorise la puissance, l’intensité, la singularité de l’expérience esthétique.",
+          "extrait": "\"Le beau n’est qu’une promesse du bonheur.\" (Le Crépuscule des idoles, 'Maximes et pointes', §19)"
+        },
+        {
+          "nom": "Charles Baudelaire",
+          "contribution": "Il explore la beauté paradoxale, le beau dans le mal, l’étrange et le moderne.",
+          "extrait": "\"J’ai trouvé la définition du Beau : c’est quelque chose d’ardent et de triste.\" (Mon cœur mis à nu, 1864)"
+        },
+        {
+          "nom": "Victor Hugo",
+          "contribution": "Il défend le droit de l’art à explorer toutes les formes du beau, y compris le grotesque ou le sublime.",
+          "extrait": "\"Le beau n’a qu’un type, le laid en a mille.\" (Préface de Cromwell, 1827)"
+        }
+      ],
+      "usages_et_debats": "Débats sur le relativisme esthétique, la pluralité des beautés, la beauté du laid, le choc esthétique, le génie créateur.",
+      "changements_de_signification": "La beauté n’est plus universelle ni rationnelle : elle devient expression personnelle, émotion forte, voire provocation.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Sublime",
+          "explication_lien": "Le sublime transcende la beauté ordinaire par l’intensité ou la terreur."
+        },
+        {
+          "notion": "Modernité",
+          "explication_lien": "La beauté s’ouvre à la nouveauté, à la transgression, à l’étrange."
+        },
+        {
+          "notion": "Expression",
+          "explication_lien": "La beauté est vue comme expression de l’intériorité ou du génie."
+        }
+      ]
+    },
+    {
+      "periode": "Époque contemporaine (XXe-XXIe siècles)",
+      "description_generale": "La beauté se pluralise, se déconstruit, se démocratise. On parle de beautés multiples, d’esthétiques alternatives, de beauté du quotidien ou du banal. L’art contemporain remet en cause l’idée de beauté comme critère essentiel, tout en l’explorant sous des formes inédites (provoquer, questionner, bouleverser, faire réfléchir).",
+      "penseurs_cles": [
+        {
+          "nom": "Theodor W. Adorno",
+          "contribution": "Il analyse la crise du beau à l’ère de l’art moderne : la beauté n’est plus donnée, elle devient problématique, parfois même refusée au profit de l’informe ou du critique.",
+          "extrait": "\"Aujourd’hui, il n’est plus possible de parler du beau sans trembler.\" (Théorie esthétique, 1970)"
+        },
+        {
+          "nom": "Arthur Danto",
+          "contribution": "Il montre que l’art contemporain dépasse la beauté comme critère : une œuvre peut être significative sans être belle au sens classique.",
+          "extrait": "\"La beauté n’est plus la finalité de l’art, mais une possibilité parmi d’autres.\" (Après la fin de l’art, 1997)"
+        },
+        {
+          "nom": "Yves Michaud",
+          "contribution": "Il parle d’une 'esthétique du quotidien', où la beauté s’infiltre dans l’ordinaire et la vie de tous les jours.",
+          "extrait": "\"La beauté n’est plus rare, elle est partout, diffuse, banale.\" (L’Art à l’état gazeux, 2003)"
+        }
+      ],
+      "usages_et_debats": "Débats sur la disparition ou la transformation du beau, sur la beauté comme choc, comme concept ou comme expérience subjective, sur la place de la beauté dans le monde de la consommation et de la communication.",
+      "changements_de_signification": "La beauté devient multiple, contextuelle, parfois dissoute dans l’ordinaire ou la provocation ; elle n’est plus le critère unique ou suprême de l’art.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Esthétique",
+          "explication_lien": "L’esthétique s’élargit à la pluralité des expériences sensibles, pas seulement au beau."
+        },
+        {
+          "notion": "Provoquer",
+          "explication_lien": "L’art peut viser à déranger plutôt qu’à plaire ou embellir."
+        },
+        {
+          "notion": "Banalité",
+          "explication_lien": "La beauté du quotidien devient un objet philosophique et artistique."
+        }
+      ]
+    }
+  ],
+  "etymologie": "Le mot 'beauté' vient du latin 'bellus', signifiant 'joli', 'gracieux', mais aussi du latin 'bonus' (bon). En grec ancien, 'kalos' désigne ce qui est beau, noble, admirable, sans séparer beauté physique et beauté morale. Le mot français 'beauté' apparaît au XIIe siècle et désigne d’abord l’éclat, l’élégance, puis plus largement la perfection harmonieuse. Au fil du temps, il s’étend à l’art, à la nature, à la pensée et à l’expérience sensible.",
+  "citations": [
+    {
+      "auteur": "Platon",
+      "oeuvre": "Le Banquet",
+      "citation": "\"Ce n’est que par la beauté que l’homme s’élève à la contemplation du vrai Bien.\"",
+      "commentaire": "Platon fait de la beauté un chemin vers le spirituel et le vrai."
+    },
+    {
+      "auteur": "Aristote",
+      "oeuvre": "Poétique",
+      "citation": "\"La beauté consiste dans la grandeur et l’ordre des parties.\"",
+      "commentaire": "Aristote pense la beauté comme harmonie et proportion objective."
+    },
+    {
+      "auteur": "Saint Augustin",
+      "oeuvre": "Sermons",
+      "citation": "\"Interroge la beauté de la terre, de la mer, de l’air... tout te répond : Nous sommes belles.\"",
+      "commentaire": "Augustin voit la beauté du monde comme reflet de Dieu."
+    },
+    {
+      "auteur": "Immanuel Kant",
+      "oeuvre": "Critique de la faculté de juger",
+      "citation": "\"Est beau ce qui plaît universellement sans concept.\"",
+      "commentaire": "Kant fait du beau une expérience subjective à prétention universelle."
+    },
+    {
+      "auteur": "Charles Baudelaire",
+      "oeuvre": "Mon cœur mis à nu",
+      "citation": "\"J’ai trouvé la définition du Beau : c’est quelque chose d’ardent et de triste.\"",
+      "commentaire": "Baudelaire trouble le concept classique en liant beauté et mélancolie."
+    },
+    {
+      "auteur": "Arthur Danto",
+      "oeuvre": "Après la fin de l’art",
+      "citation": "\"La beauté n’est plus la finalité de l’art, mais une possibilité parmi d’autres.\"",
+      "commentaire": "Danto incarne la réflexion contemporaine sur la pluralité des critères artistiques."
+    }
+  ]
+}

@@ -1,0 +1,216 @@
+{
+  "periodes": [
+    {
+      "periode": "Antiquité",
+      "description_generale": "Le concept de pouvoir n’existe pas comme notion abstraite, mais les Grecs et les Romains réfléchissent à la force, à l’autorité, à la domination et au gouvernement. Le pouvoir est surtout pensé à travers les figures du chef, du roi, du magistrat ou des dieux, et à travers les formes de gouvernement (monarchie, aristocratie, démocratie). Il s’exerce dans la cité, par la loi, la parole, la force ou la persuasion.",
+      "penseurs_cles": [
+        {
+          "nom": "Platon",
+          "contribution": "Il analyse les différentes formes de gouvernement et réfléchit à la légitimité de l’autorité politique. Pour lui, le véritable pouvoir doit être exercé par les philosophes-rois, guidés par la justice et la connaissance.",
+          "extrait": "\"Il n’y aura pas de fin aux maux des cités tant que les philosophes ne seront pas rois.\" (La République, V, 473c)"
+        },
+        {
+          "nom": "Aristote",
+          "contribution": "Il distingue plusieurs types de pouvoirs politiques (monarchie, aristocratie, démocratie, etc.) et analyse la notion d’autorité ('archè') comme principe d’organisation de la cité.",
+          "extrait": "\"L’homme est un animal politique.\" (Politiques, I, 2, 1253a)"
+        }
+      ],
+      "usages_et_debats": "Débats sur la meilleure forme de gouvernement, la source de l’autorité, la distinction entre force et légitimité, la relation entre pouvoir politique et lois.",
+      "changements_de_signification": "Le pouvoir est pensé à travers ses formes concrètes et ses figures institutionnelles, pas encore comme force ou relation abstraite.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Autorité",
+          "explication_lien": "Le pouvoir s’exerce par l’autorité reconnue ou imposée."
+        },
+        {
+          "notion": "Gouvernement",
+          "explication_lien": "Les différentes formes de pouvoir politique organisent la cité."
+        },
+        {
+          "notion": "Loi",
+          "explication_lien": "Le pouvoir est lié à la capacité de faire, d’appliquer ou de transgresser la loi."
+        }
+      ]
+    },
+    {
+      "periode": "Moyen Âge",
+      "description_generale": "Le pouvoir est pensé dans le cadre religieux et féodal : il vient de Dieu, se transmet par la lignée ou l’onction, et s’exerce dans une société hiérarchisée. Le pouvoir spirituel (Église) et le pouvoir temporel (rois, seigneurs) coexistent, parfois en conflit, parfois en alliance.",
+      "penseurs_cles": [
+        {
+          "nom": "Saint Augustin",
+          "contribution": "Il distingue le pouvoir spirituel, supérieur, du pouvoir temporel, qui doit être subordonné à Dieu et servir la paix.",
+          "extrait": "\"Il vaut mieux obéir à Dieu qu’aux hommes.\" (La Cité de Dieu, V, 17)"
+        },
+        {
+          "nom": "Thomas d’Aquin",
+          "contribution": "Il affirme que tout pouvoir légitime vient de Dieu mais doit être exercé selon la raison et pour le bien commun.",
+          "extrait": "\"Tout pouvoir vient de Dieu, mais il peut être mal exercé par les hommes.\" (Somme théologique, I-II, q. 90, a. 1)"
+        }
+      ],
+      "usages_et_debats": "Débats sur la légitimité du pouvoir, la hiérarchie entre autorité spirituelle et temporelle, la justice de l’exercice du pouvoir.",
+      "changements_de_signification": "Le pouvoir est sacralisé, hiérarchisé, soumis à des principes religieux et moraux supérieurs.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Souveraineté",
+          "explication_lien": "Le pouvoir suprême sur un territoire ou une communauté."
+        },
+        {
+          "notion": "Légitimité",
+          "explication_lien": "Le pouvoir n’est juste que s’il est conforme à la loi divine ou naturelle."
+        },
+        {
+          "notion": "Hiérarchie",
+          "explication_lien": "Le pouvoir est structuré par des degrés et des rangs reconnus."
+        }
+      ]
+    },
+    {
+      "periode": "Âge classique (XVIIe - XVIIIe siècles)",
+      "description_generale": "Le pouvoir devient objet de réflexion politique et philosophique. On cherche à comprendre ses sources, ses limites, sa légitimité. L’idée de souveraineté, de contrat social, de séparation des pouvoirs prend une place centrale. Le pouvoir n’est plus seulement sacré, il doit être justifié rationnellement et limité.",
+      "penseurs_cles": [
+        {
+          "nom": "Thomas Hobbes",
+          "contribution": "Il pense le pouvoir comme nécessaire pour sortir de l’état de nature et éviter la guerre de tous contre tous ; il fonde la souveraineté sur le contrat social.",
+          "extrait": "\"L’homme est un loup pour l’homme.\" (Leviathan, I, 13)"
+        },
+        {
+          "nom": "John Locke",
+          "contribution": "Il distingue les différents pouvoirs (législatif, exécutif, fédératif) et défend la limitation du pouvoir par le droit et la séparation des pouvoirs.",
+          "extrait": "\"Tout pouvoir légitime vient du consentement des gouvernés.\" (Second traité du gouvernement civil, II, 95)"
+        },
+        {
+          "nom": "Montesquieu",
+          "contribution": "Il développe la théorie de la séparation des pouvoirs pour éviter l’arbitraire et garantir la liberté.",
+          "extrait": "\"Pour qu’on ne puisse abuser du pouvoir, il faut que, par la disposition des choses, le pouvoir arrête le pouvoir.\" (De l’Esprit des lois, XI, 4)"
+        }
+      ],
+      "usages_et_debats": "Débats sur la source du pouvoir, sa légitimité, la nécessité de le limiter, la possibilité de le partager ou de le contrôler.",
+      "changements_de_signification": "Le pouvoir devient relation politique, objet de contrôle, et non plus seulement privilège ou droit sacré.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Souveraineté",
+          "explication_lien": "Le pouvoir suprême dans l’État, fondé sur le contrat social."
+        },
+        {
+          "notion": "Séparation des pouvoirs",
+          "explication_lien": "Principe pour éviter la concentration et l’abus de pouvoir."
+        },
+        {
+          "notion": "Contrat social",
+          "explication_lien": "Le pouvoir politique est fondé sur un accord entre individus libres."
+        }
+      ]
+    },
+    {
+      "periode": "Époque moderne (XIXe siècle)",
+      "description_generale": "Le pouvoir est analysé comme phénomène social, économique et historique. Il n’est plus seulement politique, mais s’exerce dans la société, l’économie, les rapports de force. On découvre le pouvoir comme rapport de domination, de lutte, de résistance ou d’émancipation.",
+      "penseurs_cles": [
+        {
+          "nom": "Karl Marx",
+          "contribution": "Il analyse le pouvoir comme expression des rapports de classes, instrument de domination de la classe bourgeoise sur le prolétariat.",
+          "extrait": "\"L’État moderne n’est qu’un comité qui gère les affaires communes de la bourgeoisie.\" (Manifeste du Parti communiste, I)"
+        },
+        {
+          "nom": "Friedrich Nietzsche",
+          "contribution": "Il pense le pouvoir comme 'volonté de puissance', force fondamentale de la vie, à l’œuvre dans toute création et tout rapport humain.",
+          "extrait": "\"Le monde est la volonté de puissance et rien d’autre.\" (Par-delà bien et mal, §36)"
+        },
+        {
+          "nom": "Max Weber",
+          "contribution": "Il définit le pouvoir comme la capacité d’imposer sa volonté à autrui, même contre sa résistance, et distingue le pouvoir de l’autorité légitime.",
+          "extrait": "\"Le pouvoir signifie toute chance de faire triompher, au sein d’une relation sociale, sa propre volonté.\" (Économie et société, I)"
+        }
+      ],
+      "usages_et_debats": "Débats sur le pouvoir économique, social, symbolique ; sur la domination, la résistance, l’émancipation ; sur la pluralité des formes et des lieux de pouvoir.",
+      "changements_de_signification": "Le pouvoir est vu comme rapport social, dynamique, conflictuel, présent dans tous les domaines de la vie.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Domination",
+          "explication_lien": "Le pouvoir s’exerce comme domination d’un groupe ou d’un individu sur un autre."
+        },
+        {
+          "notion": "Volonté de puissance",
+          "explication_lien": "Chez Nietzsche, le pouvoir est force vitale et créatrice."
+        },
+        {
+          "notion": "Légitimité",
+          "explication_lien": "Weber distingue le pouvoir de l’autorité légitime reconnue."
+        }
+      ]
+    },
+    {
+      "periode": "Époque contemporaine (XXe-XXIe siècles)",
+      "description_generale": "Le pouvoir est analysé comme réseau, comme stratégie, comme circulation de forces dans la société. Il n’est plus seulement localisé dans l’État ou les institutions, mais traverse tous les rapports humains (famille, école, médias, médecine, etc.). On s’intéresse à ses formes invisibles, à la biopolitique, à la résistance, à l’émancipation.",
+      "penseurs_cles": [
+        {
+          "nom": "Michel Foucault",
+          "contribution": "Il révolutionne l’analyse du pouvoir : le pouvoir n’est pas une chose, mais un ensemble de relations, de normes, de discours qui traversent la société. Il explore la notion de biopouvoir, de micro-pouvoirs.",
+          "extrait": "\"Le pouvoir est partout ; parce qu’il vient de partout.\" (La Volonté de savoir, 1976)"
+        },
+        {
+          "nom": "Hannah Arendt",
+          "contribution": "Elle distingue pouvoir, force, autorité et violence. Pour elle, le pouvoir naît de l’action collective et de la parole dans l’espace public.",
+          "extrait": "\"Le pouvoir naît lorsque des hommes se rassemblent et agit tant qu’ils restent unis.\" (Qu’est-ce que le pouvoir ?, 1961)"
+        },
+        {
+          "nom": "Pierre Bourdieu",
+          "contribution": "Il analyse les différentes formes de pouvoir symbolique (culture, langage, éducation) et leur rôle dans la reproduction sociale.",
+          "extrait": "\"Le pouvoir symbolique est un pouvoir invisible, qui s’exerce avec la complicité de ceux qui le subissent.\" (La Distinction, 1979)"
+        }
+      ],
+      "usages_et_debats": "Débats sur la diffusion du pouvoir, la résistance, les nouveaux espaces de pouvoir (médias, réseaux sociaux), la biopolitique, la surveillance, le pouvoir des normes.",
+      "changements_de_signification": "Le pouvoir est décentré, multiplié, analysé comme relation, stratégie, production de normes, autant que comme domination.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Biopolitique",
+          "explication_lien": "Le pouvoir s’exerce sur la vie, la santé, la population."
+        },
+        {
+          "notion": "Pouvoir symbolique",
+          "explication_lien": "Pouvoir exercé par le langage, la culture, la reconnaissance sociale."
+        },
+        {
+          "notion": "Résistance",
+          "explication_lien": "Le pouvoir appelle toujours la possibilité de résistances, d’émancipation."
+        },
+        {
+          "notion": "Norme",
+          "explication_lien": "Le pouvoir produit et impose des normes, souvent de façon invisible."
+        }
+      ]
+    }
+  ],
+  "etymologie": "Le mot 'pouvoir' vient du latin 'potere', forme populaire de 'posse', signifiant 'être capable de', 'avoir la capacité, la puissance de faire'. En français, 'pouvoir' désigne d’abord la capacité ou la permission, puis l’autorité et la domination effective sur autrui ou sur une situation. Il a aussi donné le substantif 'pouvoir' (l’État, le gouvernement, l’autorité en place) et se décline en de multiples acceptions (pouvoir politique, économique, symbolique, etc.).",
+  "citations": [
+    {
+      "auteur": "Platon",
+      "oeuvre": "La République",
+      "citation": "\"Il n’y aura pas de fin aux maux des cités tant que les philosophes ne seront pas rois.\"",
+      "commentaire": "Platon lie le pouvoir légitime à la connaissance et à la justice."
+    },
+    {
+      "auteur": "Cicéron",
+      "oeuvre": "Des lois",
+      "citation": "\"Le pouvoir du peuple, s’il n’est pas contenu par les lois, est le pire de tous les pouvoirs.\"",
+      "commentaire": "Cicéron met en garde contre les abus du pouvoir sans limites."
+    },
+    {
+      "auteur": "Montesquieu",
+      "oeuvre": "De l’Esprit des lois",
+      "citation": "\"Pour qu’on ne puisse abuser du pouvoir, il faut que, par la disposition des choses, le pouvoir arrête le pouvoir.\"",
+      "commentaire": "Montesquieu fonde la théorie moderne de la séparation des pouvoirs."
+    },
+    {
+      "auteur": "Michel Foucault",
+      "oeuvre": "La Volonté de savoir",
+      "citation": "\"Le pouvoir est partout ; parce qu’il vient de partout.\"",
+      "commentaire": "Foucault révolutionne l’analyse du pouvoir en le pensant comme relation diffuse et omniprésente."
+    },
+    {
+      "auteur": "Hannah Arendt",
+      "oeuvre": "Qu’est-ce que le pouvoir ?",
+      "citation": "\"Le pouvoir naît lorsque des hommes se rassemblent et agit tant qu’ils restent unis.\"",
+      "commentaire": "Arendt pense le pouvoir comme phénomène collectif, distinct de la violence ou de l’autorité."
+    }
+  ]
+}

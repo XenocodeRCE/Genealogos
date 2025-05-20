@@ -1,0 +1,218 @@
+{
+  "periodes": [
+    {
+      "periode": "Antiquité",
+      "description_generale": "La justice est pensée comme vertu fondamentale, à la fois individuelle et sociale. Elle consiste à donner à chacun ce qui lui revient, à maintenir l’ordre et l’harmonie dans la cité, ou encore à réaliser l’équilibre entre les parties de l’âme. Elle est centrale dans la réflexion sur la vie bonne et la cité idéale.",
+      "penseurs_cles": [
+        {
+          "nom": "Platon",
+          "contribution": "Il définit la justice comme l’harmonie entre les différentes parties de l’âme et de la cité, chacun accomplissant la tâche qui lui revient.",
+          "extrait": "\"La justice consiste à accomplir sa propre tâche et à ne pas se mêler de celle d’autrui.\" (La République, IV, 433a)"
+        },
+        {
+          "nom": "Aristote",
+          "contribution": "Il distingue la justice distributive (répartition des biens selon le mérite) et la justice commutative (équilibre dans les échanges). La justice est aussi la vertu qui réalise l’égalité proportionnelle.",
+          "extrait": "\"La justice est une vertu complète, non pas en soi, mais à l’égard d’autrui.\" (Éthique à Nicomaque, V, 1129b25)"
+        },
+        {
+          "nom": "Solon/les législateurs grecs",
+          "contribution": "Ils conçoivent la justice comme respect des lois (nomos) et fondement de la vie civique.",
+          "extrait": "\"La loi est la même pour tous.\" (attribué à Solon, fragments)"
+        }
+      ],
+      "usages_et_debats": "Débats sur la nature de la justice : ordre cosmique, loi humaine, vertu individuelle ? Sur le rapport entre égalité, mérite et loi.",
+      "changements_de_signification": "La justice passe d’un ordre cosmique à une vertu morale, puis à un principe politique de répartition et d’équilibre.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Vertu",
+          "explication_lien": "La justice est la vertu suprême pour organiser l’âme et la cité."
+        },
+        {
+          "notion": "Loi",
+          "explication_lien": "Respecter la loi, c’est être juste dans la cité grecque."
+        },
+        {
+          "notion": "Égalité",
+          "explication_lien": "La justice implique une certaine égalité ou proportion dans la répartition des biens et des charges."
+        }
+      ]
+    },
+    {
+      "periode": "Moyen Âge",
+      "description_generale": "La justice est pensée comme vertu cardinale, mais aussi comme attribut divin. Elle consiste à rendre à Dieu et aux hommes ce qui leur est dû. La réflexion se concentre sur l’articulation entre justice humaine (lois, tribunaux) et justice divine (jugement dernier, salut).",
+      "penseurs_cles": [
+        {
+          "nom": "Saint Augustin",
+          "contribution": "Il oppose la justice terrestre, toujours imparfaite, à la justice parfaite de la cité de Dieu. La justice véritable suppose l’amour de Dieu et l’orientation vers le bien suprême.",
+          "extrait": "\"La justice consiste à servir Dieu seul et à soumettre à lui toute âme raisonnable.\" (La Cité de Dieu, XIX, 21)"
+        },
+        {
+          "nom": "Thomas d’Aquin",
+          "contribution": "Il définit la justice comme volonté constante de rendre à chacun ce qui lui est dû. Il distingue justice légale, distributive et commutative.",
+          "extrait": "\"La justice est une habitude selon laquelle, avec une volonté ferme et constante, on rend à chacun son droit.\" (Somme théologique, II-II, q.58, a.1)"
+        }
+      ],
+      "usages_et_debats": "Débats sur la possibilité d’une justice humaine parfaite, sur le rapport entre justice et charité, sur la justice des lois humaines versus la justice divine.",
+      "changements_de_signification": "La justice devient également affaire de salut et d’ordre divin, tout en gardant une fonction sociale et morale.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Charité",
+          "explication_lien": "La justice chrétienne est souvent complétée par la charité, qui va au-delà du simple droit."
+        },
+        {
+          "notion": "Droit naturel",
+          "explication_lien": "L’idée d’un droit fondé sur la nature humaine est liée à une conception universelle de la justice."
+        },
+        {
+          "notion": "Jugement dernier",
+          "explication_lien": "La justice divine se manifestera pleinement à la fin des temps."
+        }
+      ]
+    },
+    {
+      "periode": "Âge classique (XVIIe - XVIIIe siècles)",
+      "description_generale": "La justice devient un principe politique et juridique central : il s’agit de fonder la société sur des lois justes, des droits naturels et l’égalité devant la loi. Le débat porte sur la meilleure façon de garantir la justice dans l’organisation sociale.",
+      "penseurs_cles": [
+        {
+          "nom": "John Locke",
+          "contribution": "Il fonde la justice sur le respect des droits naturels (vie, liberté, propriété) et la nécessité d’un contrat social pour les garantir.",
+          "extrait": "\"La fin principale de la société politique est la préservation de la propriété.\" (Second traité du gouvernement civil, IX, 124)"
+        },
+        {
+          "nom": "Montesquieu",
+          "contribution": "Il pense la justice comme équilibre des pouvoirs, condition de la liberté et de la sûreté des citoyens.",
+          "extrait": "\"Il n’y a point encore de liberté si la puissance de juger n’est pas séparée des pouvoirs législatif et exécutif.\" (L’Esprit des lois, XI, 6)"
+        },
+        {
+          "nom": "Jean-Jacques Rousseau",
+          "contribution": "Il fait de la justice l’application de la volonté générale, qui vise le bien commun, et fonde la légitimité des lois.",
+          "extrait": "\"La force ne fait pas le droit, et l’homme n’est obligé d’obéir qu’aux pouvoirs légitimes.\" (Du Contrat social, I, 3)"
+        }
+      ],
+      "usages_et_debats": "Débats sur l’origine et la légitimité des lois, sur la justice comme égalité des droits, sur la tension entre liberté individuelle et justice collective.",
+      "changements_de_signification": "La justice devient critère de validité du droit et de l’État, liée à la protection des droits fondamentaux.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Droits naturels",
+          "explication_lien": "La justice consiste à protéger et garantir les droits fondamentaux de l’homme."
+        },
+        {
+          "notion": "Contrat social",
+          "explication_lien": "La justice est le fruit d’un accord ou d’un pacte entre les membres de la société."
+        },
+        {
+          "notion": "Séparation des pouvoirs",
+          "explication_lien": "La justice suppose un pouvoir judiciaire indépendant pour être impartiale."
+        }
+      ]
+    },
+    {
+      "periode": "Époque moderne (XIXe siècle)",
+      "description_generale": "La justice devient enjeu social et économique. On s’interroge sur l’égalité réelle, la justice sociale, la lutte contre les inégalités et l’oppression. La justice n’est plus seulement question de lois, mais de conditions matérielles concrètes.",
+      "penseurs_cles": [
+        {
+          "nom": "Karl Marx",
+          "contribution": "Il critique la justice formelle des droits bourgeois, qui masque les inégalités réelles. La vraie justice suppose l’abolition de l’exploitation.",
+          "extrait": "\"Entre deux droits égaux, c’est la force qui décide.\" (Le Capital, I, 8)"
+        },
+        {
+          "nom": "John Stuart Mill",
+          "contribution": "Il lie la justice à l’utilitarisme : la société doit garantir le plus grand bonheur du plus grand nombre, ce qui suppose équité et respect des droits individuels.",
+          "extrait": "\"La justice implique le respect des droits fondés sur l’utilité générale.\" (L’Utilitarisme, V)"
+        }
+      ],
+      "usages_et_debats": "Débats sur la justice sociale, la redistribution des richesses, la justice comme équité, la critique de la justice formelle (égalité des droits) au profit de la justice réelle (égalité des conditions).",
+      "changements_de_signification": "La justice devient inséparable de l’égalité sociale, et s’inscrit dans des luttes politiques et économiques concrètes.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Égalité sociale",
+          "explication_lien": "La justice implique la réduction des inégalités réelles."
+        },
+        {
+          "notion": "Utilité",
+          "explication_lien": "La justice peut être pensée comme maximisation du bien-être collectif."
+        },
+        {
+          "notion": "Oppression",
+          "explication_lien": "La justice est liée à la critique et à la lutte contre les rapports d’oppression."
+        }
+      ]
+    },
+    {
+      "periode": "Époque contemporaine (XXe-XXIe siècles)",
+      "description_generale": "La justice est repensée à l’échelle mondiale, dans le cadre des droits de l’homme, de la justice sociale, de la justice réparatrice ou environnementale. On la pense aussi comme équité, reconnaissance, ou encore comme institutionnalisation de la discussion publique.",
+      "penseurs_cles": [
+        {
+          "nom": "John Rawls",
+          "contribution": "Il définit la justice comme équité : des principes doivent être choisis sous un 'voile d’ignorance', garantissant la même liberté et des avantages équitables pour tous.",
+          "extrait": "\"Les principes de justice sont ceux que des personnes libres et rationnelles choisiraient dans une situation initiale d’égalité.\" (Théorie de la justice, §3)"
+        },
+        {
+          "nom": "Amartya Sen",
+          "contribution": "Il insiste sur la réalisation effective de la justice, notamment l’accès réel aux droits et aux capacités fondamentales.",
+          "extrait": "\"La justice exige une attention à ce que les gens peuvent réellement faire et être.\" (L’Idée de justice, chap. 1)"
+        },
+        {
+          "nom": "Nancy Fraser",
+          "contribution": "Elle élargit la justice à la reconnaissance des identités et à la lutte contre les discriminations culturelles aussi bien qu’économiques.",
+          "extrait": "\"La justice suppose à la fois redistribution et reconnaissance.\" (Qu’est-ce que la justice sociale ?, 2005)"
+        }
+      ],
+      "usages_et_debats": "Débats sur la justice globale, la justice environnementale, la justice comme reconnaissance, la justice procédurale et la justice réparatrice (réparation des injustices historiques).",
+      "changements_de_signification": "La justice devient plurielle : question d’équité, de reconnaissance, de procédures et de réparations ; elle vise l’inclusion de tous dans la discussion et la société.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Équité",
+          "explication_lien": "La justice contemporaine insiste sur l’équité réelle, pas seulement formelle."
+        },
+        {
+          "notion": "Reconnaissance",
+          "explication_lien": "La justice inclut la reconnaissance des identités et des différences."
+        },
+        {
+          "notion": "Justice réparatrice",
+          "explication_lien": "La justice vise aussi à réparer les torts passés, pas seulement à appliquer la loi."
+        }
+      ]
+    }
+  ],
+  "etymologie": "Le mot 'justice' vient du latin 'justitia', dérivé de 'jus', qui signifie le droit, la loi ou ce qui est juste. En grec ancien, le terme correspondant est 'dikaiosynè', qui désigne à la fois la vertu de justice individuelle et la justice comme ordre social. En français, 'justice' prend aussi bien le sens de vertu morale (donner à chacun ce qui lui revient) que d’institution (appareil judiciaire). Au fil des siècles, le terme s’est élargi : de la vertu individuelle à la question du droit, de la loi, puis à l’équité sociale et aux droits humains universels.",
+  "citations": [
+    {
+      "auteur": "Platon",
+      "oeuvre": "La République",
+      "citation": "\"La justice consiste à accomplir sa propre tâche et à ne pas se mêler de celle d’autrui.\"",
+      "commentaire": "Platon pense la justice comme harmonie et ordre, condition de la cité idéale."
+    },
+    {
+      "auteur": "Aristote",
+      "oeuvre": "Éthique à Nicomaque",
+      "citation": "\"La justice est une vertu complète, non pas en soi, mais à l’égard d’autrui.\"",
+      "commentaire": "Aristote fait de la justice la vertu qui règle les relations avec autrui."
+    },
+    {
+      "auteur": "Saint Augustin",
+      "oeuvre": "La Cité de Dieu",
+      "citation": "\"La justice consiste à servir Dieu seul et à soumettre à lui toute âme raisonnable.\"",
+      "commentaire": "Augustin place la justice parfaite dans la cité céleste, inaccessible sur terre."
+    },
+    {
+      "auteur": "John Locke",
+      "oeuvre": "Second traité du gouvernement civil",
+      "citation": "\"La fin principale de la société politique est la préservation de la propriété.\"",
+      "commentaire": "Locke fonde la justice sur la protection des droits naturels."
+    },
+    {
+      "auteur": "Karl Marx",
+      "oeuvre": "Le Capital",
+      "citation": "\"Entre deux droits égaux, c’est la force qui décide.\"",
+      "commentaire": "Marx critique la justice formelle et met en avant la question de l’égalité réelle."
+    },
+    {
+      "auteur": "John Rawls",
+      "oeuvre": "Théorie de la justice",
+      "citation": "\"Les principes de justice sont ceux que des personnes libres et rationnelles choisiraient dans une situation initiale d’égalité.\"",
+      "commentaire": "Rawls propose une conception procédurale et équitable de la justice."
+    }
+  ]
+}

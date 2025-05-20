@@ -1,0 +1,232 @@
+{
+  "periodes": [
+    {
+      "periode": "Antiquité",
+      "description_generale": "On ne parle pas encore de 'science' au sens moderne : les Grecs utilisent le mot 'epistémè' pour désigner un savoir certain, démontré, opposé à l’opinion ('doxa'). Ce savoir concerne surtout les mathématiques, la logique, la physique (au sens de connaissance de la nature) et la métaphysique. La recherche du savoir vrai passe par la démonstration, la rationalité et l’observation du monde.",
+      "penseurs_cles": [
+        {
+          "nom": "Platon",
+          "contribution": "Il distingue le savoir certain (epistémè) de l’opinion (doxa) : la science véritable concerne le monde des Idées, accessible à la raison, et non le monde sensible changeant.",
+          "extrait": "\"L’opinion porte sur ce qui devient, la science sur ce qui est.\" (La République, VI, 510d)"
+        },
+        {
+          "nom": "Aristote",
+          "contribution": "Il formalise la science comme connaissance des causes et des principes, obtenue par la démonstration logique. Il fonde la logique, la biologie, la physique et la métaphysique comme sciences.",
+          "extrait": "\"La science consiste à connaître par les causes.\" (Métaphysique, I, 1, 981a27)"
+        },
+        {
+          "nom": "Euclide",
+          "contribution": "Il illustre l’idéal scientifique dans les mathématiques : axiomes, définitions et démonstrations rigoureuses.",
+          "extrait": "\"Ce qui est admis sans démonstration, ce sont les postulats.\" (Éléments, Livre I)"
+        }
+      ],
+      "usages_et_debats": "Débats sur la différence entre savoir et opinion, sur la portée de la démonstration, sur la possibilité d’une connaissance certaine du monde naturel.",
+      "changements_de_signification": "La science est d’abord synonyme de savoir rationnel, démontré, souvent limité aux mathématiques, à la logique ou à la physique spéculative.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Epistémè",
+          "explication_lien": "Savoir rationnel, stable, démontré, opposé à l’opinion."
+        },
+        {
+          "notion": "Démonstration",
+          "explication_lien": "La science exige des preuves, des raisons et des déductions."
+        },
+        {
+          "notion": "Doxa",
+          "explication_lien": "L’opinion, changeante et incertaine, s’oppose à la science."
+        }
+      ]
+    },
+    {
+      "periode": "Moyen Âge",
+      "description_generale": "La science ('scientia' en latin) désigne tout savoir organisé, hiérarchisé selon l’ordre de la création divine. Elle inclut les disciplines du quadrivium (arithmétique, géométrie, musique, astronomie) et du trivium (grammaire, rhétorique, logique). La théologie est la 'science des sciences', car elle porte sur Dieu et le sens ultime du monde.",
+      "penseurs_cles": [
+        {
+          "nom": "Boèce",
+          "contribution": "Il transmet la distinction entre science spéculative et science pratique, et classe les sciences selon leur objet.",
+          "extrait": "\"La science est la connaissance certaine par les causes.\" (Institution arithmétique, I, 1)"
+        },
+        {
+          "nom": "Thomas d’Aquin",
+          "contribution": "Il définit la science comme savoir certain par démonstration, mais subordonne toutes les sciences à la théologie, qui donne leur sens ultime.",
+          "extrait": "\"La science est une habitude de l’âme qui permet de conclure nécessairement.\" (Somme théologique, I, q.1, a.2)"
+        }
+      ],
+      "usages_et_debats": "Débats sur la place de la raison dans la connaissance, sur la hiérarchie des sciences, sur l’articulation entre foi et raison.",
+      "changements_de_signification": "La science devient un savoir systématique, hiérarchisé, mais reste subordonnée à la Révélation et à la théologie.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Scientia",
+          "explication_lien": "Savoir certain, organisé, systématique."
+        },
+        {
+          "notion": "Théologie",
+          "explication_lien": "La science suprême, car elle traite du divin."
+        },
+        {
+          "notion": "Quadrivium / Trivium",
+          "explication_lien": "Les arts libéraux, base de l’enseignement scientifique médiéval."
+        }
+      ]
+    },
+    {
+      "periode": "Âge classique (XVIIe - XVIIIe siècles)",
+      "description_generale": "La science moderne se développe : observation, expérimentation, mathématisation du réel. On distingue désormais la science de la philosophie ou de la théologie. Elle devient méthode pour découvrir les lois de la nature, universelles et mesurables.",
+      "penseurs_cles": [
+        {
+          "nom": "René Descartes",
+          "contribution": "Il fonde la méthode scientifique sur le doute, l’analyse et la décomposition, la recherche de certitudes mathématiques.",
+          "extrait": "\"Pour examiner la vérité, il est besoin, une fois dans sa vie, de mettre toutes choses en doute.\" (Discours de la méthode, II)"
+        },
+        {
+          "nom": "Galilée",
+          "contribution": "Il affirme que la nature est écrite en langage mathématique et fonde la méthode expérimentale.",
+          "extrait": "\"Le livre de la nature est écrit en langage mathématique.\" (Il Saggiatore, 1623)"
+        },
+        {
+          "nom": "Isaac Newton",
+          "contribution": "Il découvre les lois universelles de la gravitation et du mouvement, exemplifiant l’idéal scientifique de la modernité.",
+          "extrait": "\"Je ne fais pas d’hypothèses : tout ce que je propose est déduit des phénomènes.\" (Principia Mathematica, Préface)"
+        }
+      ],
+      "usages_et_debats": "Débats sur la méthode scientifique, la place de l’expérimentation, la distinction entre science et métaphysique, la portée des lois universelles.",
+      "changements_de_signification": "La science devient connaissance expérimentale, mathématisée, autonome par rapport à la religion, et moteur du progrès technique.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Méthode scientifique",
+          "explication_lien": "Procédure rationnelle d’observation, d’expérimentation et de démonstration."
+        },
+        {
+          "notion": "Loi de la nature",
+          "explication_lien": "La science vise à découvrir les règles universelles du réel."
+        },
+        {
+          "notion": "Expérimentation",
+          "explication_lien": "La science teste ses hypothèses par l’expérience."
+        }
+      ]
+    },
+    {
+      "periode": "Époque moderne (XIXe siècle)",
+      "description_generale": "La science s’institutionnalise, se spécialise et se professionnalise. Elle devient moteur de la révolution industrielle, de la médecine moderne, de la biologie (théorie de l’évolution), de la chimie, etc. On pense la science comme marche irrésistible du progrès humain.",
+      "penseurs_cles": [
+        {
+          "nom": "Auguste Comte",
+          "contribution": "Il fonde le positivisme : la science doit se borner aux faits observables et à leurs lois, rejetant toute spéculation métaphysique.",
+          "extrait": "\"Savoir pour prévoir, prévoir pour pouvoir : telle est la formule de la science.\" (Cours de philosophie positive, I, 1830)"
+        },
+        {
+          "nom": "Charles Darwin",
+          "contribution": "Il applique la méthode scientifique à la biologie et élabore la théorie de l’évolution par sélection naturelle.",
+          "extrait": "\"Il n’est point de distinction essentielle entre l’homme et les animaux supérieurs dans leurs facultés mentales.\" (De l’origine des espèces, Chap. VI)"
+        },
+        {
+          "nom": "Claude Bernard",
+          "contribution": "Il développe la méthode expérimentale en médecine et affirme la nécessité de l’hypothèse et de la vérification par l’expérience.",
+          "extrait": "\"L’art de l’expérimentateur consiste à inventer des expériences décisives.\" (Introduction à l’étude de la médecine expérimentale, 1865)"
+        }
+      ],
+      "usages_et_debats": "Débats sur les limites du scientisme, la valeur explicative de la science, la spécialisation croissante, la place de la science dans la société.",
+      "changements_de_signification": "La science devient institution sociale, pouvoir technique, source de transformations majeures, mais aussi sujet de questionnements critiques.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Positivisme",
+          "explication_lien": "La science se limite aux faits observables, refusant la métaphysique."
+        },
+        {
+          "notion": "Spécialisation",
+          "explication_lien": "Le savoir scientifique se divise en disciplines autonomes."
+        },
+        {
+          "notion": "Progrès",
+          "explication_lien": "La science est vue comme moteur du progrès humain."
+        }
+      ]
+    },
+    {
+      "periode": "Époque contemporaine (XXe-XXIe siècles)",
+      "description_generale": "La science est interrogée dans ses méthodes, ses limites, ses liens avec la technique, l’éthique, la société. Les débats portent sur la scientificité, la falsifiabilité, la pluralité des paradigmes, l’incertitude, l’interdisciplinarité et la responsabilité sociale.",
+      "penseurs_cles": [
+        {
+          "nom": "Karl Popper",
+          "contribution": "Il propose la falsifiabilité comme critère de la scientificité : une théorie n’est scientifique que si elle peut être mise à l’épreuve et éventuellement réfutée.",
+          "extrait": "\"La science ne prouve jamais, elle réfute.\" (La Logique de la découverte scientifique, 1934)"
+        },
+        {
+          "nom": "Thomas Kuhn",
+          "contribution": "Il montre que la science évolue par révolutions de paradigmes, non par accumulation linéaire de connaissances.",
+          "extrait": "\"Le développement de la science est une série de changements de paradigme.\" (La Structure des révolutions scientifiques, 1962)"
+        },
+        {
+          "nom": "Paul Feyerabend",
+          "contribution": "Il critique l’idée d’une méthode scientifique unique : 'tout est bon' ('anything goes'), la science est une activité humaine plurielle.",
+          "extrait": "\"Il n’existe pas de méthode scientifique universelle.\" (Contre la méthode, 1975)"
+        },
+        {
+          "nom": "Bruno Latour",
+          "contribution": "Il analyse la science comme construction sociale, résultat d’accords, de controverses et de réseaux humains et non-humains.",
+          "extrait": "\"Les faits scientifiques sont le fruit de négociations, de controverses et de stabilisations.\" (La Science en action, 1987)"
+        }
+      ],
+      "usages_et_debats": "Débats sur la valeur de la preuve, la frontière entre science et pseudo-science, la pluralité des méthodes, les relations entre science, technique et société, la responsabilité de la science face aux enjeux globaux.",
+      "changements_de_signification": "La science n’est plus vue comme accumulation neutre de vérités, mais comme activité humaine, évolutive, pluraliste et socialement située.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Falsifiabilité",
+          "explication_lien": "Critère de distinction entre science et non-science selon Popper."
+        },
+        {
+          "notion": "Paradigme",
+          "explication_lien": "Modèle dominant de recherche, remis en cause lors de révolutions scientifiques."
+        },
+        {
+          "notion": "Technoscience",
+          "explication_lien": "La science moderne est indissociable des techniques et de leurs effets sur la société."
+        },
+        {
+          "notion": "Éthique",
+          "explication_lien": "La science contemporaine est confrontée à la question de la responsabilité."
+        }
+      ]
+    }
+  ],
+  "etymologie": "Le mot 'science' vient du latin 'scientia', qui signifie savoir, connaissance, dérivé de 'scire' (savoir). En grec, 'epistémè' désigne aussi le savoir rationnel et démontré. Au Moyen Âge, 'science' s’emploie pour désigner tout savoir systématique (y compris la théologie). À partir du XVIIe siècle, 'science' prend le sens plus restreint de connaissance expérimentale et rationnelle des lois de la nature. Aujourd’hui, le mot désigne l’ensemble des disciplines cherchant à établir des savoirs objectifs, vérifiables et transmissibles.",
+  "citations": [
+    {
+      "auteur": "Platon",
+      "oeuvre": "La République",
+      "citation": "\"L’opinion porte sur ce qui devient, la science sur ce qui est.\"",
+      "commentaire": "Platon distingue le savoir certain (science) de l’opinion changeante."
+    },
+    {
+      "auteur": "Aristote",
+      "oeuvre": "Métaphysique",
+      "citation": "\"La science consiste à connaître par les causes.\"",
+      "commentaire": "Aristote fait de la recherche des causes et des principes la marque de la science."
+    },
+    {
+      "auteur": "Galilée",
+      "oeuvre": "Il Saggiatore",
+      "citation": "\"Le livre de la nature est écrit en langage mathématique.\"",
+      "commentaire": "Galilée incarne l’idéal moderne d’une science mathématisée et universelle."
+    },
+    {
+      "auteur": "Auguste Comte",
+      "oeuvre": "Cours de philosophie positive",
+      "citation": "\"Savoir pour prévoir, prévoir pour pouvoir : telle est la formule de la science.\"",
+      "commentaire": "Comte fait de la science un instrument de maîtrise et de progrès."
+    },
+    {
+      "auteur": "Karl Popper",
+      "oeuvre": "La Logique de la découverte scientifique",
+      "citation": "\"La science ne prouve jamais, elle réfute.\"",
+      "commentaire": "Popper insiste sur la dimension critique et évolutive de la science."
+    },
+    {
+      "auteur": "Thomas Kuhn",
+      "oeuvre": "La Structure des révolutions scientifiques",
+      "citation": "\"Le développement de la science est une série de changements de paradigme.\"",
+      "commentaire": "Kuhn montre que la science progresse par crises et ruptures, non par simple accumulation."
+    }
+  ]
+}

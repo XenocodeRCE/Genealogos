@@ -1,0 +1,186 @@
+{
+  "periodes": [
+    {
+      "periode": "Antiquité",
+      "description_generale": "Le mot 'sujet' n’existe pas dans la langue grecque ou latine au sens moderne. Les penseurs parlent plutôt de l’âme, du principe vital, ou de la substance qui supporte les propriétés. On réfléchit à ce qui anime, à ce qui demeure derrière les changements, ou à ce qui porte les qualités.",
+      "penseurs_cles": [
+        {
+          "nom": "Platon",
+          "contribution": "Platon s’intéresse à l’âme comme principe de vie, capable de connaissance et de jugement, mais il ne distingue pas encore le 'je' pensant comme sujet séparé.",
+          "extrait": "\"L’âme gouverne le corps comme le pilote gouverne le navire.\" (Phèdre, 246a)"
+        },
+        {
+          "nom": "Aristote",
+          "contribution": "Il pose la notion d’hypokeimenon, ce qui 'gît sous', c’est-à-dire le substrat ou la substance qui supporte les accidents. Cet hypokeimenon est ce qui demeure identique à travers le changement.",
+          "extrait": "\"Le substrat, c’est ce dont tout le reste est affirmé, tandis que lui n’est affirmé d’aucun autre.\" (Catégories, 2a)"
+        }
+      ],
+      "usages_et_debats": "Les débats portent sur la distinction entre ce qui change et ce qui demeure, sur le principe de l’individualité, et sur la différence entre l’âme humaine et les autres formes de vie.",
+      "changements_de_signification": "À ce stade, ce qui préfigure le sujet est pensé comme substrat (hypokeimenon) ou âme, sans dimension réflexive ou autocentrée.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Substance",
+          "explication_lien": "La substance est le support des attributs, ce qui existera plus tard comme sujet porteur de pensées ou d’actions."
+        },
+        {
+          "notion": "Âme",
+          "explication_lien": "L’âme est le principe d’animation et de connaissance, ancêtre du sujet pensant."
+        }
+      ]
+    },
+    {
+      "periode": "Moyen Âge",
+      "description_generale": "Le terme latin 'subjectum' désigne le substrat, ce qui est 'jeté sous', c’est-à-dire la substance ou le support. Les débats médiévaux s’attachent à définir ce qui fait l’individualité de chaque être et ce qui fonde la permanence de l’homme.",
+      "penseurs_cles": [
+        {
+          "nom": "Thomas d’Aquin",
+          "contribution": "Il utilise 'subjectum' pour parler de la substance individuelle, support des accidents et base de la personne humaine.",
+          "extrait": "\"La matière première est le subjectum de la génération et de la corruption.\" (Somme contre les Gentils, II, 53)"
+        },
+        {
+          "nom": "Jean Duns Scot",
+          "contribution": "Il distingue plus finement l’individualité (haecceitas) du subjectum, préparant la réflexion sur la singularité du sujet.",
+          "extrait": "\"Ce par quoi une chose est individuellement cette chose et non une autre, c’est sa haecceitas.\" (Questions sur la Métaphysique, VII, q. 18)"
+        }
+      ],
+      "usages_et_debats": "Les discussions portent sur la nature du support (subjectum) des qualités et sur ce qui rend chaque être unique, notamment dans le contexte de l’âme et de la personne.",
+      "changements_de_signification": "Le 'subjectum' n’est pas encore le 'je' pensant, mais le support de l’existence individuelle, en particulier dans la métaphysique et la théologie.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Personne",
+          "explication_lien": "La personne prendra progressivement le sens de sujet moral et responsable."
+        },
+        {
+          "notion": "Substance individuelle",
+          "explication_lien": "Le subjectum est la substance individuelle, sur laquelle reposent les qualités."
+        }
+      ]
+    },
+    {
+      "periode": "Âge classique (XVIIe - XVIIIe siècles)",
+      "description_generale": "Le mot 'sujet' prend son sens moderne : il désigne le 'je', la conscience qui pense, sent, agit. La grande rupture est la naissance de la philosophie du sujet, notamment avec Descartes. On distingue désormais clairement le sujet (qui connaît, qui pense) de l’objet (ce qui est connu, pensé).",
+      "penseurs_cles": [
+        {
+          "nom": "René Descartes",
+          "contribution": "Il pose le cogito : le sujet, c’est le 'je' qui doute, pense, et donc existe. Le sujet devient le fondement de toute certitude.",
+          "extrait": "\"Je pense, donc je suis.\" (Discours de la méthode, IV)"
+        },
+        {
+          "nom": "John Locke",
+          "contribution": "Il analyse la conscience de soi comme ce qui constitue l’identité personnelle. Le sujet est ce qui se pense lui-même comme identique dans le temps.",
+          "extrait": "\"Être conscient de soi-même, c’est ce qui fait l’identité personnelle.\" (Essai sur l’entendement humain, II, xxvii, 17)"
+        }
+      ],
+      "usages_et_debats": "Débat sur la capacité du sujet à accéder à la vérité, sur la relation entre le sujet et ses pensées, et sur l’existence d’un 'moi' permanent ou changeant.",
+      "changements_de_signification": "Le sujet n’est plus seulement le substrat, il devient le centre actif de la pensée, de la connaissance, de la volonté.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Conscience",
+          "explication_lien": "La conscience, c’est l’expérience que le sujet a de lui-même et du monde."
+        },
+        {
+          "notion": "Objet",
+          "explication_lien": "L’objet est ce qui se présente au sujet ; la distinction sujet/objet structure la philosophie moderne."
+        }
+      ]
+    },
+    {
+      "periode": "Époque moderne (XIXe siècle)",
+      "description_generale": "La notion de sujet s’approfondit et se complique : il est au cœur de la philosophie de la connaissance, de la psychologie et de la phénoménologie naissante. On s’interroge sur les conditions d’apparition du sujet, sur son autonomie ou sa dépendance à l’égard du monde et des autres.",
+      "penseurs_cles": [
+        {
+          "nom": "Immanuel Kant",
+          "contribution": "Il fait du sujet transcendantal la condition de possibilité de toute expérience : c’est le sujet qui organise, selon des formes a priori, tout ce qui est donné.",
+          "extrait": "\"Le 'je pense' doit pouvoir accompagner toutes mes représentations.\" (Critique de la raison pure, B 131)"
+        },
+        {
+          "nom": "Georg Wilhelm Friedrich Hegel",
+          "contribution": "Il conçoit le sujet comme processus, comme devenir : le sujet s’auto-engendre à travers l’histoire et la dialectique.",
+          "extrait": "\"Le sujet, c’est l’auto-mouvement de la négativité.\" (Phénoménologie de l’esprit, §18)"
+        }
+      ],
+      "usages_et_debats": "Débats sur l’autonomie du sujet, sa capacité à se donner ses propres lois (autonomie morale chez Kant), ou à se constituer dans et par l’histoire (chez Hegel).",
+      "changements_de_signification": "Le sujet n’est plus seulement une conscience individuelle, il devient principe actif, structurant, voire collectif (sujet de l’histoire).",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Sujet transcendantal",
+          "explication_lien": "Chez Kant, le sujet transcendantal est la condition de possibilité de toute expérience."
+        },
+        {
+          "notion": "Autonomie",
+          "explication_lien": "Le sujet moderne est celui qui se donne à lui-même ses lois."
+        }
+      ]
+    },
+    {
+      "periode": "Époque contemporaine (XXe-XXIe siècles)",
+      "description_generale": "La notion de sujet est remise en question, décentrée, éclatée. On parle parfois de la 'mort du sujet' : le sujet n’est plus nécessairement l’origine absolue de ses pensées ou de ses actes. Les sciences humaines, la psychanalyse, la linguistique et la philosophie postmoderne déconstruisent l’idée d’un sujet autonome.",
+      "penseurs_cles": [
+        {
+          "nom": "Sigmund Freud",
+          "contribution": "Il introduit l’inconscient : le sujet n’est plus maître de lui-même, il est traversé par des désirs et des forces qui lui échappent.",
+          "extrait": "\"Le moi n’est pas maître dans sa propre maison.\" (Introduction à la psychanalyse, 1917)"
+        },
+        {
+          "nom": "Michel Foucault",
+          "contribution": "Il analyse la manière dont le sujet est produit par des pratiques sociales, des discours et des institutions. Il parle de 'sujets assujettis'.",
+          "extrait": "\"Le sujet n’est pas donné d’avance, il est constitué à travers des pratiques de subjectivation.\" (L’herméneutique du sujet, Cours au Collège de France, 1982)"
+        },
+        {
+          "nom": "Jacques Lacan",
+          "contribution": "Il pense le sujet comme divisé, structuré par le langage et par le manque ('sujet barré').",
+          "extrait": "\"Le sujet, c’est ce qui, dans le discours, est représenté par un signifiant pour un autre signifiant.\" (Écrits, 1966)"
+        }
+      ],
+      "usages_et_debats": "Débats sur la possibilité d’un sujet autonome, sur la construction sociale du sujet, sur le sujet inconscient, ou encore sur la pluralité des identités subjectives.",
+      "changements_de_signification": "Le sujet n’est plus l’origine absolue, il est traversé, construit, voire éclaté. On interroge la possibilité même d’unité du sujet.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Inconscient",
+          "explication_lien": "Freud montre que le sujet ne se réduit pas à la conscience, il est aussi le produit de forces inconscientes."
+        },
+        {
+          "notion": "Subjectivation",
+          "explication_lien": "Foucault analyse comment le sujet est produit par des mécanismes sociaux et historiques."
+        },
+        {
+          "notion": "Langage",
+          "explication_lien": "Chez Lacan et les structuralistes, le sujet est structuré par le langage, il n’en est pas le maître."
+        }
+      ]
+    }
+  ],
+  "etymologie": "Le mot 'sujet' vient du latin 'subjectum', participe passé neutre de 'subjicere', qui signifie 'ce qui est jeté dessous', 'ce qui sert de support'. Dans la philosophie médiévale, il désigne le substrat, la substance sous-jacente. À partir du XVIIe siècle, sous l’influence de la philosophie cartésienne, le sens se transforme : le 'sujet' devient celui qui pense, qui se pose comme centre de l’expérience. Aujourd’hui, le terme désigne aussi bien l’individu conscient, que des réalités plus complexes, traversées par l’inconscient, le langage ou la société.",
+  "citations": [
+    {
+      "auteur": "René Descartes",
+      "oeuvre": "Discours de la méthode",
+      "citation": "\"Je pense, donc je suis.\"",
+      "commentaire": "Cette formule fait du sujet pensant le point de départ de toute certitude et de toute connaissance."
+    },
+    {
+      "auteur": "Immanuel Kant",
+      "oeuvre": "Critique de la raison pure",
+      "citation": "\"Le 'je pense' doit pouvoir accompagner toutes mes représentations.\"",
+      "commentaire": "Kant fait du sujet transcendantal la condition de possibilité de toute expérience."
+    },
+    {
+      "auteur": "Sigmund Freud",
+      "oeuvre": "Introduction à la psychanalyse",
+      "citation": "\"Le moi n’est pas maître dans sa propre maison.\"",
+      "commentaire": "Freud souligne la dimension inconsciente du sujet, qui échappe à la maîtrise du moi conscient."
+    },
+    {
+      "auteur": "Michel Foucault",
+      "oeuvre": "L’herméneutique du sujet",
+      "citation": "\"Le sujet n’est pas donné d’avance, il est constitué à travers des pratiques de subjectivation.\"",
+      "commentaire": "Foucault montre que le sujet est le résultat de processus historiques et sociaux."
+    },
+    {
+      "auteur": "Jacques Lacan",
+      "oeuvre": "Écrits",
+      "citation": "\"Le sujet, c’est ce qui, dans le discours, est représenté par un signifiant pour un autre signifiant.\"",
+      "commentaire": "Lacan pense le sujet comme divisé, toujours pris dans la structure du langage."
+    }
+  ]
+}

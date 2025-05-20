@@ -1,0 +1,233 @@
+{
+  "periodes": [
+    {
+      "periode": "Antiquité",
+      "description_generale": "Le mot 'bonheur' n’existe pas encore en tant que tel, mais les philosophes s’interrogent sur la vie la meilleure, la plus accomplie et la plus désirable. On parle d’'eudaimonia' chez les Grecs, c'est-à-dire une existence harmonieuse, conforme à la nature ou à la raison, où l’homme atteint sa plénitude. Le bonheur est moins une émotion passagère qu’un état stable, fruit de la vertu ou de la sagesse.",
+      "penseurs_cles": [
+        {
+          "nom": "Socrate",
+          "contribution": "Il pense que la recherche du bonheur passe par la connaissance de soi et la pratique de la vertu. Nul ne fait le mal volontairement, car chacun recherche, au fond, son bien véritable.",
+          "extrait": "\"Nul n’est méchant volontairement.\" (Protagoras, 345d)"
+        },
+        {
+          "nom": "Aristote",
+          "contribution": "Il définit le bonheur ('eudaimonia') comme l’activité conforme à la vertu, le but suprême de l’existence humaine. Le bonheur n’est pas un plaisir, mais l’accomplissement de la nature humaine.",
+          "extrait": "\"Le bonheur est une activité de l’âme conforme à la vertu parfaite.\" (Éthique à Nicomaque, I, 7, 1098a16)"
+        },
+        {
+          "nom": "Épicure",
+          "contribution": "Il identifie le bonheur à l’absence de troubles ('ataraxie') et de douleurs. Le plaisir est le critère du bien, mais il faut savoir choisir les plaisirs pour atteindre la tranquillité de l’âme.",
+          "extrait": "\"Quand nous disons que le plaisir est le souverain bien, nous n’entendons pas les plaisirs des débauchés, mais l’absence de douleur dans le corps et de trouble dans l’âme.\" (Lettre à Ménécée)"
+        },
+        {
+          "nom": "Épictète / Les stoïciens",
+          "contribution": "Pour eux, le bonheur réside dans la liberté intérieure, l’accord avec la nature, l’indifférence aux biens extérieurs.",
+          "extrait": "\"Ce ne sont pas les choses qui troublent les hommes, mais les opinions qu’ils en ont.\" (Manuel, 5)"
+        }
+      ],
+      "usages_et_debats": "Débats sur le vrai bonheur : plaisir ou vertu ? Indépendance intérieure ou recherche des biens extérieurs ? Bonheur accessible à tous ou réservé aux sages ?",
+      "changements_de_signification": "Le bonheur est conçu comme accomplissement total de l’existence, fruit de la sagesse et de la vertu, et non comme simple état émotionnel.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Eudaimonia",
+          "explication_lien": "Terme grec pour désigner le bonheur comme accomplissement complet."
+        },
+        {
+          "notion": "Vertu",
+          "explication_lien": "La vertu est le chemin vers le bonheur chez Socrate, Platon, Aristote, les stoïciens."
+        },
+        {
+          "notion": "Ataraxie",
+          "explication_lien": "Chez Épicure et les stoïciens, la sérénité est la forme la plus haute du bonheur."
+        }
+      ]
+    },
+    {
+      "periode": "Moyen Âge",
+      "description_generale": "Le bonheur est intégré dans la perspective chrétienne : il n’est plus seulement une affaire terrestre, mais se réalise ultimement dans l’union à Dieu, au paradis. Ici-bas, la vie humaine est marquée par l’épreuve, le péché et la quête du salut ; la vraie béatitude ne peut être atteinte qu’après la mort.",
+      "penseurs_cles": [
+        {
+          "nom": "Saint Augustin",
+          "contribution": "Il affirme que le bonheur véritable consiste à aimer Dieu et à vivre en Lui. Les plaisirs terrestres ne peuvent combler le cœur humain.",
+          "extrait": "\"Notre cœur est sans repos tant qu’il ne repose en toi.\" (Confessions, I, 1)"
+        },
+        {
+          "nom": "Thomas d’Aquin",
+          "contribution": "Il distingue le bonheur imparfait de cette vie et la béatitude parfaite, qui consiste dans la vision de Dieu. Le bonheur terrestre n’est jamais complet.",
+          "extrait": "\"La béatitude parfaite consiste dans la vision de l’essence divine.\" (Somme théologique, I-II, q.3, a.8)"
+        }
+      ],
+      "usages_et_debats": "Débats sur la possibilité d’être heureux sur terre, sur la place des plaisirs, sur la compatibilité entre bonheur terrestre et bonheur céleste.",
+      "changements_de_signification": "Le bonheur devient béatitude, lié au salut et à la vie éternelle, et non à la seule existence humaine ou naturelle.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Béatitude",
+          "explication_lien": "Le bonheur suprême est la béatitude, union à Dieu."
+        },
+        {
+          "notion": "Salvation",
+          "explication_lien": "Le bonheur est lié au salut de l’âme."
+        },
+        {
+          "notion": "Péché",
+          "explication_lien": "Le péché est un obstacle au bonheur véritable."
+        }
+      ]
+    },
+    {
+      "periode": "Âge classique (XVIIe - XVIIIe siècles)",
+      "description_generale": "Le bonheur redevient un idéal terrestre et accessible. Les philosophes des Lumières affirment le droit au bonheur, la possibilité de le construire ici-bas par la raison, la vertu, la science et le progrès social. On le pense comme équilibre des plaisirs, harmonie des passions, ou satisfaction des besoins.",
+      "penseurs_cles": [
+        {
+          "nom": "René Descartes",
+          "contribution": "Il pense que le bonheur dépend de la maîtrise de soi et de l’usage correct de la raison. L’homme peut atteindre la satisfaction par la volonté et la sagesse.",
+          "extrait": "\"Ceux qui sont les plus heureux sont ceux qui savent se contenter de peu.\" (Lettre à Élisabeth, 18 août 1645)"
+        },
+        {
+          "nom": "Voltaire",
+          "contribution": "Il critique l’idée d’un bonheur absolu, mais défend la quête du bonheur individuel et collectif, fondée sur la raison et la tolérance.",
+          "extrait": "\"Il faut cultiver notre jardin.\" (Candide, conclusion)"
+        },
+        {
+          "nom": "Jean-Jacques Rousseau",
+          "contribution": "Il pense que le bonheur réside dans le retour à la nature, la simplicité, l’harmonie avec soi-même et avec autrui.",
+          "extrait": "\"Le bonheur est un état permanent qui ne semble pas fait pour l’homme.\" (Émile, IV)"
+        },
+        {
+          "nom": "David Hume",
+          "contribution": "Il conçoit le bonheur comme expérience de plaisirs modérés, équilibre des passions et attachement à la vie sociale.",
+          "extrait": "\"Le bonheur d’un homme dans cette vie ne consiste pas dans l’absence de passions, mais dans leur équilibre.\" (Traité de la nature humaine, II, 2)"
+        }
+      ],
+      "usages_et_debats": "Débats sur la nature du bonheur (plaisir, vertu, sagesse ?), sur son accessibilité, sur le lien entre bonheur individuel et bonheur collectif.",
+      "changements_de_signification": "Le bonheur redevient terrestre, lié à l’autonomie, à la raison, à l’organisation sociale et politique.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Progrès",
+          "explication_lien": "Le bonheur est pensé comme fruit du progrès social et scientifique."
+        },
+        {
+          "notion": "Droit au bonheur",
+          "explication_lien": "Les Lumières proclament l’aspiration au bonheur comme droit humain."
+        },
+        {
+          "notion": "Vertu",
+          "explication_lien": "Le bonheur reste lié à la maîtrise de soi et à la vertu."
+        }
+      ]
+    },
+    {
+      "periode": "Époque moderne (XIXe siècle)",
+      "description_generale": "Le bonheur devient un objet d’analyse psychologique, sociale et politique. On s’interroge sur ses conditions réelles : satisfaction des besoins, justice sociale, organisation du travail, harmonie avec la nature, etc. Il est aussi remis en cause par les romantiques et les critiques de la modernité.",
+      "penseurs_cles": [
+        {
+          "nom": "John Stuart Mill",
+          "contribution": "Il développe l’utilitarisme : le bonheur est la maximisation des plaisirs et la diminution des souffrances, pour le plus grand nombre.",
+          "extrait": "\"Le bonheur est le but de la morale, et le critère du bien et du mal.\" (L’Utilitarisme, II)"
+        },
+        {
+          "nom": "Friedrich Nietzsche",
+          "contribution": "Il critique la recherche du bonheur comme idéal 'petit-bourgeois' ; il valorise l’intensité, le risque, la création et la souffrance comme sources de grandeur.",
+          "extrait": "\"L’homme ne cherche pas le bonheur, c’est seulement l’anglais qui fait cela.\" (Le Crépuscule des idoles, 'Maximes et pointes', §12)"
+        },
+        {
+          "nom": "Karl Marx",
+          "contribution": "Il analyse les obstacles sociaux et économiques au bonheur : l’aliénation, l’exploitation, l’injustice. Le bonheur devient un enjeu politique et collectif.",
+          "extrait": "\"L’émancipation des travailleurs doit être l’œuvre des travailleurs eux-mêmes.\" (Première Internationale, 1864)"
+        }
+      ],
+      "usages_et_debats": "Débats sur le bonheur individuel versus collectif, sur les conditions matérielles et sociales du bonheur, sur la critique du bonheur comme idéal.",
+      "changements_de_signification": "Le bonheur est vu comme produit de conditions sociales, économiques, psychologiques – mais aussi remis en cause comme idéal universel.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Utilitarisme",
+          "explication_lien": "Doctrine qui fait du bonheur la finalité morale."
+        },
+        {
+          "notion": "Aliénation",
+          "explication_lien": "L’absence de bonheur est liée à l’aliénation sociale et économique."
+        },
+        {
+          "notion": "Souffrance",
+          "explication_lien": "Pour Nietzsche, la grandeur suppose de traverser la souffrance, non de l’éviter."
+        }
+      ]
+    },
+    {
+      "periode": "Époque contemporaine (XXe-XXIe siècles)",
+      "description_generale": "Le bonheur devient objet de recherches multiples : psychologie, sociologie, neurosciences, philosophie morale. On s’interroge sur ses formes, ses limites, ses illusions ou ses paradoxes. On critique la société de consommation qui promet le bonheur immédiat, et on explore la pluralité des chemins d’accès à une vie bonne ou heureuse.",
+      "penseurs_cles": [
+        {
+          "nom": "Albert Camus",
+          "contribution": "Il affirme la possibilité d’un bonheur lucide, même dans l’absurde, par la révolte et l’acceptation de la condition humaine.",
+          "extrait": "\"Il n’y a pas de honte à être heureux.\" (Le Mythe de Sisyphe, 1942)"
+        },
+        {
+          "nom": "André Comte-Sponville",
+          "contribution": "Il distingue bonheur et joie, bonheur et plaisir, et affirme que le bonheur est toujours partiel, fragile, mais possible dans l’instant présent.",
+          "extrait": "\"Le bonheur n’est pas un état, c’est un moment.\" (L’Être-temps, 1999)"
+        },
+        {
+          "nom": "Martha Nussbaum",
+          "contribution": "Elle défend une approche du bonheur comme épanouissement des 'capacités' (capabilities), insistant sur la justice sociale et la possibilité réelle de vivre une vie pleinement humaine.",
+          "extrait": "\"Le bonheur dépend de ce que les gens sont réellement capables d’être et de faire.\" (Creating Capabilities, 2011)"
+        }
+      ],
+      "usages_et_debats": "Débats sur le bonheur subjectif ou objectif, instantané ou durable, sur la société du bonheur obligatoire, la critique de l’hédonisme, la place de la justice, de la liberté et de la reconnaissance dans la possibilité d’être heureux.",
+      "changements_de_signification": "Le bonheur est pluralisé, individualisé, parfois suspecté d’être une illusion sociale ; il devient enjeu de justice et de réalisation personnelle.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Joie",
+          "explication_lien": "La joie est parfois distinguée du bonheur, comme émotion plus profonde ou plus intense."
+        },
+        {
+          "notion": "Reconnaissance",
+          "explication_lien": "Le bonheur dépend aussi de la reconnaissance sociale et personnelle."
+        },
+        {
+          "notion": "Justice sociale",
+          "explication_lien": "Le bonheur est lié aux conditions sociales et à l’accès réel aux droits."
+        }
+      ]
+    }
+  ],
+  "etymologie": "Le mot 'bonheur' vient du vieux français 'bon heur', qui signifie littéralement 'bonne chance' (heur = sort, destinée). Il apparaît au Moyen Âge pour désigner d’abord la chance favorable, la réussite, puis progressivement l’état de satisfaction complète, d’accomplissement ou de béatitude. Au fil du temps, le mot évolue pour désigner l’état de contentement durable, de plénitude ou de vie réussie, en se détachant de la seule idée de hasard.",
+  "citations": [
+    {
+      "auteur": "Aristote",
+      "oeuvre": "Éthique à Nicomaque",
+      "citation": "\"Le bonheur est une activité de l’âme conforme à la vertu parfaite.\"",
+      "commentaire": "Aristote fait du bonheur le but suprême de la vie humaine, fruit de la vertu et de l’accomplissement de soi."
+    },
+    {
+      "auteur": "Épicure",
+      "oeuvre": "Lettre à Ménécée",
+      "citation": "\"Quand nous disons que le plaisir est le souverain bien, nous n’entendons pas les plaisirs des débauchés, mais l’absence de douleur dans le corps et de trouble dans l’âme.\"",
+      "commentaire": "Épicure identifie le bonheur à la sérénité et à l’absence de souffrance."
+    },
+    {
+      "auteur": "Saint Augustin",
+      "oeuvre": "Confessions",
+      "citation": "\"Notre cœur est sans repos tant qu’il ne repose en toi.\"",
+      "commentaire": "Augustin lie le bonheur à l’union à Dieu, au-delà de toute satisfaction terrestre."
+    },
+    {
+      "auteur": "Jean-Jacques Rousseau",
+      "oeuvre": "Émile",
+      "citation": "\"Le bonheur est un état permanent qui ne semble pas fait pour l’homme.\"",
+      "commentaire": "Rousseau souligne la difficulté à atteindre un bonheur durable, mais aussi l’importance de la quête d’une vie harmonieuse."
+    },
+    {
+      "auteur": "John Stuart Mill",
+      "oeuvre": "L’Utilitarisme",
+      "citation": "\"Le bonheur est le but de la morale, et le critère du bien et du mal.\"",
+      "commentaire": "Mill fait du bonheur la finalité de toute action morale, dans une perspective utilitariste."
+    },
+    {
+      "auteur": "Albert Camus",
+      "oeuvre": "Le Mythe de Sisyphe",
+      "citation": "\"Il n’y a pas de honte à être heureux.\"",
+      "commentaire": "Camus affirme la valeur du bonheur, même dans une condition absurde et tragique."
+    }
+  ]
+}

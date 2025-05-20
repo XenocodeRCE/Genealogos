@@ -1,0 +1,205 @@
+{
+  "periodes": [
+    {
+      "periode": "Antiquité",
+      "description_generale": "Les penseurs grecs emploient le mot 'empeiria' (expérience), mais ils privilégient souvent la connaissance issue de la raison ou de l’intellect par rapport à celle qui vient des sens. L’expérience est vue comme un savoir empirique, limité, lié à l’accumulation d’observations ou de pratiques concrètes.",
+      "penseurs_cles": [
+        {
+          "nom": "Aristote",
+          "contribution": "Il distingue la connaissance issue de l’expérience (empeiria) de la science (epistémè). L’expérience permet d’accumuler des cas particuliers, mais la science cherche les causes générales.",
+          "extrait": "\"L’expérience (empeiria) naît de nombreux souvenirs d’une même chose.\" (Métaphysique, A, 1, 980b28)"
+        },
+        {
+          "nom": "Épicure",
+          "contribution": "Il valorise l’observation sensible et l’expérience comme base de toute connaissance fiable, contre la spéculation abstraite.",
+          "extrait": "\"Toutes les sensations sont vraies ; c’est dans le jugement que nous nous trompons.\" (Lettre à Hérodote, §38)"
+        }
+      ],
+      "usages_et_debats": "Débats sur la valeur de l’expérience sensible face à la raison pure. L’expérience est valorisée dans les arts pratiques, la médecine, mais reste jugée inférieure à la connaissance rationnelle.",
+      "changements_de_signification": "L’expérience est d’abord synonyme d’habitude ou de savoir-faire pratique, puis désigne peu à peu l’ensemble des données sensibles qui précèdent la science.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Sensation",
+          "explication_lien": "L’expérience est vue comme accumulation de sensations ou d’impressions."
+        },
+        {
+          "notion": "Science (epistémè)",
+          "explication_lien": "La science vise les causes générales, tandis que l’expérience reste au niveau du particulier."
+        }
+      ]
+    },
+    {
+      "periode": "Moyen Âge",
+      "description_generale": "L’expérience garde un statut secondaire face à la révélation et à la raison, mais elle commence à être valorisée dans certains contextes, notamment dans la médecine ou l’alchimie. On distingue l’expérience sensible de l’expérience mystique.",
+      "penseurs_cles": [
+        {
+          "nom": "Roger Bacon",
+          "contribution": "Il valorise l’expérience directe (experimentum) comme fondement de la connaissance scientifique, préfigurant la méthode expérimentale.",
+          "extrait": "\"Sans expérience, rien ne peut être suffisamment connu.\" (Opus Majus, IV)"
+        },
+        {
+          "nom": "Maître Eckhart",
+          "contribution": "Il parle d’une expérience intérieure, mystique, qui dépasse la simple expérience sensible.",
+          "extrait": "\"Dieu se trouve dans l’expérience intérieure la plus profonde.\" (Sermons allemands)"
+        }
+      ],
+      "usages_et_debats": "Débat sur l’utilité de l’expérience pour la connaissance du monde naturel et pour la connaissance de Dieu. L’expérience sensible reste subordonnée à la raison et à la foi.",
+      "changements_de_signification": "Apparition de l’idée d’expérience comme épreuve pratique, mais aussi comme vécu intérieur, notamment dans le mysticisme.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Expérimentation",
+          "explication_lien": "L’expérimentation est l’application active de l’expérience pour tester des hypothèses."
+        },
+        {
+          "notion": "Foi",
+          "explication_lien": "On distingue l’expérience sensible de l’expérience spirituelle ou mystique."
+        }
+      ]
+    },
+    {
+      "periode": "Âge classique (XVIIe - XVIIIe siècles)",
+      "description_generale": "L’expérience devient centrale dans la philosophie empiriste et dans la science moderne. Elle est opposée à la raison pure ou aux idées innées. On fonde la connaissance sur l’observation et l’expérimentation.",
+      "penseurs_cles": [
+        {
+          "nom": "John Locke",
+          "contribution": "Il affirme que toute connaissance vient de l’expérience, divisée en sensation (ce qui vient du dehors) et réflexion (ce que l’esprit fait de ses propres opérations).",
+          "extrait": "\"Il n’y a rien dans l’entendement qui n’ait d’abord été dans les sens.\" (Essai sur l’entendement humain, II, i, 2)"
+        },
+        {
+          "nom": "Isaac Newton",
+          "contribution": "Il fait de l’expérience (expérimentation) la base de la science : on part des phénomènes observés pour établir des lois.",
+          "extrait": "\"Je ne fais pas d’hypothèses : tout ce que je propose est déduit des phénomènes.\" (Principia Mathematica, Règles de la philosophie, IV)"
+        },
+        {
+          "nom": "David Hume",
+          "contribution": "Il radicalise l’empirisme en affirmant que toutes nos idées viennent de l’expérience, et que l’habitude guide la croyance.",
+          "extrait": "\"L’expérience seule nous donne la connaissance de la relation de cause à effet.\" (Enquête sur l’entendement humain, §4)"
+        }
+      ],
+      "usages_et_debats": "Débat entre empiristes et rationalistes : l’expérience est-elle la seule source de connaissance ? Quelle est la portée de l’expérience face à la raison ?",
+      "changements_de_signification": "L’expérience devient le fondement de la science et de la connaissance, opposée à l’inné et à la spéculation.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Empirisme",
+          "explication_lien": "L’empirisme fait de l’expérience la seule source de connaissance."
+        },
+        {
+          "notion": "Expérimentation",
+          "explication_lien": "La science moderne se construit sur l’expérimentation contrôlée."
+        },
+        {
+          "notion": "Idées innées",
+          "explication_lien": "La querelle oppose la connaissance issue de l’expérience à celle supposée innée."
+        }
+      ]
+    },
+    {
+      "periode": "Époque moderne (XIXe siècle)",
+      "description_generale": "L’expérience est interrogée dans ses conditions de possibilité et dans sa diversité : expérience sensible, expérience vécue, expérience scientifique. On distingue l’expérience immédiate de l’expérience réfléchie, et l’on s’intéresse à l’expérience intérieure, subjective.",
+      "penseurs_cles": [
+        {
+          "nom": "Immanuel Kant",
+          "contribution": "Il montre que l’expérience n’est possible que grâce à des formes a priori de la sensibilité (espace et temps) et de l’entendement (catégories). L’expérience donne accès au phénomène, non à la chose en soi.",
+          "extrait": "\"Il n’y a pas de connaissance qui précède toute expérience.\" (Critique de la raison pure, B1)"
+        },
+        {
+          "nom": "William James",
+          "contribution": "Il introduit la notion d’'expérience pure', flux continu d’événements vécus, base de la psychologie pragmatiste.",
+          "extrait": "\"L’expérience, c’est le flux même de la vie, avant toute distinction sujet-objet.\" (Essays in Radical Empiricism, 1912)"
+        }
+      ],
+      "usages_et_debats": "Débat sur le rôle du sujet dans la constitution de l’expérience, sur la valeur de l’expérience scientifique par rapport à l’expérience vécue.",
+      "changements_de_signification": "L’expérience devient plus complexe : elle n’est plus seulement accumulation de faits, mais aussi structure organisée par le sujet.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Phénomène",
+          "explication_lien": "Pour Kant, l’expérience ne porte que sur les phénomènes, pas sur la chose en soi."
+        },
+        {
+          "notion": "Subjectivité",
+          "explication_lien": "L’expérience a une dimension vécue, propre à chaque sujet."
+        },
+        {
+          "notion": "Pragmatisme",
+          "explication_lien": "Le pragmatisme fait de l’expérience le critère de la vérité et de l’utilité."
+        }
+      ]
+    },
+    {
+      "periode": "Époque contemporaine (XXe-XXIe siècles)",
+      "description_generale": "La notion d’expérience se diversifie encore : expérience vécue, expérience scientifique, expérience esthétique, expérience limite, etc. Les phénoménologues s’intéressent à la structure de l’expérience vécue, tandis que les sciences sociales analysent l’expérience collective et culturelle.",
+      "penseurs_cles": [
+        {
+          "nom": "Edmund Husserl",
+          "contribution": "Il fonde la phénoménologie comme étude de l’expérience vécue (Erlebnis), en mettant entre parenthèses l’existence du monde pour décrire la manière dont il apparaît à la conscience.",
+          "extrait": "\"Retour aux choses mêmes !\" (Recherches logiques, Introduction)"
+        },
+        {
+          "nom": "John Dewey",
+          "contribution": "Il pense l’expérience comme interaction continue entre l’organisme et l’environnement, insistant sur son rôle dans l’éducation et la démocratie.",
+          "extrait": "\"L’expérience n’est pas une affaire de passivité, mais de transaction active avec le monde.\" (Experience and Nature, 1925)"
+        },
+        {
+          "nom": "Simone de Beauvoir",
+          "contribution": "Elle met en avant la dimension existentielle et concrète de l’expérience vécue, notamment dans la condition féminine.",
+          "extrait": "\"On ne naît pas femme : on le devient.\" (Le Deuxième Sexe, I, Introduction)"
+        }
+      ],
+      "usages_et_debats": "Débat sur la pluralité des expériences (subjective, collective, scientifique, extrême), sur la validité de l’expérience comme critère de vérité ou d’authenticité, sur la possibilité d’une expérience partagée.",
+      "changements_de_signification": "L’expérience n’est plus vue comme un simple donné, mais comme un processus actif, structuré, pluriel, et parfois comme épreuve ou transformation.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Phénoménologie",
+          "explication_lien": "La phénoménologie analyse la structure de l’expérience vécue."
+        },
+        {
+          "notion": "Expérience limite",
+          "explication_lien": "On explore des situations extrêmes qui transforment radicalement le sujet."
+        },
+        {
+          "notion": "Intersubjectivité",
+          "explication_lien": "On s’interroge sur la possibilité de partager ou de communiquer l’expérience."
+        }
+      ]
+    }
+  ],
+  "etymologie": "Le mot 'expérience' vient du latin 'experientia', désignant l’épreuve, la tentative, le fait d’avoir essayé quelque chose. Il est apparenté à 'experiri', 'essayer', 'mettre à l’épreuve'. En grec, le mot 'empeiria' désigne le savoir acquis par l’accumulation d’observations ou de pratiques. En français, le mot conserve cette double dimension : d’un côté, l’expérience comme vécu subjectif, de l’autre, l’expérience comme méthode active d’observation et de test. Aujourd’hui, il peut désigner aussi bien le vécu personnel, l’expérimentation scientifique que l’épreuve formatrice.",
+  "citations": [
+    {
+      "auteur": "Aristote",
+      "oeuvre": "Métaphysique",
+      "citation": "\"L’expérience naît de nombreux souvenirs d’une même chose.\"",
+      "commentaire": "Aristote souligne le caractère empirique et cumulatif de l’expérience."
+    },
+    {
+      "auteur": "Roger Bacon",
+      "oeuvre": "Opus Majus",
+      "citation": "\"Sans expérience, rien ne peut être suffisamment connu.\"",
+      "commentaire": "Roger Bacon insiste sur la nécessité de l’épreuve concrète pour toute connaissance fiable."
+    },
+    {
+      "auteur": "John Locke",
+      "oeuvre": "Essai sur l’entendement humain",
+      "citation": "\"Il n’y a rien dans l’entendement qui n’ait d’abord été dans les sens.\"",
+      "commentaire": "Locke pose l’expérience comme origine de toute connaissance."
+    },
+    {
+      "auteur": "Immanuel Kant",
+      "oeuvre": "Critique de la raison pure",
+      "citation": "\"Il n’y a pas de connaissance qui précède toute expérience.\"",
+      "commentaire": "Kant montre que l’expérience conditionne la possibilité de connaître."
+    },
+    {
+      "auteur": "Edmund Husserl",
+      "oeuvre": "Recherches logiques",
+      "citation": "\"Retour aux choses mêmes !\"",
+      "commentaire": "Husserl fait de l’expérience vécue le point de départ de la philosophie phénoménologique."
+    },
+    {
+      "auteur": "John Dewey",
+      "oeuvre": "Experience and Nature",
+      "citation": "\"L’expérience n’est pas une affaire de passivité, mais de transaction active avec le monde.\"",
+      "commentaire": "Dewey insiste sur la dimension interactive et continue de l’expérience."
+    }
+  ]
+}

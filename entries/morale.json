@@ -1,0 +1,217 @@
+{
+  "periodes": [
+    {
+      "periode": "Antiquité",
+      "description_generale": "Le mot 'morale' n’existe pas encore, mais la réflexion sur la manière de bien vivre, sur le bien et le mal, sur les vertus, est centrale. On parle d’éthique (du grec 'êthos' : mœurs, caractère) : il s’agit de l’art de conduire sa vie de façon bonne, en accord avec la raison, la nature ou la cité.",
+      "penseurs_cles": [
+        {
+          "nom": "Socrate",
+          "contribution": "Il place la recherche du bien et de la vertu au cœur de la vie humaine, considérant que 'nul n’est méchant volontairement'. L’examen de soi est la base de la vie bonne.",
+          "extrait": "\"Une vie sans examen ne vaut pas la peine d’être vécue.\" (Apologie, 38a)"
+        },
+        {
+          "nom": "Platon",
+          "contribution": "Il cherche à définir la justice, le courage, la tempérance et la sagesse comme vertus cardinales. Il pense que le Bien est la source suprême de toute valeur.",
+          "extrait": "\"Nul n’est méchant volontairement, mais par ignorance du Bien.\" (Protagoras, 345d)"
+        },
+        {
+          "nom": "Aristote",
+          "contribution": "Il fonde l’éthique sur l’acquisition des vertus par l’habitude et la recherche du juste milieu. L’éthique vise l’eudaimonia, le bonheur comme accomplissement de soi.",
+          "extrait": "\"La vertu morale est une disposition acquise à choisir le juste milieu.\" (Éthique à Nicomaque, II, 6, 1106b36)"
+        }
+      ],
+      "usages_et_debats": "Débats sur la nature de la vertu, la possibilité d’enseigner le bien, la relation entre bonheur et vertu, et le rôle de la raison dans la conduite de la vie.",
+      "changements_de_signification": "On pose les bases d’une réflexion sur l’action bonne et les vertus, sans séparer morale individuelle et éthique sociale.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Éthique",
+          "explication_lien": "L’art de vivre selon la vertu et la raison, ancêtre de la morale."
+        },
+        {
+          "notion": "Vertu",
+          "explication_lien": "La vertu est la qualité morale par excellence."
+        },
+        {
+          "notion": "Bonheur (eudaimonia)",
+          "explication_lien": "La finalité de l’éthique est l’épanouissement humain."
+        }
+      ]
+    },
+    {
+      "periode": "Moyen Âge",
+      "description_generale": "La morale est pensée dans le cadre religieux et théologique : il s’agit de conformer ses actes à la loi divine et à la volonté de Dieu. Les vertus chrétiennes (foi, espérance, charité) s’ajoutent aux vertus antiques. La morale devient aussi discipline du salut.",
+      "penseurs_cles": [
+        {
+          "nom": "Saint Augustin",
+          "contribution": "Il fait de la charité la vertu suprême et voit dans la morale chrétienne l’imitation du Christ. Le bien véritable est l’amour de Dieu.",
+          "extrait": "\"Aime et fais ce que tu veux.\" (Homélies sur la Première Épître de Jean, VII, 8)"
+        },
+        {
+          "nom": "Thomas d’Aquin",
+          "contribution": "Il articule morale naturelle (accessible à la raison) et morale révélée (issue de la foi), et distingue les vertus cardinales et théologales.",
+          "extrait": "\"La loi morale naturelle est la participation de la créature raisonnable à la loi éternelle.\" (Somme théologique, I-II, q.91, a.2)"
+        }
+      ],
+      "usages_et_debats": "Débats sur le péché, la grâce, la possibilité du bien sans Dieu, le rapport entre raison et foi dans la conduite morale.",
+      "changements_de_signification": "La morale se christianise, devient discipline du salut et obéissance à la loi divine.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Vertus théologales",
+          "explication_lien": "Foi, espérance et charité, vertus spécifiquement chrétiennes."
+        },
+        {
+          "notion": "Loi naturelle",
+          "explication_lien": "Règle morale inscrite dans la nature humaine selon Thomas d’Aquin."
+        },
+        {
+          "notion": "Péché",
+          "explication_lien": "La morale se définit aussi par la distinction entre bien, mal et péché."
+        }
+      ]
+    },
+    {
+      "periode": "Âge classique (XVIIe - XVIIIe siècles)",
+      "description_generale": "La morale est progressivement laïcisée : elle devient une question de raison, d’autonomie, de nature humaine. Les philosophes cherchent des principes universels du bien et du mal, indépendants de la religion. On distingue morale de coutume, morale de raison, morale utilitaire.",
+      "penseurs_cles": [
+        {
+          "nom": "René Descartes",
+          "contribution": "Il propose une 'morale par provision', fondée sur la raison, le doute méthodique et l’autonomie du jugement.",
+          "extrait": "\"Le bon sens est la chose du monde la mieux partagée.\" (Discours de la méthode, I)"
+        },
+        {
+          "nom": "Baruch Spinoza",
+          "contribution": "Il fonde la morale sur la connaissance rationnelle des passions et la recherche de la joie, non sur la soumission à des lois extérieures.",
+          "extrait": "\"Le bien et le mal n’expriment rien de positif dans les choses, mais seulement des sentiments humains.\" (Éthique, IV, préface)"
+        },
+        {
+          "nom": "Immanuel Kant",
+          "contribution": "Il fonde la morale sur l’autonomie et le devoir : la loi morale est universelle, inconditionnelle, indépendante des conséquences.",
+          "extrait": "\"Agis uniquement d’après la maxime qui fait que tu peux vouloir en même temps qu’elle devienne une loi universelle.\" (Fondements de la métaphysique des mœurs, I)"
+        }
+      ],
+      "usages_et_debats": "Débats sur l’origine de la loi morale, la possibilité d’un fondement rationnel universel, la place des passions, la distinction entre morale et religion.",
+      "changements_de_signification": "La morale devient affaire d’autonomie, de raison, de loi universelle ; elle s’autonomise par rapport à la religion.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Autonomie",
+          "explication_lien": "La morale moderne repose sur la capacité à se donner à soi-même la loi."
+        },
+        {
+          "notion": "Devoir",
+          "explication_lien": "La morale kantienne est centrée sur l’obligation inconditionnelle."
+        },
+        {
+          "notion": "Utilitarisme",
+          "explication_lien": "Courant qui fonde la morale sur le calcul des conséquences et le bonheur général."
+        }
+      ]
+    },
+    {
+      "periode": "Époque moderne (XIXe siècle)",
+      "description_generale": "La morale devient un objet d’analyse scientifique, psychologique, sociologique. On interroge la diversité des morales selon les cultures, la fonction sociale de la morale, sa genèse et sa transformation historique.",
+      "penseurs_cles": [
+        {
+          "nom": "Friedrich Nietzsche",
+          "contribution": "Il critique la morale traditionnelle, qu’il voit comme 'morale d’esclave', issue du ressentiment. Il appelle à une 'transvaluation des valeurs'.",
+          "extrait": "\"Il n’y a pas de phénomènes moraux, seulement une interprétation morale des phénomènes.\" (Par-delà bien et mal, §108)"
+        },
+        {
+          "nom": "Émile Durkheim",
+          "contribution": "Il étudie la morale comme fait social, ensemble de règles et de valeurs assurant la cohésion du groupe.",
+          "extrait": "\"La morale est un système de règles relatives à la conduite, qui s’imposent à l’individu.\" (L’Éducation morale, I, 1902)"
+        },
+        {
+          "nom": "John Stuart Mill",
+          "contribution": "Il rénove l’utilitarisme : la morale vise le plus grand bonheur du plus grand nombre, à travers la maximisation des plaisirs et la diminution des souffrances.",
+          "extrait": "\"Les actions sont bonnes dans la mesure où elles tendent à promouvoir le bonheur.\" (L’Utilitarisme, II)"
+        }
+      ],
+      "usages_et_debats": "Débats sur le fondement de la morale, son universalité ou son relativisme, la place de la société, des instincts, du bonheur dans la morale.",
+      "changements_de_signification": "La morale est historicisée, pluralisée, soumise à la critique et à l’analyse sociale.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Relativisme",
+          "explication_lien": "La morale varie selon les cultures et les époques."
+        },
+        {
+          "notion": "Fait social",
+          "explication_lien": "La morale est un phénomène collectif étudié par la sociologie."
+        },
+        {
+          "notion": "Transvaluation des valeurs",
+          "explication_lien": "Nietzsche appelle à repenser radicalement les fondements de la morale."
+        }
+      ]
+    },
+    {
+      "periode": "Époque contemporaine (XXe-XXIe siècles)",
+      "description_generale": "La morale est pluralisée, discutée, remise en question face à la diversité des cultures, des identités et des situations. On réfléchit à l’éthique appliquée (bioéthique, écologie, justice globale), à la morale minimale, à la reconnaissance, à l’éthique du care. La morale se confronte à la complexité du monde contemporain.",
+      "penseurs_cles": [
+        {
+          "nom": "Emmanuel Lévinas",
+          "contribution": "Il fonde la morale sur la responsabilité infinie envers autrui, avant toute règle ou loi. La relation éthique prime sur la loi morale abstraite.",
+          "extrait": "\"La morale, c’est l’autre.\" (Totalité et infini, 1961)"
+        },
+        {
+          "nom": "Jürgen Habermas",
+          "contribution": "Il développe une éthique de la discussion : la validité morale dépend de l’accord rationnel entre personnes libres et égales.",
+          "extrait": "\"Sont valides les normes auxquelles tous les intéressés pourraient consentir dans un dialogue rationnel.\" (Morale et communication, 1983)"
+        },
+        {
+          "nom": "Carol Gilligan",
+          "contribution": "Elle propose une éthique du care, centrée sur l’attention, la sollicitude et la responsabilité concrète envers les autres.",
+          "extrait": "\"La voix du care est celle de la responsabilité et du souci de l’autre.\" (Une voix différente, 1982)"
+        }
+      ],
+      "usages_et_debats": "Débats sur les fondements de la morale (universelle ou contextuelle ?), sur la pluralité des valeurs, sur la justice, la reconnaissance, la responsabilité envers l’autre et la planète.",
+      "changements_de_signification": "La morale devient dialogue, responsabilité, souci de l’autre, pluralité des valeurs et des situations concrètes.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Éthique appliquée",
+          "explication_lien": "Bioéthique, éthique de l’environnement, justice globale, etc."
+        },
+        {
+          "notion": "Reconnaissance",
+          "explication_lien": "La morale contemporaine inclut la reconnaissance des différences et des vulnérabilités."
+        },
+        {
+          "notion": "Care",
+          "explication_lien": "L’attention concrète à autrui devient une dimension centrale de la morale."
+        }
+      ]
+    }
+  ],
+  "etymologie": "Le mot 'morale' vient du latin 'moralis', créé par Cicéron pour traduire le grec 'êthikos' (relatif aux mœurs, au caractère). 'Moralis' désigne ce qui concerne les mœurs, la conduite, le bien et le mal. En français, 'morale' apparaît au XIVe siècle et désigne à la fois l’ensemble des règles de conduite, la réflexion sur le bien et le mal, et la vertu individuelle. Aujourd’hui, la morale se distingue souvent de l’éthique (réflexion sur les principes) ou du droit (règles imposées).",
+  "citations": [
+    {
+      "auteur": "Socrate",
+      "oeuvre": "Apologie",
+      "citation": "\"Une vie sans examen ne vaut pas la peine d’être vécue.\"",
+      "commentaire": "Socrate place la recherche du bien et de la vertu au cœur de la vie morale."
+    },
+    {
+      "auteur": "Saint Augustin",
+      "oeuvre": "Homélies sur la Première Épître de Jean",
+      "citation": "\"Aime et fais ce que tu veux.\"",
+      "commentaire": "Augustin exprime l’idée que la vraie morale découle de l’amour véritable."
+    },
+    {
+      "auteur": "Immanuel Kant",
+      "oeuvre": "Fondements de la métaphysique des mœurs",
+      "citation": "\"Agis uniquement d’après la maxime qui fait que tu peux vouloir en même temps qu’elle devienne une loi universelle.\"",
+      "commentaire": "Kant fonde la morale sur l’autonomie et le devoir universel."
+    },
+    {
+      "auteur": "Friedrich Nietzsche",
+      "oeuvre": "Par-delà bien et mal",
+      "citation": "\"Il n’y a pas de phénomènes moraux, seulement une interprétation morale des phénomènes.\"",
+      "commentaire": "Nietzsche critique la morale comme construction humaine et invite à sa remise en question."
+    },
+    {
+      "auteur": "Emmanuel Lévinas",
+      "oeuvre": "Totalité et infini",
+      "citation": "\"La morale, c’est l’autre.\"",
+      "commentaire": "Lévinas recentre la morale sur la responsabilité envers autrui, au-delà des règles abstraites."
+    }
+  ]
+}

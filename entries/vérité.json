@@ -1,0 +1,196 @@
+{
+  "periodes": [
+    {
+      "periode": "Antiquité",
+      "description_generale": "Les penseurs de l’Antiquité réfléchissent à ce qui fait que quelque chose 'est' réellement, à ce qui ne trompe pas, à ce qui demeure stable et conforme à ce qu’il est. On cherche à distinguer la simple opinion de ce qui se montre ou se dévoile pleinement à la raison. L’accent est mis sur la découverte, la manifestation ou la conformité entre ce que l’on pense et ce qui est.",
+      "penseurs_cles": [
+        {
+          "nom": "Platon",
+          "contribution": "Il oppose l’opinion (doxa) au savoir véritable (épistémè). Pour lui, ce qui ne change pas, ce qui ne dépend pas des sens mais de l’intellect, mérite le nom de ce que nous appellerons plus tard 'vérité'.",
+          "extrait": "\"Nul d’entre nous n’atteindra jamais la connaissance de la vérité avant d’avoir saisi l’essence des choses.\" (La République, VII, 518c)"
+        },
+        {
+          "nom": "Aristote",
+          "contribution": "Il propose une première définition formelle : il y a adéquation (conformité) entre ce que l’on dit et ce qui est. Dire du vrai, c’est dire que ce qui est, est, et que ce qui n’est pas, n’est pas.",
+          "extrait": "\"Dire de ce qui est qu’il n’est pas, ou de ce qui n’est pas qu’il est, c’est faux ; dire de ce qui est qu’il est, et de ce qui n’est pas qu’il n’est pas, c’est vrai.\" (Métaphysique, IV, 7, 1011b25)"
+        }
+      ],
+      "usages_et_debats": "Débats sur la différence entre l’opinion changeante et le savoir stable ; sur la possibilité de dépasser l’illusion des sens ; sur la nature de ce qui se dévoile à l’intellect.",
+      "changements_de_signification": "La vérité est pensée comme dévoilement, stabilité, conformité à l’être, mais elle n’est pas encore un concept purement formel ou critériologique.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Opinion (doxa)",
+          "explication_lien": "L’opinion s’oppose au savoir stable et à la connaissance véritable."
+        },
+        {
+          "notion": "Être",
+          "explication_lien": "Ce qui ne change pas, ce qui demeure, est le critère ultime de ce qui mérite d’être dit 'vrai'."
+        },
+        {
+          "notion": "Adéquation",
+          "explication_lien": "L’idée que le vrai correspond à une adéquation entre la pensée et le réel naît chez Aristote."
+        }
+      ]
+    },
+    {
+      "periode": "Moyen Âge",
+      "description_generale": "La vérité devient un enjeu théologique central : elle est conçue comme une propriété de Dieu, mais aussi comme adéquation entre l’intellect humain et le monde créé. On distingue différents types de vérités (logique, ontologique, théologique). Le débat porte sur la capacité humaine à atteindre la vérité ultime.",
+      "penseurs_cles": [
+        {
+          "nom": "Thomas d’Aquin",
+          "contribution": "Il formule la vérité comme 'adaequatio rei et intellectus', soit la conformité de la chose et de l’intellect. Il distingue la vérité en Dieu (identique à son être) et la vérité dans l’esprit humain (représentation conforme).",
+          "extrait": "\"La vérité est la conformité de l’intellect et de la chose.\" (Somme théologique, I, q.16, a.1)"
+        },
+        {
+          "nom": "Saint Augustin",
+          "contribution": "Il cherche la lumière intérieure, une illumination qui permet à l’âme de reconnaître ce qui ne peut pas être faux. La vérité, pour lui, a quelque chose d’éternel et d’immuable.",
+          "extrait": "\"Si rien n’est vrai, il est certain du moins que rien n’est vrai ; donc, il y a quelque chose de vrai.\" (De la Trinité, XV, 12, 21)"
+        }
+      ],
+      "usages_et_debats": "Débats sur la possibilité d’accéder à la vérité en dehors de la Révélation ; sur la relation entre foi, raison et vérité ; sur la différence entre vérités naturelles et vérités révélées.",
+      "changements_de_signification": "La vérité devient aussi attribut divin, mais reste une question de correspondance entre esprit et chose. On multiplie les distinctions (vérité logique, métaphysique, morale…).",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Foi",
+          "explication_lien": "La vérité révélée par Dieu peut dépasser la vérité accessible à la raison seule."
+        },
+        {
+          "notion": "Intellect",
+          "explication_lien": "C’est l’intellect humain qui vise à se conformer à la réalité créée."
+        }
+      ]
+    },
+    {
+      "periode": "Âge classique (XVIIe - XVIIIe siècles)",
+      "description_generale": "La vérité devient un enjeu de méthode et d’évidence. On cherche le critère certain du vrai, la clarté et la distinction des idées, ou encore la cohérence logique des propositions. La vérité devient aussi un enjeu scientifique : il s’agit de séparer le vrai du faux par des méthodes rigoureuses.",
+      "penseurs_cles": [
+        {
+          "nom": "René Descartes",
+          "contribution": "Il cherche un fondement certain, indubitable, pour la vérité : la clarté et la distinction des idées, l’évidence du cogito.",
+          "extrait": "\"Je pense, donc je suis, est la première et la plus certaine de toutes les vérités qui se présentent à quelqu’un qui conduit sa pensée méthodiquement.\" (Discours de la méthode, IV)"
+        },
+        {
+          "nom": "Baruch Spinoza",
+          "contribution": "Il lie vérité et évidence : ce qui est vrai se manifeste à l’esprit par sa seule compréhension.",
+          "extrait": "\"La vérité est norme d’elle-même et du faux.\" (Éthique, II, proposition 43, scolie)"
+        }
+      ],
+      "usages_et_debats": "Débats sur la certitude absolue, sur le critère du vrai, sur la distinction entre vérité de fait et vérité de raison.",
+      "changements_de_signification": "La vérité devient critère intérieur, évidence, méthode de distinction, et se lie à la naissance des sciences modernes.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Évidence",
+          "explication_lien": "L’évidence devient critère de vérité chez les rationalistes."
+        },
+        {
+          "notion": "Méthode",
+          "explication_lien": "La méthode scientifique ou philosophique vise à conduire l’esprit vers le vrai."
+        }
+      ]
+    },
+    {
+      "periode": "Époque moderne (XIXe siècle)",
+      "description_generale": "La vérité est interrogée dans ses conditions de possibilité et dans sa dimension historique. Certains lient la vérité à la cohérence systémique, d’autres à la vérification empirique, d’autres encore à l’accord intersubjectif.",
+      "penseurs_cles": [
+        {
+          "nom": "Georg Wilhelm Friedrich Hegel",
+          "contribution": "Pour lui, la vérité n’est pas statique mais processuelle : elle advient à travers le devenir de l’Esprit et l’histoire.",
+          "extrait": "\"Le vrai est le tout. Mais le tout n’est que l’essence qui se complète par son développement.\" (Phénoménologie de l’esprit, Préface)"
+        },
+        {
+          "nom": "Charles Sanders Peirce",
+          "contribution": "Il fonde la vérité sur la méthode scientifique et la communauté de chercheurs : est vrai ce qui, à la longue, fait l’accord de tous les enquêteurs.",
+          "extrait": "\"La vérité est l’opinion à laquelle la recherche est destinée à aboutir à la longue.\" (How to Make Our Ideas Clear, 1878)"
+        }
+      ],
+      "usages_et_debats": "Débats sur la relativité de la vérité, sur son historicité, sur le rapport entre vérité objective, subjectivité et science.",
+      "changements_de_signification": "La vérité se détache de l’évidence individuelle pour devenir résultat d’un processus, d’une histoire ou d’une enquête collective.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Progrès",
+          "explication_lien": "La vérité peut être vue comme un résultat progressif, non donné d’avance."
+        },
+        {
+          "notion": "Vérification",
+          "explication_lien": "La vérité scientifique devient ce qui résiste à la vérification expérimentale."
+        }
+      ]
+    },
+    {
+      "periode": "Époque contemporaine (XXe-XXIe siècles)",
+      "description_generale": "La vérité est soumise à la pluralité des approches : vérité comme correspondance, comme cohérence, comme utilité, comme construction sociale ou comme dévoilement de sens. Des courants mettent en doute la possibilité même d’un accès direct au vrai.",
+      "penseurs_cles": [
+        {
+          "nom": "Martin Heidegger",
+          "contribution": "Il revient à l’étymologie grecque : la vérité comme aletheia, dévoilement, mise au jour de ce qui était caché.",
+          "extrait": "\"La vérité, c’est l’alètheia, le dévoilement de l’étant.\" (Être et Temps, §44)"
+        },
+        {
+          "nom": "Michel Foucault",
+          "contribution": "Il analyse la vérité comme effet de discours, produite par des régimes de savoir et des rapports de pouvoir dans les sociétés.",
+          "extrait": "\"Chaque société a son régime de vérité, sa politique générale de la vérité.\" (Leçon du 30 janvier 1976, Il faut défendre la société)"
+        },
+        {
+          "nom": "Richard Rorty",
+          "contribution": "Il critique l’idée d’une vérité absolue et prône un pragmatisme où la vérité est ce qui fonctionne et 'fait ses preuves' dans un contexte donné.",
+          "extrait": "\"La vérité n’est pas là dehors, elle n’est pas le résultat d’une correspondance exacte avec le monde.\" (La Philosophie et le miroir de la nature, 1979)"
+        }
+      ],
+      "usages_et_debats": "Débats autour du relativisme, de la pluralité des vérités selon les cultures ou les disciplines ; remise en question de la vérité unique et universelle.",
+      "changements_de_signification": "La vérité se pluralise, devient parfois effet de langage ou de contexte, ou encore dévoilement, mais aussi enjeu politique ou pratique.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Dévoilement",
+          "explication_lien": "Chez Heidegger, la vérité est processus de révélation, et non simple adéquation."
+        },
+        {
+          "notion": "Pouvoir",
+          "explication_lien": "Avec Foucault, la production de la vérité est liée à des structures de pouvoir."
+        },
+        {
+          "notion": "Pragmatisme",
+          "explication_lien": "La vérité, chez les pragmatistes, est ce qui fonctionne et s’avère utile."
+        }
+      ]
+    }
+  ],
+  "etymologie": "Le mot 'vérité' vient du latin 'veritas', qui dérive de 'verus', signifiant 'vrai', 'authentique', 'sincère'. En grec ancien, le terme correspondant est 'aletheia', qui signifie littéralement 'dévoilement', 'ce qui n’est pas caché'. L’évolution du mot en latin puis en français fait passer l’accent du simple dévoilement à l’idée de conformité et de fidélité à ce qui est (adéquation). Le terme a ainsi gardé la trace de sa double origine : manifestation de ce qui est (aletheia) et fidélité à la réalité (veritas).",
+  "citations": [
+    {
+      "auteur": "Aristote",
+      "oeuvre": "Métaphysique",
+      "citation": "\"Dire de ce qui est qu’il est, et de ce qui n’est pas qu’il n’est pas, c’est vrai.\"",
+      "commentaire": "Aristote formule la définition classique de la vérité comme correspondance entre le discours et la réalité."
+    },
+    {
+      "auteur": "Saint Augustin",
+      "oeuvre": "De la Trinité",
+      "citation": "\"Si rien n’est vrai, il est certain du moins que rien n’est vrai ; donc, il y a quelque chose de vrai.\"",
+      "commentaire": "Augustin montre que la recherche de la vérité conduit à une certitude minimale inébranlable."
+    },
+    {
+      "auteur": "René Descartes",
+      "oeuvre": "Discours de la méthode",
+      "citation": "\"Je pense, donc je suis, est la première et la plus certaine de toutes les vérités.\"",
+      "commentaire": "Descartes place l’évidence du cogito comme fondement indubitable de toute vérité."
+    },
+    {
+      "auteur": "Georg Wilhelm Friedrich Hegel",
+      "oeuvre": "Phénoménologie de l’esprit",
+      "citation": "\"Le vrai est le tout. Mais le tout n’est que l’essence qui se complète par son développement.\"",
+      "commentaire": "Hegel pense la vérité non comme donnée, mais comme résultat d’un processus historique et dialectique."
+    },
+    {
+      "auteur": "Martin Heidegger",
+      "oeuvre": "Être et Temps",
+      "citation": "\"La vérité, c’est l’alètheia, le dévoilement de l’étant.\"",
+      "commentaire": "Heidegger rappelle que, pour les Grecs, la vérité est d’abord dévoilement, et non simple conformité."
+    },
+    {
+      "auteur": "Michel Foucault",
+      "oeuvre": "Il faut défendre la société",
+      "citation": "\"Chaque société a son régime de vérité, sa politique générale de la vérité.\"",
+      "commentaire": "Foucault insiste sur la dimension sociale, politique et historique de la production de la vérité."
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "periodes": [
+    {
+      "periode": "Antiquité",
+      "description_generale": "On ne parle pas encore de 'raison' comme faculté abstraite, mais plutôt de ce qui donne à l’humain une capacité unique à réfléchir, à calculer, à ordonner le discours ou le monde. Les Grecs utilisent le mot 'logos' pour désigner à la fois la parole, le raisonnement et la structure rationnelle de l’univers.",
+      "penseurs_cles": [
+        {
+          "nom": "Platon",
+          "contribution": "Il distingue la partie rationnelle de l’âme, qui doit gouverner les passions et désirs. Ce qui caractérise l’humain, c’est la capacité à accéder à la connaissance par le raisonnement.",
+          "extrait": "\"Il faut que la partie rationnelle de l’âme gouverne.\" (La République, IV, 441e)"
+        },
+        {
+          "nom": "Aristote",
+          "contribution": "Il définit l’être humain comme 'animal doué de logos' (raison, parole, calcul). Il développe la logique comme instrument du raisonnement valide.",
+          "extrait": "\"L’homme est un animal qui a le logos.\" (Politiques, I, 2, 1253a)"
+        },
+        {
+          "nom": "Stoïciens",
+          "contribution": "Ils voient le 'logos' comme principe rationnel qui structure le cosmos et auquel l’homme participe par sa pensée.",
+          "extrait": "\"Vivre conformément à la nature, c’est vivre conformément au logos.\" (Épictète, Entretiens, I, 14)"
+        }
+      ],
+      "usages_et_debats": "Débats sur la place de la rationalité dans l’âme humaine, sur la distinction entre opinion et savoir, sur la nature du raisonnement valide.",
+      "changements_de_signification": "La notion se construit autour du 'logos' : principe d’ordre, de discours et de rationalité. La raison humaine est vue comme participation à un ordre cosmique.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Logos",
+          "explication_lien": "Le logos désigne à la fois la structure rationnelle du monde, la parole et la raison."
+        },
+        {
+          "notion": "Âme rationnelle",
+          "explication_lien": "Chez Platon et Aristote, l’âme humaine est divisée en parties, dont l’une est rationnelle."
+        },
+        {
+          "notion": "Logique",
+          "explication_lien": "La logique naît comme science du raisonnement correct, corollaire de la raison."
+        }
+      ]
+    },
+    {
+      "periode": "Moyen Âge",
+      "description_generale": "La raison est pensée comme don divin, faculté permettant à l’homme de comprendre le monde créé et de chercher Dieu. Elle est subordonnée à la foi, mais joue un rôle essentiel dans la théologie et la philosophie scolastique.",
+      "penseurs_cles": [
+        {
+          "nom": "Saint Augustin",
+          "contribution": "Il valorise la raison comme moyen de comprendre les vérités de la foi, mais affirme que la foi guide la raison.",
+          "extrait": "\"Comprends pour croire, crois pour comprendre.\" (Sermon 43, 7, 9)"
+        },
+        {
+          "nom": "Thomas d’Aquin",
+          "contribution": "Il distingue ce que la raison peut atteindre seule (vérités naturelles) de ce qui relève de la Révélation. Il affirme l’harmonie entre raison et foi.",
+          "extrait": "\"La raison naturelle ne peut atteindre certaines vérités révélées, mais elle ne saurait leur être contraire.\" (Somme théologique, I, q.1, a.1)"
+        }
+      ],
+      "usages_et_debats": "Débats sur la relation entre raison et foi, sur la possibilité d’une connaissance purement rationnelle de Dieu, sur la portée de la raison humaine.",
+      "changements_de_signification": "La raison devient faculté humaine, don de Dieu, capable de démonstration et de compréhension, mais limitée par rapport à la Révélation.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Foi",
+          "explication_lien": "La foi est supérieure à la raison pour les vérités divines, mais la raison prépare à la foi."
+        },
+        {
+          "notion": "Intellect",
+          "explication_lien": "La raison s’articule avec l’intellect, faculté de comprendre les principes premiers."
+        },
+        {
+          "notion": "Theologia naturalis",
+          "explication_lien": "La théologie naturelle cherche Dieu par la seule raison, sans révélation."
+        }
+      ]
+    },
+    {
+      "periode": "Âge classique (XVIIe - XVIIIe siècles)",
+      "description_generale": "La raison devient le fondement de la connaissance et de la morale. On affirme la confiance dans la puissance de la raison pour découvrir la vérité et fonder les sciences. Elle devient la marque de l’autonomie humaine.",
+      "penseurs_cles": [
+        {
+          "nom": "René Descartes",
+          "contribution": "Il fait de la raison la faculté de bien juger et de distinguer le vrai du faux. C’est par elle que l’on peut accéder à la certitude.",
+          "extrait": "\"Le bon sens est la chose du monde la mieux partagée.\" (Discours de la méthode, I)"
+        },
+        {
+          "nom": "Baruch Spinoza",
+          "contribution": "Il distingue les connaissances du premier genre (opinion), du second (raison) et du troisième (intuition). La raison permet de comprendre l’ordre nécessaire du monde.",
+          "extrait": "\"La servitude consiste en ce que l’homme est conduit par les causes extérieures, la liberté consiste en ce que l’homme est conduit par la raison.\" (Éthique, IV, préface)"
+        },
+        {
+          "nom": "Immanuel Kant",
+          "contribution": "Il distingue raison pure (connaissance) et raison pratique (morale). La raison est autonome et législatrice.",
+          "extrait": "\"Ose savoir ! Aie le courage de te servir de ton propre entendement.\" (Qu’est-ce que les Lumières ?)"
+        }
+      ],
+      "usages_et_debats": "Débats sur la portée de la raison : peut-elle tout comprendre ? Y a-t-il des limites à la raison humaine ? Raison empirique ou a priori ?",
+      "changements_de_signification": "La raison devient principe d’autonomie, critère de vérité et d’action morale, et fonde l’optimisme des Lumières.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Autonomie",
+          "explication_lien": "La raison permet à l’homme de se donner à lui-même ses lois (Kant)."
+        },
+        {
+          "notion": "Rationalisme",
+          "explication_lien": "Le rationalisme affirme la primauté de la raison dans l’accès au vrai."
+        },
+        {
+          "notion": "Lumières",
+          "explication_lien": "Le XVIIIe siècle valorise la raison comme moteur du progrès humain."
+        }
+      ]
+    },
+    {
+      "periode": "Époque moderne (XIXe siècle)",
+      "description_generale": "La toute-puissance de la raison est remise en cause : on met en lumière ses limites, ses conditionnements historiques, ses rapports avec l’irrationnel. On distingue raison individuelle et raison collective ou historique.",
+      "penseurs_cles": [
+        {
+          "nom": "Georg Wilhelm Friedrich Hegel",
+          "contribution": "Il voit la raison comme dynamique et historique : 'tout ce qui est réel est rationnel', mais la raison s’accomplit à travers l’histoire.",
+          "extrait": "\"La raison gouverne le monde, et l’histoire universelle n’est que sa manifestation.\" (La Raison dans l’histoire, Introduction)"
+        },
+        {
+          "nom": "Friedrich Nietzsche",
+          "contribution": "Il critique la prétention de la raison à tout expliquer et la soupçonne d’être une rationalisation des instincts.",
+          "extrait": "\"Ce n’est pas la raison qui gouverne le monde, mais la volonté de puissance.\" (Par-delà bien et mal, §3)"
+        }
+      ],
+      "usages_et_debats": "Débats sur la rationalité de l’histoire, sur les liens entre raison et passions, sur la critique de la raison comme instrument de domination ou d’aliénation.",
+      "changements_de_signification": "La raison n’est plus vue comme absolue : elle est historicisée, contestée, et confrontée à l’irrationnel et à la volonté.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Irrationnel",
+          "explication_lien": "La montée de l’irrationnel (volonté, inconscient) remet en cause l’omnipotence de la raison."
+        },
+        {
+          "notion": "Histoire",
+          "explication_lien": "Chez Hegel, la raison se réalise dans et par l’histoire."
+        }
+      ]
+    },
+    {
+      "periode": "Époque contemporaine (XXe-XXIe siècles)",
+      "description_generale": "La raison est pluralisée, relativisée, critiquée. On distingue plusieurs formes de rationalité (scientifique, pratique, instrumentale, communicationnelle). Sa prétention à l’universalité est interrogée, notamment face aux catastrophes du XXe siècle et à la diversité des cultures.",
+      "penseurs_cles": [
+        {
+          "nom": "Max Weber",
+          "contribution": "Il distingue la rationalité instrumentale (calcul des moyens par rapport à une fin) de la rationalité en valeur (cohérence avec des principes).",
+          "extrait": "\"L’activité rationnelle en finalité et l’activité rationnelle en valeur sont deux types d’action sociale.\" (Économie et société, I, §2)"
+        },
+        {
+          "nom": "Jürgen Habermas",
+          "contribution": "Il développe le concept de rationalité communicationnelle, fondée sur l’accord intersubjectif et le dialogue.",
+          "extrait": "\"La rationalité communicationnelle consiste à soumettre les prétentions à la validité à la discussion publique.\" (Théorie de l’agir communicationnel, t.1)"
+        },
+        {
+          "nom": "Michel Foucault",
+          "contribution": "Il analyse les 'rationalités' comme des formes historiques du pouvoir et des savoirs, et non comme une essence universelle.",
+          "extrait": "\"Toute société a ses régimes de rationalité, ses façons de 'raisonner' le vrai, le juste, le possible.\" (Leçons sur la volonté de savoir)"
+        }
+      ],
+      "usages_et_debats": "Débats sur les dangers de la raison instrumentale (technique, bureaucratie), sur la pluralité des rationalités, sur la possibilité d’une raison universelle.",
+      "changements_de_signification": "La raison n’est plus unique ni absolue. Elle est contextualisée, pluralisée, parfois soupçonnée de domination ou de technocratie.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Rationalité instrumentale",
+          "explication_lien": "L’usage de la raison pour choisir les moyens les plus efficaces, indépendamment des valeurs."
+        },
+        {
+          "notion": "Rationalité communicationnelle",
+          "explication_lien": "La raison comme dialogue ouvert à la discussion et à l’accord intersubjectif."
+        },
+        {
+          "notion": "Pouvoir",
+          "explication_lien": "Chez Foucault, les rationalités sont des instruments de pouvoir."
+        }
+      ]
+    }
+  ],
+  "etymologie": "Le mot 'raison' vient du latin 'ratio', qui signifie calcul, compte, rapport, manière de penser. 'Ratio' traduit parfois le grec 'logos', qui, en grec ancien, désigne à la fois la parole, le raisonnement, la loi ou la structure du monde. En français, le mot prend progressivement le sens de faculté de penser, de juger, d’ordonner, puis de principe universel de connaissance et d’action. Sa portée s’est élargie du simple calcul à la capacité à organiser, comprendre et expliquer le monde.",
+  "citations": [
+    {
+      "auteur": "Platon",
+      "oeuvre": "La République",
+      "citation": "\"Il faut que la partie rationnelle de l’âme gouverne.\"",
+      "commentaire": "Platon fait de la part rationnelle de l’âme le principe directeur de l’existence humaine."
+    },
+    {
+      "auteur": "René Descartes",
+      "oeuvre": "Discours de la méthode",
+      "citation": "\"Le bon sens est la chose du monde la mieux partagée.\"",
+      "commentaire": "Descartes affirme l’universalité de la raison humaine comme faculté de bien juger."
+    },
+    {
+      "auteur": "Immanuel Kant",
+      "oeuvre": "Critique de la raison pure",
+      "citation": "\"La raison ne connaît que ce qu’elle produit elle-même d’après ses propres plans.\"",
+      "commentaire": "Kant montre que la raison impose ses formes à l’expérience, elle ne fait pas que la recevoir passivement."
+    },
+    {
+      "auteur": "Georg Wilhelm Friedrich Hegel",
+      "oeuvre": "La Raison dans l’histoire",
+      "citation": "\"La raison gouverne le monde, et l’histoire universelle n’est que sa manifestation.\"",
+      "commentaire": "Hegel historicise la raison, la voyant à l’œuvre dans le devenir du monde."
+    },
+    {
+      "auteur": "Jürgen Habermas",
+      "oeuvre": "Théorie de l’agir communicationnel",
+      "citation": "\"La rationalité communicationnelle consiste à soumettre les prétentions à la validité à la discussion publique.\"",
+      "commentaire": "Habermas fait de la discussion et du dialogue le cœur d’une nouvelle conception de la raison."
+    }
+  ]
+}

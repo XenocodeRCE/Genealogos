@@ -1,0 +1,232 @@
+{
+  "periodes": [
+    {
+      "periode": "Antiquité",
+      "description_generale": "Le mot grec 'nomos' et le latin 'lex' désignent d’abord la règle collective qui organise la vie dans la cité. La loi est pensée comme ordre social, convention, parfois comme inscription d’un ordre cosmique ou naturel. Elle peut être écrite ou non-écrite, humaine ou divine.",
+      "penseurs_cles": [
+        {
+          "nom": "Solon",
+          "contribution": "Législateur athénien, il rédige les premières lois écrites qui organisent la cité d’Athènes, marquant le passage de la coutume à la loi écrite.",
+          "extrait": "\"Je donne au peuple autant de pouvoir qu’il lui suffit, sans lui enlever ni lui accorder tout.\" (Fragments, cité par Plutarque, Vie de Solon)"
+        },
+        {
+          "nom": "Platon",
+          "contribution": "Il distingue les lois humaines, imparfaites, et les lois idéales, modèles d’ordre et de justice. Il pense la loi comme instrument d’éducation et d’harmonie sociale.",
+          "extrait": "\"La loi doit être la raison sans passion.\" (Les Lois, IX, 875c)"
+        },
+        {
+          "nom": "Sophocle (Antigone)",
+          "contribution": "À travers le personnage d’Antigone, il pose la question des lois non écrites, supérieures aux lois humaines.",
+          "extrait": "\"Je ne croyais pas que tes décrets, mortel, pussent primer les lois non écrites et éternelles des dieux !\" (Antigone, v. 450-460)"
+        }
+      ],
+      "usages_et_debats": "Débat sur l’origine de la loi : convention humaine ou reflet d’un ordre naturel ou divin ? Sur la légitimité et la justice des lois, leur rapport à la coutume.",
+      "changements_de_signification": "La loi passe de la simple coutume à la règle écrite, puis à l’idée d’un principe rationnel d’organisation sociale.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Nomos",
+          "explication_lien": "Le nomos est la loi ou la règle collective, parfois opposée à la nature (physis)."
+        },
+        {
+          "notion": "Justice",
+          "explication_lien": "Le but de la loi est de rendre la justice et de maintenir l’ordre."
+        },
+        {
+          "notion": "Nature (physis)",
+          "explication_lien": "Débat sur la loi : convention humaine ou expression de la nature ?"
+        }
+      ]
+    },
+    {
+      "periode": "Moyen Âge",
+      "description_generale": "La loi est pensée comme expression de la volonté divine (loi éternelle) qui se décline en loi naturelle (inscrite dans le cœur de l’homme) et loi humaine (règles de la société). Elle structure la vie morale, religieuse et politique.",
+      "penseurs_cles": [
+        {
+          "nom": "Saint Augustin",
+          "contribution": "Il distingue la loi humaine des lois éternelles de Dieu. La vraie loi est celle qui oriente vers le bien suprême.",
+          "extrait": "\"Une loi injuste n’est pas une loi.\" (De libero arbitrio, I, 5)"
+        },
+        {
+          "nom": "Thomas d’Aquin",
+          "contribution": "Il systématise la distinction entre loi éternelle, loi naturelle et loi positive. La loi humaine doit être conforme à la raison et à la loi naturelle.",
+          "extrait": "\"La loi est une ordonnance de la raison en vue du bien commun, promulguée par celui qui a la charge de la communauté.\" (Somme théologique, I-II, q.90, a.4)"
+        }
+      ],
+      "usages_et_debats": "Débat sur la hiérarchie des lois (divine, naturelle, humaine), sur la légitimité de l’autorité politique, sur la désobéissance à la loi injuste.",
+      "changements_de_signification": "La loi devient principe universel, rationnel et moral, qui fonde le droit et la justice humaine sur un ordre supérieur.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Loi naturelle",
+          "explication_lien": "Principe inscrit dans la nature humaine, supérieur aux lois humaines."
+        },
+        {
+          "notion": "Autorité",
+          "explication_lien": "La loi exprime et légitime l’autorité du souverain ou du législateur."
+        },
+        {
+          "notion": "Bien commun",
+          "explication_lien": "La loi vise l’intérêt général, pas seulement l’avantage particulier."
+        }
+      ]
+    },
+    {
+      "periode": "Âge classique (XVIIe - XVIIIe siècles)",
+      "description_generale": "La loi prend une dimension politique, rationnelle et universelle. On la pense comme contrat social, garantie des droits, ou encore comme expression de la volonté générale. La science découvre aussi des lois naturelles universelles (physique, mathématiques).",
+      "penseurs_cles": [
+        {
+          "nom": "Thomas Hobbes",
+          "contribution": "Il fonde la loi civile sur le contrat social : la loi est l’expression de la volonté du souverain, condition de la paix.",
+          "extrait": "\"La loi civile, c’est la volonté du souverain exprimée dans ses commandements.\" (Le Léviathan, chap. XXVI)"
+        },
+        {
+          "nom": "John Locke",
+          "contribution": "Il distingue la loi de nature (droit naturel) et la loi positive (loi civile), qui doit protéger la liberté et la propriété.",
+          "extrait": "\"La fin principale de la loi, c’est la préservation et l’élargissement de la liberté.\" (Second traité du gouvernement civil, VI, 57)"
+        },
+        {
+          "nom": "Jean-Jacques Rousseau",
+          "contribution": "Il pense la loi comme expression de la volonté générale : elle doit être faite par et pour le peuple.",
+          "extrait": "\"La loi est l’expression de la volonté générale.\" (Du Contrat social, II, 6)"
+        },
+        {
+          "nom": "Isaac Newton",
+          "contribution": "Il découvre des lois universelles de la nature (gravitation), étendant le concept de loi à la science.",
+          "extrait": "\"La loi universelle de la gravitation s’applique à tous les corps.\" (Principia Mathematica, 1687)"
+        }
+      ],
+      "usages_et_debats": "Débat sur l’origine de la loi (contrat, raison, tradition), sur la légitimité du pouvoir, sur la distinction entre lois humaines et lois naturelles (scientifiques).",
+      "changements_de_signification": "La loi devient principe rationnel, universel, fondement de la liberté politique et de la science moderne.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Contrat social",
+          "explication_lien": "La loi trouve sa légitimité dans l’accord entre les membres de la société."
+        },
+        {
+          "notion": "Volonté générale",
+          "explication_lien": "Chez Rousseau, la loi est l’expression de la volonté collective."
+        },
+        {
+          "notion": "Droit naturel",
+          "explication_lien": "La loi humaine doit respecter les droits naturels de l’homme."
+        },
+        {
+          "notion": "Loi scientifique",
+          "explication_lien": "La science découvre des lois universelles régissant la nature."
+        }
+      ]
+    },
+    {
+      "periode": "Époque moderne (XIXe siècle)",
+      "description_generale": "La loi est analysée dans ses fondements sociaux et historiques. On distingue lois juridiques, lois sociales, lois scientifiques. La réflexion porte sur la légitimité démocratique, la justice et l’efficacité des lois.",
+      "penseurs_cles": [
+        {
+          "nom": "Georg Wilhelm Friedrich Hegel",
+          "contribution": "Il voit la loi comme moment de l’Esprit objectif, expression du développement historique de la liberté dans les institutions.",
+          "extrait": "\"La loi est la réalité de la liberté objective.\" (Principes de la philosophie du droit, §29)"
+        },
+        {
+          "nom": "Auguste Comte",
+          "contribution": "Il étend la notion de loi à la sociologie : il s’agit de découvrir les lois du développement social.",
+          "extrait": "\"Savoir pour prévoir, prévoir pour pouvoir : telle est la formule de la science.\" (Cours de philosophie positive, I, 1830)"
+        },
+        {
+          "nom": "Karl Marx",
+          "contribution": "Il critique la loi comme reflet des rapports de force sociaux et des intérêts de la classe dominante.",
+          "extrait": "\"Le droit n’est jamais que la volonté de la classe dominante érigée en loi.\" (Le Manifeste du parti communiste, 1848)"
+        }
+      ],
+      "usages_et_debats": "Débat sur la justice des lois, leur évolution historique, leur rôle dans la reproduction ou la transformation sociale. Sur la différence entre lois de la nature (invariables) et lois humaines (changeantes).",
+      "changements_de_signification": "La loi devient objet de critique sociale, mais aussi outil de transformation. Elle n’est plus seulement rationnelle, mais aussi historique et politique.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Droit",
+          "explication_lien": "La loi fonde et encadre le droit, mais peut être critiquée au nom de la justice."
+        },
+        {
+          "notion": "Institution",
+          "explication_lien": "La loi fonctionne dans un cadre institutionnel évolutif."
+        },
+        {
+          "notion": "Rapports de force",
+          "explication_lien": "La loi peut refléter ou masquer les rapports de domination."
+        }
+      ]
+    },
+    {
+      "periode": "Époque contemporaine (XXe-XXIe siècles)",
+      "description_generale": "La loi est interrogée dans sa capacité à garantir la justice, l’égalité, la liberté dans des sociétés complexes et pluralistes. On distingue lois constitutionnelles, lois internationales, lois sociales, et lois scientifiques. La réflexion s’étend aussi à la critique des lois injustes et à la désobéissance civile.",
+      "penseurs_cles": [
+        {
+          "nom": "Hans Kelsen",
+          "contribution": "Il fonde la théorie pure du droit : la loi est une norme juridique, indépendante de la morale ou de la politique.",
+          "extrait": "\"Le droit est un système de normes, dont la loi est l’expression formelle.\" (Théorie pure du droit, 1934)"
+        },
+        {
+          "nom": "John Rawls",
+          "contribution": "Il pense la loi comme instrument de justice et d’équité, devant être choisie dans des conditions impartiales.",
+          "extrait": "\"Les lois justes sont celles que des personnes libres et égales choisiraient derrière un voile d’ignorance.\" (Théorie de la justice, §3)"
+        },
+        {
+          "nom": "Hannah Arendt",
+          "contribution": "Elle analyse la loi comme institution politique, mais aussi la possibilité de désobéissance civile face aux lois injustes.",
+          "extrait": "\"Le droit de désobéir à la loi peut être la seule sauvegarde contre la tyrannie.\" (La Crise de la culture, 1961)"
+        }
+      ],
+      "usages_et_debats": "Débat sur la légitimité et la justice des lois, la possibilité de lois universelles dans des sociétés diverses, la distinction entre légalité et légitimité, et sur la place de la désobéissance civile.",
+      "changements_de_signification": "La loi devient norme parmi d’autres, objet de réflexion critique et d’adaptation constante. Elle est vue comme construction humaine, modulable, et non plus absolue.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Norme",
+          "explication_lien": "La loi est un type particulier de norme sociale ou juridique."
+        },
+        {
+          "notion": "Justice",
+          "explication_lien": "La loi doit viser la justice, mais peut être remise en cause si elle s’en éloigne."
+        },
+        {
+          "notion": "Désobéissance civile",
+          "explication_lien": "La loi n’est pas absolue et peut légitimement être contestée."
+        }
+      ]
+    }
+  ],
+  "etymologie": "Le mot 'loi' vient du latin 'lex', qui désigne la règle écrite, imposée par une autorité publique, par opposition à la coutume ('mos'). En grec ancien, 'nomos' désigne la loi, la règle, mais aussi la coutume ou l’usage. Le terme évolue en français pour désigner à la fois la règle juridique imposée par l’État, la règle morale ou religieuse, et, par analogie, la règle scientifique universelle (loi de la nature).",
+  "citations": [
+    {
+      "auteur": "Platon",
+      "oeuvre": "Les Lois",
+      "citation": "\"La loi doit être la raison sans passion.\"",
+      "commentaire": "Platon pense la loi comme principe rationnel, supérieur à l’arbitraire individuel."
+    },
+    {
+      "auteur": "Sophocle",
+      "oeuvre": "Antigone",
+      "citation": "\"Je ne croyais pas que tes décrets, mortel, pussent primer les lois non écrites et éternelles des dieux !\"",
+      "commentaire": "Sophocle met en scène la tension entre lois humaines et lois supérieures, non écrites."
+    },
+    {
+      "auteur": "Thomas d’Aquin",
+      "oeuvre": "Somme théologique",
+      "citation": "\"La loi est une ordonnance de la raison en vue du bien commun, promulguée par celui qui a la charge de la communauté.\"",
+      "commentaire": "Thomas d’Aquin définit la loi comme rationnelle, orientée vers le bien commun."
+    },
+    {
+      "auteur": "Jean-Jacques Rousseau",
+      "oeuvre": "Du Contrat social",
+      "citation": "\"La loi est l’expression de la volonté générale.\"",
+      "commentaire": "Rousseau fait de la loi l’instrument de la souveraineté populaire."
+    },
+    {
+      "auteur": "Hans Kelsen",
+      "oeuvre": "Théorie pure du droit",
+      "citation": "\"Le droit est un système de normes, dont la loi est l’expression formelle.\"",
+      "commentaire": "Kelsen fait de la loi une norme parmi d’autres, indépendante de la morale."
+    },
+    {
+      "auteur": "Hannah Arendt",
+      "oeuvre": "La Crise de la culture",
+      "citation": "\"Le droit de désobéir à la loi peut être la seule sauvegarde contre la tyrannie.\"",
+      "commentaire": "Arendt souligne que la loi n’est pas absolue et que la désobéissance civile peut être légitime."
+    }
+  ]
+}

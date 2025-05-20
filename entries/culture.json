@@ -1,0 +1,208 @@
+{
+  "periodes": [
+    {
+      "periode": "Antiquité",
+      "description_generale": "Le terme 'culture' n’existe pas au sens moderne, mais le mot latin 'cultura' signifie d’abord le soin apporté à la terre (agriculture) ou à l’esprit (cultiver l’âme). Les Grecs parlent de 'paideia' pour désigner l’éducation, la formation de l’homme accompli par la transmission du savoir, des arts et des vertus.",
+      "penseurs_cles": [
+        {
+          "nom": "Cicéron",
+          "contribution": "Il emploie l’expression 'cultura animi' pour désigner la culture de l’esprit, à la manière dont on cultive un champ. Pour lui, l’éducation, la philosophie et la formation morale sont un travail de culture intérieure.",
+          "extrait": "\"La culture de l’âme est la philosophie ; c’est elle qui arrache les vices à la racine.\" (Tusculanes, II, 5)"
+        },
+        {
+          "nom": "Platon",
+          "contribution": "Il insiste sur l’importance de l’éducation ('paideia') pour former l’âme et atteindre la justice ; il voit dans la transmission des savoirs et des vertus le cœur de la vie citoyenne.",
+          "extrait": "\"L’éducation, c’est donner à l’âme la juste direction.\" (La République, VII, 518e)"
+        }
+      ],
+      "usages_et_debats": "Débats sur le rôle de l’éducation, de la transmission, du perfectionnement moral dans la formation de l’homme. On oppose parfois la nature brute à la formation par l’éducation.",
+      "changements_de_signification": "Le mot culture renvoie à l’idée de soin, de transformation, d’élévation, appliquée à l’âme humaine ou à la terre.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Paideia",
+          "explication_lien": "L’idéal grec de formation globale de l’homme, ancêtre du concept de culture."
+        },
+        {
+          "notion": "Éducation",
+          "explication_lien": "La culture commence comme transmission et perfectionnement éducatif."
+        },
+        {
+          "notion": "Nature",
+          "explication_lien": "Opposition fréquente entre la nature 'brute' et la culture comme travail de transformation."
+        }
+      ]
+    },
+    {
+      "periode": "Moyen Âge",
+      "description_generale": "Le mot 'culture' reste rare et garde le sens de travail de la terre ou de l’âme ('cultura animi'), dans un contexte chrétien où l’accent est mis sur la culture spirituelle (formation morale, chrétienté, transmission religieuse).",
+      "penseurs_cles": [
+        {
+          "nom": "Saint Augustin",
+          "contribution": "Il reprend l’idée de culture de l’âme, en l’orientant vers Dieu : la vraie culture consiste à transformer son cœur par la foi et la connaissance du divin.",
+          "extrait": "\"Cultive ton âme pour qu’elle devienne apte à recevoir Dieu.\" (Lettre 147, 15)"
+        },
+        {
+          "nom": "Thomas d’Aquin",
+          "contribution": "Il valorise l’éducation chrétienne et la formation morale comme culture de l’esprit, intégrant la philosophie antique à la tradition chrétienne.",
+          "extrait": "\"La vertu est l’habitude qui perfectionne l’homme dans l’ordre de la raison.\" (Somme théologique, I-II, q.55, a.4)"
+        }
+      ],
+      "usages_et_debats": "Débat sur la meilleure manière de former l’âme, sur la compatibilité entre culture antique et foi chrétienne, sur la place du savoir profane dans la culture de l’esprit.",
+      "changements_de_signification": "La culture est essentiellement religieuse et morale, centrée sur la formation de l’âme en vue du salut.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Vertu",
+          "explication_lien": "La culture vise à former des habitudes vertueuses."
+        },
+        {
+          "notion": "Foi",
+          "explication_lien": "La culture de l’âme passe par l’accueil et la transmission de la foi chrétienne."
+        }
+      ]
+    },
+    {
+      "periode": "Âge classique (XVIIe - XVIIIe siècles)",
+      "description_generale": "Le mot 'culture' prend progressivement le sens de formation intellectuelle, artistique et morale. On distingue la culture de l’esprit (arts, lettres, sciences) et l’éducation. L’idée d’une 'haute culture' se développe, liée au goût, à l’honnêteté et à la civilisation.",
+      "penseurs_cles": [
+        {
+          "nom": "René Descartes",
+          "contribution": "Il valorise la culture de l’esprit comme moyen de perfectionnement individuel et collectif, par la raison et les sciences.",
+          "extrait": "\"C’est proprement avoir les yeux fermés, sans jamais tâcher de les ouvrir, que de vivre sans philosopher.\" (Discours de la méthode, II)"
+        },
+        {
+          "nom": "Voltaire",
+          "contribution": "Il défend la diffusion des Lumières, l’éducation, le progrès des arts et des sciences comme culture qui libère l’homme de l’ignorance.",
+          "extrait": "\"Plus on cultive son esprit, plus il est fécond.\" (Lettre à Damilaville, 1767)"
+        }
+      ],
+      "usages_et_debats": "Débats sur la démocratisation de la culture, sur le raffinement des mœurs, sur la culture comme marque de distinction sociale.",
+      "changements_de_signification": "La culture devient synonyme de progrès, d’émancipation par le savoir et les arts, mais reste réservée à une élite.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Civilisation",
+          "explication_lien": "La culture est vue comme perfectionnement des sociétés humaines."
+        },
+        {
+          "notion": "Arts et sciences",
+          "explication_lien": "La culture englobe l’ensemble des productions artistiques et scientifiques."
+        },
+        {
+          "notion": "Goût",
+          "explication_lien": "La culture est aussi affaire de raffinement esthétique et moral."
+        }
+      ]
+    },
+    {
+      "periode": "Époque moderne (XIXe siècle)",
+      "description_generale": "La culture devient objet d’analyse critique : on oppose nature et culture, on s’interroge sur ce qui, dans l’homme, est acquis ou hérité. La culture n’est plus réservée à l’élite ; elle désigne l’ensemble des pratiques, croyances, institutions d’un groupe humain.",
+      "penseurs_cles": [
+        {
+          "nom": "Wilhelm von Humboldt",
+          "contribution": "Il définit la culture comme développement pluriel de l’humanité, chaque peuple ayant sa propre culture ('Kultur').",
+          "extrait": "\"La vraie fin de l’homme est le développement le plus élevé et le plus harmonieux de ses forces dans une individualité aussi complète que possible.\" (Idées pour une philosophie de l’histoire de l’humanité, 1795-1802)"
+        },
+        {
+          "nom": "Émile Durkheim",
+          "contribution": "Il fonde la sociologie moderne de la culture : la culture est l’ensemble des croyances, des normes et des valeurs partagées par une société.",
+          "extrait": "\"La société est une réalité sui generis et la culture en exprime la cohésion.\" (Les Règles de la méthode sociologique, 1895)"
+        }
+      ],
+      "usages_et_debats": "Débats sur le relativisme culturel, sur l’opposition nature/culture, sur la diversité des cultures humaines et leurs valeurs.",
+      "changements_de_signification": "La culture devient collective, variable selon les sociétés, et non plus seulement perfectionnement individuel.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Relativisme culturel",
+          "explication_lien": "Chaque culture a ses propres normes et valeurs, pas de hiérarchie universelle."
+        },
+        {
+          "notion": "Société",
+          "explication_lien": "La culture exprime le lien social et l’appartenance à un groupe."
+        },
+        {
+          "notion": "Langage",
+          "explication_lien": "Le langage est le vecteur principal de la culture."
+        }
+      ]
+    },
+    {
+      "periode": "Époque contemporaine (XXe-XXIe siècles)",
+      "description_generale": "La culture est analysée dans sa pluralité : cultures populaires, savantes, mondiales, locales. On étudie la construction des identités culturelles, les phénomènes d’acculturation, de mondialisation, et la dynamique entre culture et pouvoir. L’anthropologie et la philosophie insistent sur la diversité des cultures et leur rôle dans la construction du sens.",
+      "penseurs_cles": [
+        {
+          "nom": "Claude Lévi-Strauss",
+          "contribution": "Il analyse la culture comme système de signes, de règles et de symboles, non comme simple raffinement individuel. Il met en avant la diversité des cultures humaines.",
+          "extrait": "\"La culture est un ensemble de systèmes symboliques, dont le langage est le plus important.\" (Anthropologie structurale, 1958)"
+        },
+        {
+          "nom": "Stuart Hall",
+          "contribution": "Il développe les cultural studies et pense la culture comme champ de luttes pour la représentation et le pouvoir, lieu de formation des identités.",
+          "extrait": "\"La culture est un espace de production de sens, un lieu de négociation du pouvoir et de l’identité.\" (Cultural Studies, 1997)"
+        },
+        {
+          "nom": "Edward Said",
+          "contribution": "Il critique l’eurocentrisme et montre que la culture peut être un instrument de domination (orientalisme).",
+          "extrait": "\"La culture n’est pas innocente ; elle est toujours impliquée dans des questions de pouvoir.\" (Orientalism, 1978)"
+        }
+      ],
+      "usages_et_debats": "Débats sur l’universalité ou la relativité des cultures, sur la mondialisation, sur les cultures dominantes et dominées, sur l’appropriation culturelle et l’hybridation.",
+      "changements_de_signification": "La culture devient plurielle, dynamique, enjeu de pouvoir et d’identité, et non plus simplement perfectionnement ou patrimoine.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Identité",
+          "explication_lien": "La culture façonne et exprime les identités individuelles et collectives."
+        },
+        {
+          "notion": "Mondialisation",
+          "explication_lien": "Les cultures se rencontrent, s’hybrident ou s’affrontent dans un monde globalisé."
+        },
+        {
+          "notion": "Pouvoir",
+          "explication_lien": "La culture sert à légitimer ou à contester des rapports de pouvoir."
+        },
+        {
+          "notion": "Acculturation",
+          "explication_lien": "Processus d’emprunt, d’appropriation ou de transformation entre cultures."
+        }
+      ]
+    }
+  ],
+  "etymologie": "Le mot 'culture' vient du latin 'cultura', dérivé de 'colere' (cultiver, soigner). D’abord employé pour parler du travail de la terre ('agri cultura'), il s’applique par métaphore à la formation de l’esprit et de l’âme ('cultura animi'). Le mot prend en français, à partir du XVIIIe siècle, le sens de raffinement intellectuel, artistique ou moral, puis, au XIXe siècle, celui d’ensemble des pratiques, croyances et savoirs d’un groupe humain. Aujourd’hui, il désigne aussi bien l’héritage humain, la diversité des modes de vie, que les processus dynamiques de production de sens et d’identité.",
+  "citations": [
+    {
+      "auteur": "Cicéron",
+      "oeuvre": "Tusculanes",
+      "citation": "\"La culture de l’âme est la philosophie ; c’est elle qui arrache les vices à la racine.\"",
+      "commentaire": "Cicéron fait de la culture un travail de perfectionnement moral et intellectuel."
+    },
+    {
+      "auteur": "Platon",
+      "oeuvre": "La République",
+      "citation": "\"L’éducation, c’est donner à l’âme la juste direction.\"",
+      "commentaire": "Pour Platon, la culture est d’abord une formation de l’âme, une orientation vers le bien."
+    },
+    {
+      "auteur": "Wilhelm von Humboldt",
+      "oeuvre": "Idées pour une philosophie de l’histoire de l’humanité",
+      "citation": "\"La vraie fin de l’homme est le développement le plus élevé et le plus harmonieux de ses forces dans une individualité aussi complète que possible.\"",
+      "commentaire": "Humboldt élargit la culture à la diversité des peuples et à la pluralité des formes de développement humain."
+    },
+    {
+      "auteur": "Émile Durkheim",
+      "oeuvre": "Les Règles de la méthode sociologique",
+      "citation": "\"La société est une réalité sui generis et la culture en exprime la cohésion.\"",
+      "commentaire": "Durkheim pose la culture comme ciment social, expression de la cohésion du groupe."
+    },
+    {
+      "auteur": "Claude Lévi-Strauss",
+      "oeuvre": "Anthropologie structurale",
+      "citation": "\"La culture est un ensemble de systèmes symboliques, dont le langage est le plus important.\"",
+      "commentaire": "Lévi-Strauss fait de la culture un système de signes, et non de simples pratiques ou œuvres."
+    },
+    {
+      "auteur": "Stuart Hall",
+      "oeuvre": "Cultural Studies",
+      "citation": "\"La culture est un espace de production de sens, un lieu de négociation du pouvoir et de l’identité.\"",
+      "commentaire": "Stuart Hall insiste sur le caractère dynamique, conflictuel et identitaire de la culture contemporaine."
+    }
+  ]
+}

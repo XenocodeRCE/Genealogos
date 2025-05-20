@@ -1,0 +1,227 @@
+{
+  "periodes": [
+    {
+      "periode": "Antiquité",
+      "description_generale": "Le mot grec 'techne' et le latin 'ars' désignent toute forme de savoir-faire, d’habileté ou de technique, qu’il s’agisse de la fabrication d’objets, de la médecine, de la navigation ou de la sculpture. Il n’y a pas encore de distinction entre 'art' et 'technique' : tout ce qui implique maîtrise, règles et apprentissage relève de l’art. Les activités artistiques (peinture, musique, poésie) ne sont pas séparées des autres formes de production intelligente.",
+      "penseurs_cles": [
+        {
+          "nom": "Platon",
+          "contribution": "Il classe les arts ('technai') parmi les savoir-faire utiles, mais se méfie de la poésie et de la peinture, qu’il accuse de n’être que des imitations trompeuses du réel.",
+          "extrait": "\"L’art imitatif est éloigné de la vérité, et l’artiste ne fait que copier des apparences.\" (La République, X, 595a-598d)"
+        },
+        {
+          "nom": "Aristote",
+          "contribution": "Il distingue l’art ('techne') de la nature : l’art est production selon des règles, par opposition à ce qui existe par soi-même. Il analyse la tragédie et la poésie comme des arts capables de produire des effets spécifiques (catharsis).",
+          "extrait": "\"L’art ('techne') consiste à produire en suivant un principe rationnel.\" (Éthique à Nicomaque, VI, 4, 1140a)"
+        }
+      ],
+      "usages_et_debats": "Débats sur la valeur de l’imitation, la différence entre savoir-faire pratique et sagesse théorique, la capacité de l’art à instruire ou à tromper.",
+      "changements_de_signification": "L’art est synonyme de technique maîtrisée : il n’est pas encore conçu comme domaine autonome ou pur espace d’expression personnelle.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Techne",
+          "explication_lien": "Le savoir-faire, l’habileté, la méthode, racine du concept d’art."
+        },
+        {
+          "notion": "Mimesis",
+          "explication_lien": "L’art comme imitation du réel, source de débat chez Platon et Aristote."
+        },
+        {
+          "notion": "Nature",
+          "explication_lien": "L’art s’oppose à la nature comme production humaine et réfléchie."
+        }
+      ]
+    },
+    {
+      "periode": "Moyen Âge",
+      "description_generale": "Le mot 'ars' désigne tout savoir-faire ordonné : arts libéraux (grammaire, logique, etc.) et arts mécaniques (artisanat, métiers manuels). L’art reste lié à l’idée de règle, d’utilité, de soumission à un ordre supérieur (divin ou naturel). L’art religieux prévaut : il sert la gloire de Dieu et l’édification morale.",
+      "penseurs_cles": [
+        {
+          "nom": "Saint Thomas d’Aquin",
+          "contribution": "Il définit l’art ('ars') comme disposition rationnelle à produire selon des règles. L’art vise le vrai et le bien, mais reste inférieur à la contemplation de Dieu.",
+          "extrait": "\"L’art est la rectitude de la raison dans la production de choses extérieures.\" (Somme théologique, I-II, q.57, a.3)"
+        },
+        {
+          "nom": "Dante Alighieri",
+          "contribution": "Il célèbre l’art poétique, mais rappelle que toute création humaine doit s’inspirer de l’ordre divin.",
+          "extrait": "\"L’art, comme la nature, suit, autant que possible, le chemin de Dieu.\" (La Divine Comédie, Paradis, I, 103-105)"
+        }
+      ],
+      "usages_et_debats": "Débats sur la hiérarchie entre arts libéraux et arts mécaniques, sur la valeur spirituelle de l’art, sur sa capacité à conduire vers Dieu.",
+      "changements_de_signification": "L’art est essentiellement technique et fonctionnel, placé au service d’une finalité supérieure ; il n’est pas encore valorisé pour lui-même.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Arts libéraux",
+          "explication_lien": "Les arts intellectuels, opposés aux arts manuels (mécaniques)."
+        },
+        {
+          "notion": "Ordre divin",
+          "explication_lien": "L’art doit refléter et servir la création divine."
+        },
+        {
+          "notion": "Beauté",
+          "explication_lien": "La beauté artistique est vue comme reflet de la beauté divine."
+        }
+      ]
+    },
+    {
+      "periode": "Âge classique (XVIIe - XVIIIe siècles)",
+      "description_generale": "L’art commence à se distinguer de la technique et à être pensé comme activité créatrice, productrice de beauté et d’émotions. On fonde l’esthétique comme discipline philosophique. L’art devient un espace de liberté, d’expression de la sensibilité et du génie.",
+      "penseurs_cles": [
+        {
+          "nom": "René Descartes",
+          "contribution": "Il distingue arts mécaniques et beaux-arts, valorisant la raison et la méthode dans la création artistique.",
+          "extrait": "\"Il n’y a point d’arts si difficiles qu’on ne puisse les apprendre.\" (Discours de la méthode, II)"
+        },
+        {
+          "nom": "Alexander Baumgarten",
+          "contribution": "Il invente le mot 'esthétique' pour désigner la science du beau et fait de la sensibilité un critère de l’art.",
+          "extrait": "\"L’esthétique est la science de la connaissance sensible.\" (Aesthetica, 1750)"
+        },
+        {
+          "nom": "Immanuel Kant",
+          "contribution": "Il distingue l’art libre (beaux-arts) de l’art mercenaire et analyse le jugement esthétique comme libre de toute finalité pratique.",
+          "extrait": "\"L’art est une représentation d’une idée qui plaît universellement sans concept.\" (Critique de la faculté de juger, §49)"
+        }
+      ],
+      "usages_et_debats": "Débats sur la distinction beaux-arts/arts utiles, sur la place du goût, du génie, de la règle, sur la nature du beau et la finalité de l’art.",
+      "changements_de_signification": "L’art devient création originale, expression du goût et du génie, séparé de la simple technique.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Esthétique",
+          "explication_lien": "Naissance de la philosophie du beau, centrée sur la perception artistique."
+        },
+        {
+          "notion": "Génie",
+          "explication_lien": "L’art suppose, chez le créateur, une capacité d’inventer ce qui ne se réduit pas à l’application de règles."
+        },
+        {
+          "notion": "Beaux-arts",
+          "explication_lien": "Distinction avec les arts mécaniques ou utilitaires."
+        }
+      ]
+    },
+    {
+      "periode": "Époque moderne (XIXe siècle)",
+      "description_generale": "L’art est élevé au rang d’activité autonome, porteuse de sa propre valeur. On insiste sur l’expression subjective, la création originale, la capacité de l’art à bouleverser les perceptions et à révéler l’invisible. L’artiste devient figure centrale, parfois géniale, parfois maudite.",
+      "penseurs_cles": [
+        {
+          "nom": "Friedrich Nietzsche",
+          "contribution": "Il voit l’art comme puissance vitale, affirmation de la vie contre le nihilisme, et force de création de valeurs.",
+          "extrait": "\"Nous avons l’art pour ne pas mourir de la vérité.\" (Le Gai Savoir, §107)"
+        },
+        {
+          "nom": "Georg Wilhelm Friedrich Hegel",
+          "contribution": "Il place l’art dans le développement de l’Esprit absolu, comme manifestation sensible de l’Idée.",
+          "extrait": "\"L’art est la première manière dont l’esprit se donne conscience de lui-même.\" (Esthétique, Introduction)"
+        },
+        {
+          "nom": "Arthur Schopenhauer",
+          "contribution": "Il fait de l’art un moyen de s’arracher à la volonté et à la souffrance, une expérience esthétique désintéressée.",
+          "extrait": "\"Dans l’art, nous sommes libérés du vouloir, nous contemplons le monde comme pure représentation.\" (Le Monde comme volonté et comme représentation, III)"
+        }
+      ],
+      "usages_et_debats": "Débats sur la finalité de l’art (autonomie ou engagement ?), sur la place de l’artiste, sur la fonction expressive, critique ou libératrice de l’art.",
+      "changements_de_signification": "L’art devient expérience individuelle et universelle, lieu d’expression de l’inconscient, du rêve ou de la révolte.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Expression",
+          "explication_lien": "L’art est vu comme langage de l’intériorité, de la subjectivité."
+        },
+        {
+          "notion": "Autonomie de l’art",
+          "explication_lien": "L’art ne sert plus une cause extérieure, il a sa propre finalité."
+        },
+        {
+          "notion": "Sublime",
+          "explication_lien": "Le sublime exprime l’émotion extrême, souvent recherchée dans l’art romantique."
+        }
+      ]
+    },
+    {
+      "periode": "Époque contemporaine (XXe-XXIe siècles)",
+      "description_generale": "L’art se pluralise et se questionne lui-même : ruptures avec les traditions, expérimentation, remise en cause des frontières avec la vie quotidienne, la technique ou la politique. On s’interroge sur la définition de l’art, son rôle social, son accessibilité, et sa place dans un monde marqué par la reproduction technique et la culture de masse.",
+      "penseurs_cles": [
+        {
+          "nom": "Marcel Duchamp",
+          "contribution": "Il brouille les frontières de l’art avec ses 'ready-made', interrogeant la définition même de l’œuvre d’art.",
+          "extrait": "\"C’est le regardeur qui fait le tableau.\" (Entretien, 1961)"
+        },
+        {
+          "nom": "Walter Benjamin",
+          "contribution": "Il analyse les effets de la reproduction technique de l’art, la perte de l’aura de l’œuvre unique, et la politisation de l’art.",
+          "extrait": "\"L’œuvre d’art à l’époque de sa reproductibilité technique.\" (Titre de l’essai, 1936)"
+        },
+        {
+          "nom": "Theodor W. Adorno",
+          "contribution": "Il affirme l’autonomie critique de l’art, sa capacité à résister à la standardisation et à la domination sociale.",
+          "extrait": "\"L’art est la négation de la société telle qu’elle est.\" (Théorie esthétique, I)"
+        },
+        {
+          "nom": "Arthur Danto",
+          "contribution": "Il montre que l’art contemporain ne se définit plus par des critères esthétiques, mais par une réflexion sur sa propre définition.",
+          "extrait": "\"Tout peut être de l’art, à condition d’être intégré dans le monde de l’art.\" (Après la fin de l’art, 1997)"
+        }
+      ],
+      "usages_et_debats": "Débats sur la démocratisation de l’art, sur la frontière entre art et non-art, sur l’engagement politique, sur la marchandisation, sur l’art comme expérience collective ou contestation.",
+      "changements_de_signification": "L’art devient un champ ouvert, expérimental, réflexif, parfois provocateur ou participatif, questionnant ses propres limites.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Ready-made",
+          "explication_lien": "Objets ordinaires élevés au rang d’art par le geste de l’artiste."
+        },
+        {
+          "notion": "Aura",
+          "explication_lien": "L’unicité de l’œuvre, remise en cause par la reproduction technique."
+        },
+        {
+          "notion": "Institution",
+          "explication_lien": "L’art dépend désormais de contextes sociaux, de musées et de discours."
+        },
+        {
+          "notion": "Engagement",
+          "explication_lien": "L’art peut être critique, politique, subversif."
+        }
+      ]
+    }
+  ],
+  "etymologie": "Le mot 'art' vient du latin 'ars', qui traduit le grec 'techne'. Il désigne d’abord tout savoir-faire, toute technique ou méthode maîtrisée, que ce soit dans les métiers manuels, les sciences ou la poésie. Au Moyen Âge, 'arts libéraux' désigne les disciplines intellectuelles, par opposition aux 'arts mécaniques' (artisanat). À partir du XVIIIe siècle, 'art' prend le sens spécifique d’activité créatrice, distincte de la technique, centrée sur la beauté, l’expression et l’originalité. Aujourd’hui, 'art' recouvre à la fois la création esthétique, l’expression personnelle, l’expérimentation, et l’interrogation sur ses propres frontières.",
+  "citations": [
+    {
+      "auteur": "Platon",
+      "oeuvre": "La République",
+      "citation": "\"L’art imitatif est éloigné de la vérité, et l’artiste ne fait que copier des apparences.\"",
+      "commentaire": "Platon questionne la valeur de l’art comme imitation, le jugeant inférieur à la connaissance philosophique."
+    },
+    {
+      "auteur": "Aristote",
+      "oeuvre": "Éthique à Nicomaque",
+      "citation": "\"L’art ('techne') consiste à produire en suivant un principe rationnel.\"",
+      "commentaire": "Aristote fait de l’art une activité rationnelle, soumise à des règles, distincte de la simple nature."
+    },
+    {
+      "auteur": "Immanuel Kant",
+      "oeuvre": "Critique de la faculté de juger",
+      "citation": "\"L’art est une représentation d’une idée qui plaît universellement sans concept.\"",
+      "commentaire": "Kant pense l’art comme production libre, source de plaisir esthétique universel."
+    },
+    {
+      "auteur": "Friedrich Nietzsche",
+      "oeuvre": "Le Gai Savoir",
+      "citation": "\"Nous avons l’art pour ne pas mourir de la vérité.\"",
+      "commentaire": "Nietzsche donne à l’art une fonction vitale, de création et de consolation."
+    },
+    {
+      "auteur": "Marcel Duchamp",
+      "oeuvre": "Entretien, 1961",
+      "citation": "\"C’est le regardeur qui fait le tableau.\"",
+      "commentaire": "Duchamp remet en cause la définition traditionnelle de l’art et le rôle de l’artiste."
+    },
+    {
+      "auteur": "Arthur Danto",
+      "oeuvre": "Après la fin de l’art",
+      "citation": "\"Tout peut être de l’art, à condition d’être intégré dans le monde de l’art.\"",
+      "commentaire": "Danto affirme que l’art contemporain repose sur un cadre institutionnel et conceptuel plus que sur des critères esthétiques fixes."
+    }
+  ]
+}

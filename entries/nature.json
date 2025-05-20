@@ -1,0 +1,213 @@
+{
+  "periodes": [
+    {
+      "periode": "Antiquité",
+      "description_generale": "Le mot grec 'phusis' désigne ce qui croît, ce qui naît de soi, l’ensemble des choses qui existent indépendamment de l’action humaine. Les penseurs s’interrogent sur le principe d’ordre et de transformation du monde, sur les causes du changement, et sur la distinction entre ce qui est naturel et ce qui est fabriqué ou conventionnel.",
+      "penseurs_cles": [
+        {
+          "nom": "Héraclite",
+          "contribution": "Il voit dans la nature un flux perpétuel, un principe de transformation et de devenir. Tout change sans cesse selon un ordre qui lui est propre.",
+          "extrait": "\"La nature aime à se cacher.\" (Fragment 123)"
+        },
+        {
+          "nom": "Aristote",
+          "contribution": "Il définit la nature comme le principe interne de mouvement et de repos des êtres. Il distingue ce qui existe par nature (animaux, plantes, éléments) de ce qui est produit par l’art ou la technique.",
+          "extrait": "\"La nature est un principe et une cause du mouvement et du repos dans la chose à laquelle elle appartient essentiellement et non par accident.\" (Physique, II, 1, 192b20)"
+        }
+      ],
+      "usages_et_debats": "Débats sur l’origine du monde, l’opposition entre nature et convention (phusis/nomos), la différence entre le naturel et l’artificiel, le rôle des lois naturelles.",
+      "changements_de_signification": "La nature passe d’un simple ensemble de choses à un principe d’ordre, de croissance et de transformation universelle.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Phusis",
+          "explication_lien": "Désigne ce qui croît, ce qui est en soi, par opposition à ce qui est fait par l’homme."
+        },
+        {
+          "notion": "Nomos",
+          "explication_lien": "Opposé à phusis, le nomos renvoie à la loi ou la convention humaine."
+        },
+        {
+          "notion": "Cosmos",
+          "explication_lien": "La nature est pensée comme un ordre global, harmonieux et intelligible."
+        }
+      ]
+    },
+    {
+      "periode": "Moyen Âge",
+      "description_generale": "La nature est considérée comme création de Dieu, reflet d’un ordre divin. Elle est pensée comme un ensemble hiérarchisé, ordonné selon un plan supérieur. La nature humaine, en particulier, est discutée dans sa relation au péché, à la grâce et à la raison.",
+      "penseurs_cles": [
+        {
+          "nom": "Saint Augustin",
+          "contribution": "Il voit la nature comme bonne parce que créée par Dieu, mais blessée par le péché originel. La nature humaine est marquée par la chute.",
+          "extrait": "\"Dieu a créé toutes choses bonnes, mais la nature humaine a été corrompue par le péché.\" (La Cité de Dieu, XII, 6)"
+        },
+        {
+          "nom": "Thomas d’Aquin",
+          "contribution": "Il distingue nature (ordre créé) et surnature (ordre de la grâce). La nature a ses lois propres, mais demeure subordonnée à Dieu.",
+          "extrait": "\"La grâce ne détruit pas la nature, mais la perfectionne.\" (Somme théologique, I, q.1, a.8)"
+        }
+      ],
+      "usages_et_debats": "Débats sur la compatibilité entre ordre naturel et ordre divin, sur la place de la nature humaine dans le salut, sur la possibilité de connaître Dieu à partir de la nature.",
+      "changements_de_signification": "La nature n’est plus seulement principe interne, mais aussi œuvre de Dieu, structurée et hiérarchisée.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Création",
+          "explication_lien": "La nature est vue comme l’ensemble des êtres créés par Dieu."
+        },
+        {
+          "notion": "Grâce",
+          "explication_lien": "La nature humaine a besoin de la grâce pour être sauvée."
+        },
+        {
+          "notion": "Loi naturelle",
+          "explication_lien": "La réflexion sur les lois inscrites dans la nature se développe, surtout en morale."
+        }
+      ]
+    },
+    {
+      "periode": "Âge classique (XVIIe - XVIIIe siècles)",
+      "description_generale": "La nature devient un objet de science et d’expérimentation. On la pense comme un ensemble de lois universelles, indépendantes de toute volonté divine ou humaine. Elle est aussi un modèle d’ordre, de nécessité et de régularité.",
+      "penseurs_cles": [
+        {
+          "nom": "René Descartes",
+          "contribution": "Il considère la nature comme une machine, un système de lois mécaniques entièrement explicables par la raison.",
+          "extrait": "\"Je considère la matière, ou la substance corporelle, en général, comme une chose étendue, flexible, et divisible, que l’on peut mouvoir en tous sens, selon les lois de la nature.\" (Principes de la philosophie, II, 4)"
+        },
+        {
+          "nom": "Isaac Newton",
+          "contribution": "Il découvre des lois mathématiques universelles (gravitation, mouvement) qui régissent toute la nature.",
+          "extrait": "\"Je ne fais pas d’hypothèses : tout ce que je propose est déduit des phénomènes observés dans la nature.\" (Principia Mathematica, Préface)"
+        },
+        {
+          "nom": "Jean-Jacques Rousseau",
+          "contribution": "Il oppose la nature originelle de l’homme, libre et bon, à la société qui le corrompt. Il pense la nature humaine comme état de pureté antérieur à la civilisation.",
+          "extrait": "\"Tout est bien sortant des mains de l’Auteur des choses, tout dégénère entre les mains de l’homme.\" (Émile, I)"
+        }
+      ],
+      "usages_et_debats": "Débats sur la nature comme ordre nécessaire (lois physiques), sur la nature humaine (bonne ou mauvaise ?), sur la place de l’homme dans la nature.",
+      "changements_de_signification": "La nature devient objet d’étude scientifique, séparée du surnaturel. Elle est conçue comme système de lois universelles et nécessaire.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Loi de la nature",
+          "explication_lien": "La nature est vue comme soumise à des lois fixes, que la science cherche à découvrir."
+        },
+        {
+          "notion": "Mécanisme",
+          "explication_lien": "La nature est assimilée à une machine complexe, expliquée par le mouvement et la matière."
+        },
+        {
+          "notion": "État de nature",
+          "explication_lien": "Réflexion sur la condition humaine avant la société, notamment chez Rousseau."
+        }
+      ]
+    },
+    {
+      "periode": "Époque moderne (XIXe siècle)",
+      "description_generale": "La nature est pensée comme processus évolutif, dynamique, marqué par la transformation et la lutte pour la vie. Elle est aussi opposée à la culture, à l’histoire et à la technique.",
+      "penseurs_cles": [
+        {
+          "nom": "Charles Darwin",
+          "contribution": "Il révolutionne la biologie en montrant que la nature est le théâtre de l’évolution, de la sélection naturelle et du changement des espèces.",
+          "extrait": "\"Il n’est point de distinction essentielle entre l’homme et les animaux supérieurs dans leurs facultés mentales.\" (De l’origine des espèces, Chap. VI)"
+        },
+        {
+          "nom": "Friedrich Nietzsche",
+          "contribution": "Il critique l’idéalisation de la nature comme ordre moral ou modèle de sagesse ; il voit dans la nature une force aveugle, amorale, et créatrice.",
+          "extrait": "\"La nature n’est ni morale ni immorale, elle est tout simplement amorale.\" (Aurore, §424)"
+        }
+      ],
+      "usages_et_debats": "Débats sur la nature comme force évolutive, sur l’opposition entre nature et culture, sur la place de l’homme entre animalité et raison.",
+      "changements_de_signification": "La nature est perçue comme dynamique, évolutive, indifférente à l’homme, et source de conflits.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Évolution",
+          "explication_lien": "La nature n’est plus fixe, mais en transformation continuelle."
+        },
+        {
+          "notion": "Culture",
+          "explication_lien": "La culture se définit par opposition à la nature (ce qui est acquis, fabriqué, transmis)."
+        },
+        {
+          "notion": "Sélection naturelle",
+          "explication_lien": "La nature fonctionne selon la survie des plus adaptés, non selon un plan préétabli."
+        }
+      ]
+    },
+    {
+      "periode": "Époque contemporaine (XXe-XXIe siècles)",
+      "description_generale": "La nature est repensée à l’ère de la technique, de l’écologie et de la crise environnementale. On interroge la frontière entre nature et culture, le rôle de l’humain dans la transformation de la nature, et la nécessité de repenser notre rapport à l’environnement.",
+      "penseurs_cles": [
+        {
+          "nom": "Claude Lévi-Strauss",
+          "contribution": "Il montre que la distinction entre nature et culture n’est pas universelle, mais construite par chaque société humaine.",
+          "extrait": "\"La nature et la culture ne sont pas des catégories données, mais des catégories construites par l’esprit humain.\" (Anthropologie structurale, 1958)"
+        },
+        {
+          "nom": "Hans Jonas",
+          "contribution": "Il développe une éthique de la responsabilité envers la nature et la vie, face à la puissance de la technique moderne.",
+          "extrait": "\"Agis de façon que les effets de ton action soient compatibles avec la permanence d’une vie authentiquement humaine sur terre.\" (Le Principe responsabilité, 1979)"
+        },
+        {
+          "nom": "Bruno Latour",
+          "contribution": "Il critique l’opposition nature/culture et propose de penser des 'hybrides', entités mêlant humains, non-humains et techniques.",
+          "extrait": "\"Nous n’avons jamais été modernes. Nous n’avons jamais été séparés de la nature.\" (Nous n’avons jamais été modernes, 1991)"
+        }
+      ],
+      "usages_et_debats": "Débats sur la crise écologique, la protection de la nature, la responsabilité humaine, la remise en cause de la séparation stricte nature/culture.",
+      "changements_de_signification": "La notion de nature devient problématique : elle est pluralisée, hybridée, et repensée à l’ère de l’Anthropocène.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Écologie",
+          "explication_lien": "La réflexion sur la nature inclut désormais la question de sa préservation et de ses limites."
+        },
+        {
+          "notion": "Technonature",
+          "explication_lien": "La technique transforme la nature et brouille les frontières entre naturel et artificiel."
+        },
+        {
+          "notion": "Anthropocène",
+          "explication_lien": "Nouvelle ère géologique marquée par l’impact déterminant de l’homme sur la nature."
+        }
+      ]
+    }
+  ],
+  "etymologie": "Le mot 'nature' vient du latin 'natura', qui signifie 'naissance', 'ce qui est né', 'caractère essentiel'. Il traduit le grec 'phusis', qui renvoie à ce qui croît, naît ou se développe spontanément. Au fil du temps, 'nature' a désigné l’ensemble du monde physique, puis l’ordre des choses, puis les lois universelles qui régissent le monde, et enfin l’opposition à la culture, à la technique ou à l’artifice. Aujourd’hui, le mot recouvre une pluralité de sens : ensemble du vivant, ordre du monde, caractère essentiel, ou encore environnement à protéger.",
+  "citations": [
+    {
+      "auteur": "Héraclite",
+      "oeuvre": "Fragments",
+      "citation": "\"La nature aime à se cacher.\"",
+      "commentaire": "Héraclite suggère le mystère et la profondeur de ce qui existe par soi-même."
+    },
+    {
+      "auteur": "Aristote",
+      "oeuvre": "Physique",
+      "citation": "\"La nature est un principe et une cause du mouvement et du repos dans la chose à laquelle elle appartient essentiellement et non par accident.\"",
+      "commentaire": "Aristote définit la nature comme principe interne, opposée à l’artifice."
+    },
+    {
+      "auteur": "Jean-Jacques Rousseau",
+      "oeuvre": "Émile",
+      "citation": "\"Tout est bien sortant des mains de l’Auteur des choses, tout dégénère entre les mains de l’homme.\"",
+      "commentaire": "Rousseau oppose la pureté de la nature à la corruption de la société."
+    },
+    {
+      "auteur": "Charles Darwin",
+      "oeuvre": "De l’origine des espèces",
+      "citation": "\"Il n’est point de distinction essentielle entre l’homme et les animaux supérieurs dans leurs facultés mentales.\"",
+      "commentaire": "Darwin affirme la continuité de la nature entre l’homme et l’animal."
+    },
+    {
+      "auteur": "Claude Lévi-Strauss",
+      "oeuvre": "Anthropologie structurale",
+      "citation": "\"La nature et la culture ne sont pas des catégories données, mais des catégories construites par l’esprit humain.\"",
+      "commentaire": "Lévi-Strauss montre que la distinction nature/culture est une construction sociale."
+    },
+    {
+      "auteur": "Hans Jonas",
+      "oeuvre": "Le Principe responsabilité",
+      "citation": "\"Agis de façon que les effets de ton action soient compatibles avec la permanence d’une vie authentiquement humaine sur terre.\"",
+      "commentaire": "Jonas appelle à une nouvelle éthique du rapport à la nature."
+    }
+  ]
+}

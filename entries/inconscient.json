@@ -1,0 +1,193 @@
+{
+  "periodes": [
+    {
+      "periode": "Antiquité",
+      "description_generale": "À cette époque, il n’existe pas de concept formel correspondant à l’'inconscient'. Les penseurs évoquent parfois des forces obscures, des instincts, ou des influences inconnues sur l’âme ou le comportement, mais sans les conceptualiser comme une partie distincte de l’esprit.",
+      "penseurs_cles": [
+        {
+          "nom": "Platon",
+          "contribution": "Il distingue différentes parties de l’âme, dont certaines (comme le désir) échappent à la raison et agissent dans l’ombre, mais il ne parle pas encore d’'inconscient' au sens moderne.",
+          "extrait": "\"Il y a en chacun de nous un principe qui désire ardemment les plaisirs... et qui ne réfléchit pas.\" (La République, IX, 571b)"
+        },
+        {
+          "nom": "Aristote",
+          "contribution": "Il identifie des mouvements de l’âme non rationnels (passions, appétits) qui influencent le comportement sans être toujours accessibles à la raison.",
+          "extrait": "\"Il arrive souvent que, sans le vouloir, nous soyons menés par des affections qui ne relèvent pas de la raison.\" (Éthique à Nicomaque, VII, 3, 1147a10)"
+        }
+      ],
+      "usages_et_debats": "Débats sur la maîtrise de soi, sur l’influence des passions et des désirs, sur la possibilité d’ignorer ses véritables motifs.",
+      "changements_de_signification": "On pressent déjà l’existence de processus psychiques cachés, mais ils restent confondus avec les désirs ou les passions non réfléchis.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Âme",
+          "explication_lien": "Les parties inférieures de l’âme peuvent agir sans que la raison en soit consciente."
+        },
+        {
+          "notion": "Passion",
+          "explication_lien": "Les passions sont vues comme des forces qui échappent au contrôle de la raison."
+        }
+      ]
+    },
+    {
+      "periode": "Moyen Âge",
+      "description_generale": "La réflexion porte sur les pensées cachées, les tentations, ou les mouvements intérieurs obscurs, souvent associés à la nature pécheresse ou à l’action du diable. Il n’y a pas encore de théorie psychologique de l’inconscient.",
+      "penseurs_cles": [
+        {
+          "nom": "Saint Augustin",
+          "contribution": "Il évoque la profondeur du cœur humain, où résident des pensées et des désirs que l’homme ne maîtrise pas toujours, mais il y voit surtout l’effet du péché ou de la grâce.",
+          "extrait": "\"Je suis pour moi-même une terre de ténèbres.\" (Confessions, X, 33)"
+        }
+      ],
+      "usages_et_debats": "Débats sur la nature du mal, sur la difficulté de se connaître soi-même, sur la part d’ombre de la volonté humaine.",
+      "changements_de_signification": "Les mouvements cachés de l’âme sont interprétés dans un cadre moral et religieux, non psychologique.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Péché",
+          "explication_lien": "Les tentations et pensées obscures sont souvent perçues comme des effets du péché originel."
+        },
+        {
+          "notion": "Intériorité",
+          "explication_lien": "La profondeur de l’âme humaine est vue comme un mystère difficile à sonder."
+        }
+      ]
+    },
+    {
+      "periode": "Âge classique (XVIIe - XVIIIe siècles)",
+      "description_generale": "On commence à s’intéresser aux idées, désirs, ou habitudes qui agissent en nous sans que nous en ayons une claire conscience. Certains philosophes évoquent des perceptions obscures, des automatismes ou des pensées cachées.",
+      "penseurs_cles": [
+        {
+          "nom": "René Descartes",
+          "contribution": "Il pose la clarté de la conscience comme critère de vérité, mais reconnaît l’existence d’automatismes corporels et de passions qui échappent à la volonté.",
+          "extrait": "\"Il y a beaucoup de choses qui se passent en nous sans que nous les sachions.\" (Les Passions de l’âme, art. 17)"
+        },
+        {
+          "nom": "Gottfried Wilhelm Leibniz",
+          "contribution": "Il introduit la notion de 'petites perceptions', sensations trop faibles pour être perçues consciemment mais qui influencent nos états d’âme.",
+          "extrait": "\"Il y a une infinité de petites perceptions dont nous ne nous apercevons pas.\" (Nouveaux essais sur l’entendement humain, II, i, §15)"
+        }
+      ],
+      "usages_et_debats": "Débats sur le rôle des perceptions inconscientes, sur la frontière entre le corps et l’esprit, sur le déterminisme des habitudes.",
+      "changements_de_signification": "Première prise de conscience de phénomènes psychiques non accessibles à la conscience réflexive.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Petites perceptions",
+          "explication_lien": "Leibniz préfigure l’idée d’un psychisme invisible mais actif."
+        },
+        {
+          "notion": "Habitude",
+          "explication_lien": "Des actions répétées deviennent automatiques et échappent à la réflexion."
+        },
+        {
+          "notion": "Passion",
+          "explication_lien": "Les passions peuvent nous déterminer à notre insu."
+        }
+      ]
+    },
+    {
+      "periode": "Époque moderne (XIXe siècle)",
+      "description_generale": "La question de l’inconscient prend de l’ampleur dans la philosophie, la psychologie naissante et la littérature. On s’intéresse aux forces obscures, aux motivations cachées, à la vie psychique qui échappe à la conscience.",
+      "penseurs_cles": [
+        {
+          "nom": "Arthur Schopenhauer",
+          "contribution": "Il place la volonté, obscure et irrationnelle, au cœur de l’existence humaine, agissant dans l’ombre de la conscience.",
+          "extrait": "\"L’homme peut faire ce qu’il veut, mais il ne peut vouloir ce qu’il veut.\" (Le Monde comme volonté et comme représentation, I, §23)"
+        },
+        {
+          "nom": "Friedrich Nietzsche",
+          "contribution": "Il explore l’existence de forces inconscientes, d’instincts et de pulsions qui déterminent nos pensées et nos actions.",
+          "extrait": "\"Il y a plus de raison dans ton corps que dans ta meilleure sagesse.\" (Ainsi parlait Zarathoustra, De la lecture et de l’écriture)"
+        }
+      ],
+      "usages_et_debats": "Débats sur l’origine des actions humaines, sur la part d’irrationnel dans la conduite, sur la possibilité de se connaître soi-même.",
+      "changements_de_signification": "L’inconscient commence à être pensé comme une dimension structurante de la vie psychique, irrationnelle et autonome.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Volonté",
+          "explication_lien": "La volonté inconsciente agit derrière les motifs apparents."
+        },
+        {
+          "notion": "Instinct",
+          "explication_lien": "Les instincts sont des forces inconscientes qui orientent nos comportements."
+        },
+        {
+          "notion": "Pulsion",
+          "explication_lien": "Notion de force intérieure, souvent obscure, préfigurant la psychanalyse."
+        }
+      ]
+    },
+    {
+      "periode": "Époque contemporaine (XXe-XXIe siècles)",
+      "description_generale": "L’inconscient devient un concept central en psychanalyse, psychologie, philosophie et neurosciences. Il désigne une partie de la vie psychique, structurée ou non, qui échappe à la conscience mais influence nos pensées, nos actes et nos désirs.",
+      "penseurs_cles": [
+        {
+          "nom": "Sigmund Freud",
+          "contribution": "Il fait de l’inconscient le cœur de la vie psychique : désirs refoulés, souvenirs oubliés, conflits internes qui déterminent nos actes à notre insu.",
+          "extrait": "\"L’inconscient est le psychique lui-même et son essentielle réalité.\" (Métapsychologie, 1915)"
+        },
+        {
+          "nom": "Carl Gustav Jung",
+          "contribution": "Il élargit la notion en parlant d’inconscient collectif, ensemble de symboles et d’archétypes partagés par l’humanité.",
+          "extrait": "\"L’inconscient possède une sagesse collective, non seulement individuelle.\" (L’Homme à la découverte de son âme, 1931)"
+        },
+        {
+          "nom": "Jacques Lacan",
+          "contribution": "Il reformule l’inconscient comme structuré comme un langage : il fonctionne selon des lois symboliques, des signifiants qui échappent au sujet.",
+          "extrait": "\"L’inconscient est structuré comme un langage.\" (Le Séminaire, Livre XI, 1964)"
+        }
+      ],
+      "usages_et_debats": "Débats sur la réalité, la structure et les limites de l’inconscient : est-il un simple réservoir de pulsions, une structure symbolique, un produit de l’histoire individuelle ou collective ? Remise en question de la toute-puissance de la conscience.",
+      "changements_de_signification": "L’inconscient devient un champ de recherche et d’interprétation, au cœur de la compréhension de l’humain, mais aussi source de débats entre disciplines.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Refoulement",
+          "explication_lien": "Mécanisme central de la psychanalyse : ce qui est inconscient est souvent ce qui a été refoulé."
+        },
+        {
+          "notion": "Inconscient collectif",
+          "explication_lien": "Chez Jung, l’inconscient dépasse l’individuel pour englober des schémas universels."
+        },
+        {
+          "notion": "Langage",
+          "explication_lien": "Lacan pense l’inconscient comme structuré par le langage, non par la biologie seule."
+        },
+        {
+          "notion": "Neurosciences",
+          "explication_lien": "Les recherches contemporaines tentent de repérer des processus inconscients à l’aide des sciences du cerveau."
+        }
+      ]
+    }
+  ],
+  "etymologie": "Le terme 'inconscient' est construit sur le préfixe privatif 'in-' et le participe présent 'conscient', du latin 'conscientia' (ce qui est su avec soi-même). 'Inconscient' apparaît en français au XVIIIe siècle, d’abord pour désigner ce qui n’est pas perçu par la conscience, puis, au XIXe et surtout au XXe siècle, pour nommer la part de la vie psychique non accessible à la conscience réflexive. Le mot prend une extension considérable grâce à la psychanalyse et aux sciences humaines.",
+  "citations": [
+    {
+      "auteur": "Gottfried Wilhelm Leibniz",
+      "oeuvre": "Nouveaux essais sur l’entendement humain",
+      "citation": "\"Il y a une infinité de petites perceptions dont nous ne nous apercevons pas.\"",
+      "commentaire": "Leibniz anticipe la possibilité de processus psychiques actifs mais non conscients."
+    },
+    {
+      "auteur": "Arthur Schopenhauer",
+      "oeuvre": "Le Monde comme volonté et comme représentation",
+      "citation": "\"L’homme peut faire ce qu’il veut, mais il ne peut vouloir ce qu’il veut.\"",
+      "commentaire": "Schopenhauer souligne l’existence de désirs et de motifs inconscients qui orientent la volonté."
+    },
+    {
+      "auteur": "Sigmund Freud",
+      "oeuvre": "Métapsychologie",
+      "citation": "\"L’inconscient est le psychique lui-même et son essentielle réalité.\"",
+      "commentaire": "Freud fait de l’inconscient le centre de la vie psychique et du travail analytique."
+    },
+    {
+      "auteur": "Carl Gustav Jung",
+      "oeuvre": "L’Homme à la découverte de son âme",
+      "citation": "\"L’inconscient possède une sagesse collective, non seulement individuelle.\"",
+      "commentaire": "Jung élargit l’inconscient à une dimension collective, transpersonnelle."
+    },
+    {
+      "auteur": "Jacques Lacan",
+      "oeuvre": "Le Séminaire, Livre XI",
+      "citation": "\"L’inconscient est structuré comme un langage.\"",
+      "commentaire": "Lacan renouvelle la psychanalyse en pensant l’inconscient comme système symbolique."
+    }
+  ]
+}

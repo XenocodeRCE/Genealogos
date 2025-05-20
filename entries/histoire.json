@@ -1,0 +1,227 @@
+{
+  "periodes": [
+    {
+      "periode": "Antiquité",
+      "description_generale": "Le mot 'histoire' vient du grec 'historia', qui signifie enquête, recherche, ou récit. À cette époque, il désigne d’abord la collecte de témoignages, l’examen des faits passés, et la narration des événements humains. L’histoire n’est pas encore une science autonome, mais une forme de récit visant à transmettre des leçons, des modèles ou des explications sur le devenir des cités et des individus.",
+      "penseurs_cles": [
+        {
+          "nom": "Hérodote",
+          "contribution": "Considéré comme le 'père de l’histoire', il rapporte les causes et le déroulement des guerres entre Grecs et Perses, mêlant récits, enquêtes et réflexions sur les mœurs.",
+          "extrait": "\"Hérodote de Halicarnasse expose ici les résultats de son enquête ('historia'), afin que le temps n’abolisse pas les actions des hommes.\" (Histoires, I, prologue)"
+        },
+        {
+          "nom": "Thucydide",
+          "contribution": "Il développe une méthode rigoureuse, fondée sur l’examen critique des témoignages et la recherche des causes. L’histoire devient analyse rationnelle du passé.",
+          "extrait": "\"Mon œuvre est une acquisition pour toujours, non un concours d’éloquence destiné à l’audition immédiate.\" (La Guerre du Péloponnèse, I, 22)"
+        },
+        {
+          "nom": "Tite-Live",
+          "contribution": "Il compose une histoire monumentale de Rome, mêlant récit exemplaire et réflexion sur la grandeur et la décadence.",
+          "extrait": "\"L’histoire est le témoin des temps, la lumière de la vérité, la vie de la mémoire.\" (Histoire romaine, prologue)"
+        }
+      ],
+      "usages_et_debats": "Débats sur la vérité du récit historique, sur le rôle de l’exemplarité, sur le rapport entre l’histoire et la mémoire collective.",
+      "changements_de_signification": "L’histoire passe de l’enquête individuelle à la construction de récits collectifs ; elle oscille entre explication rationnelle et exemplarité morale.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Mémoire",
+          "explication_lien": "L’histoire vise à conserver le souvenir des actions humaines."
+        },
+        {
+          "notion": "Enquête",
+          "explication_lien": "L’histoire commence comme recherche active des causes et des faits."
+        },
+        {
+          "notion": "Récit",
+          "explication_lien": "Au départ, l’histoire est avant tout un art du récit, une narration organisée."
+        }
+      ]
+    },
+    {
+      "periode": "Moyen Âge",
+      "description_generale": "L’histoire est souvent subordonnée à la théologie et à la chronologie biblique. Elle est perçue comme une succession d’événements sous la conduite de la Providence divine. On distingue cependant chroniques, annales et histoires universelles.",
+      "penseurs_cles": [
+        {
+          "nom": "Saint Augustin",
+          "contribution": "Il propose une vision linéaire de l’histoire, orientée vers le salut et la révélation, opposant la cité de Dieu à la cité terrestre.",
+          "extrait": "\"Deux amours ont fait deux cités : l’amour de soi jusqu’au mépris de Dieu, la cité terrestre ; l’amour de Dieu jusqu’au mépris de soi, la cité de Dieu.\" (La Cité de Dieu, XIV, 28)"
+        },
+        {
+          "nom": "Les chroniqueurs médiévaux",
+          "contribution": "Ils consignent les événements majeurs sous forme de chroniques, souvent pour rendre compte des actions des rois ou des miracles.",
+          "extrait": "\"En l’an de grâce mil cent quarante-trois, il advint qu’un prodige fut vu en la cité…\" (exemple typique de chronique)"
+        }
+      ],
+      "usages_et_debats": "Débats sur la valeur exemplaire de l’histoire, sur la signification des événements, sur le rapport entre histoire humaine et plan divin.",
+      "changements_de_signification": "L’histoire est conçue comme accomplissement d’un dessein providentiel, plus que comme analyse critique des faits.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Providence",
+          "explication_lien": "Les événements historiques sont interprétés comme voulus ou permis par Dieu."
+        },
+        {
+          "notion": "Chronique",
+          "explication_lien": "La chronique relate les faits dans l’ordre, sans toujours chercher leurs causes profondes."
+        },
+        {
+          "notion": "Salvation",
+          "explication_lien": "L’histoire humaine est vue comme chemin vers la rédemption."
+        }
+      ]
+    },
+    {
+      "periode": "Âge classique (XVIIe - XVIIIe siècles)",
+      "description_generale": "L’histoire se sécularise et devient objet de réflexion philosophique. On commence à l’étudier comme enchaînement rationnel de causes et d’effets. L’histoire universelle cherche à dégager des lois du développement humain.",
+      "penseurs_cles": [
+        {
+          "nom": "Voltaire",
+          "contribution": "Il défend une histoire critique, débarrassée des superstitions, centrée sur les mœurs, les idées et le progrès des sociétés.",
+          "extrait": "\"L’histoire n’est que le tableau des crimes et des malheurs.\" (Essai sur les mœurs, I)"
+        },
+        {
+          "nom": "Montesquieu",
+          "contribution": "Il cherche à expliquer les lois qui gouvernent la vie des peuples, reliant l’histoire aux conditions politiques, sociales et géographiques.",
+          "extrait": "\"Les lois doivent être tellement propres au peuple pour lequel elles sont faites...\" (L’Esprit des lois, I, 3)"
+        },
+        {
+          "nom": "Giambattista Vico",
+          "contribution": "Il propose une philosophie de l’histoire fondée sur des cycles, insistant sur la diversité des cultures et sur la dimension créatrice de l’esprit humain.",
+          "extrait": "\"Les hommes font leur histoire, mais ils n’en savent pas la science.\" (Principes d’une science nouvelle, 1744)"
+        }
+      ],
+      "usages_et_debats": "Débats sur la possibilité de lois de l’histoire, sur le progrès, sur le sens du passé et sur la critique des sources.",
+      "changements_de_signification": "L’histoire devient un objet d’étude rationnelle, susceptible de dégager des régularités ou des leçons générales.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Progrès",
+          "explication_lien": "L’histoire est souvent perçue comme marche vers plus de raison ou de liberté."
+        },
+        {
+          "notion": "Critique",
+          "explication_lien": "L’histoire réclame un examen critique des sources et des récits."
+        },
+        {
+          "notion": "Loi de l’histoire",
+          "explication_lien": "Recherche de principes qui expliqueraient le devenir des sociétés."
+        }
+      ]
+    },
+    {
+      "periode": "Époque moderne (XIXe siècle)",
+      "description_generale": "L’histoire devient une discipline scientifique, fondée sur la critique des documents et la recherche des causes. Elle est aussi pensée comme processus global, évolutif, marqué par le progrès, la lutte des classes ou la réalisation de la liberté.",
+      "penseurs_cles": [
+        {
+          "nom": "Leopold von Ranke",
+          "contribution": "Il pose l’histoire comme science rigoureuse, cherchant à raconter les faits 'wie es eigentlich gewesen' (tels qu’ils se sont réellement passés).",
+          "extrait": "\"L’histoire a pour vocation de montrer ce qui s’est réellement passé.\" (Histoire des peuples latins et germains, Introduction)"
+        },
+        {
+          "nom": "Karl Marx",
+          "contribution": "Il interprète l’histoire comme lutte des classes, processus dialectique déterminé par les rapports de production.",
+          "extrait": "\"L’histoire de toute société jusqu’à nos jours n’a été que l’histoire de luttes de classes.\" (Manifeste du parti communiste, I)"
+        },
+        {
+          "nom": "Georg Wilhelm Friedrich Hegel",
+          "contribution": "Il pense l’histoire comme réalisation de la raison et de la liberté, à travers la dialectique des événements.",
+          "extrait": "\"L’histoire universelle est le progrès dans la conscience de la liberté.\" (La Raison dans l’histoire, Introduction)"
+        }
+      ],
+      "usages_et_debats": "Débats sur l’objectivité de l’histoire, sur sa scientificité, sur la place du hasard ou de la nécessité, sur le sens du développement historique.",
+      "changements_de_signification": "L’histoire s’autonomise comme science, mais devient aussi champ de débats sur le sens, la causalité et la finalité de l’évolution humaine.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Science",
+          "explication_lien": "L’histoire cherche à s’établir comme science des faits, fondée sur la critique des sources."
+        },
+        {
+          "notion": "Dialectique",
+          "explication_lien": "Chez Hegel et Marx, l’histoire avance par conflits et dépassements successifs."
+        },
+        {
+          "notion": "Classe sociale",
+          "explication_lien": "Pour Marx, l’histoire est déterminée par la lutte entre groupes sociaux antagonistes."
+        }
+      ]
+    },
+    {
+      "periode": "Époque contemporaine (XXe-XXIe siècles)",
+      "description_generale": "L’histoire se diversifie : histoire sociale, culturelle, des mentalités, micro-histoire, histoire mondiale. Elle est aussi interrogée comme construction, narration, mémoire collective, et objet de débats sur le rapport au passé, à l’oubli et à la mémoire.",
+      "penseurs_cles": [
+        {
+          "nom": "Marc Bloch",
+          "contribution": "Il fonde l’école des Annales, qui élargit l’histoire aux sociétés, aux mentalités et à la longue durée.",
+          "extrait": "\"L’incompréhension du présent naît fatalement de l’ignorance du passé.\" (Apologie pour l’histoire, 1949)"
+        },
+        {
+          "nom": "Michel Foucault",
+          "contribution": "Il pense l’histoire comme analyse des discours et des pouvoirs, insistant sur la discontinuité et la pluralité des récits historiques.",
+          "extrait": "\"L’histoire n’a pas de sens global, elle est faite de ruptures, de discontinuités, de conflits.\" (L’Archéologie du savoir, IV)"
+        },
+        {
+          "nom": "Paul Ricoeur",
+          "contribution": "Il analyse l’histoire comme récit, articulation entre faits et interprétation, mémoire et oubli.",
+          "extrait": "\"L’histoire est toujours une refiguration du passé par le récit.\" (Temps et récit, III)"
+        }
+      ],
+      "usages_et_debats": "Débats sur la mémoire collective, l’histoire des oubliés, la place du récit, la multiplicité des perspectives, la fonction critique de l’histoire face aux usages politiques du passé.",
+      "changements_de_signification": "L’histoire devient plurielle, critique, attentive aux voix multiples, à la narration et au rapport entre mémoire, oubli et identité.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Mémoire",
+          "explication_lien": "L’histoire dialogue avec la mémoire collective, mais s’en distingue par la critique."
+        },
+        {
+          "notion": "Narration",
+          "explication_lien": "L’histoire est désormais pensée aussi comme construction de récit(s)."
+        },
+        {
+          "notion": "Pouvoir",
+          "explication_lien": "L’histoire révèle la dimension politique de la mémoire et du récit du passé."
+        },
+        {
+          "notion": "Micro-histoire",
+          "explication_lien": "Courant qui s’intéresse aux acteurs anonymes, aux événements locaux, contre l’histoire des 'grands hommes'."
+        }
+      ]
+    }
+  ],
+  "etymologie": "Le mot 'histoire' vient du grec 'historia', qui signifiait d’abord enquête, recherche, ou savoir acquis par l’enquête, puis récit des événements. Il passe au latin ('historia') avec le même sens, puis en ancien français comme 'estoire', avant de prendre le sens moderne de récit du passé, puis de science des sociétés humaines dans leur devenir. Aujourd’hui, 'histoire' désigne à la fois la suite des événements passés, la discipline qui les étudie, et le récit qu’on en fait.",
+  "citations": [
+    {
+      "auteur": "Hérodote",
+      "oeuvre": "Histoires",
+      "citation": "\"Hérodote de Halicarnasse expose ici les résultats de son enquête ('historia'), afin que le temps n’abolisse pas les actions des hommes.\"",
+      "commentaire": "Hérodote fonde l’histoire comme enquête destinée à préserver la mémoire humaine."
+    },
+    {
+      "auteur": "Saint Augustin",
+      "oeuvre": "La Cité de Dieu",
+      "citation": "\"Deux amours ont fait deux cités : l’amour de soi jusqu’au mépris de Dieu, la cité terrestre ; l’amour de Dieu jusqu’au mépris de soi, la cité de Dieu.\"",
+      "commentaire": "Augustin donne à l’histoire un sens providentiel, orienté vers la fin ultime."
+    },
+    {
+      "auteur": "Voltaire",
+      "oeuvre": "Essai sur les mœurs",
+      "citation": "\"L’histoire n’est que le tableau des crimes et des malheurs.\"",
+      "commentaire": "Voltaire critique l’histoire comme simple récit des atrocités humaines, appelant à une histoire critique."
+    },
+    {
+      "auteur": "Karl Marx",
+      "oeuvre": "Manifeste du parti communiste",
+      "citation": "\"L’histoire de toute société jusqu’à nos jours n’a été que l’histoire de luttes de classes.\"",
+      "commentaire": "Marx voit dans l’histoire le théâtre du conflit social et du changement."
+    },
+    {
+      "auteur": "Marc Bloch",
+      "oeuvre": "Apologie pour l’histoire",
+      "citation": "\"L’incompréhension du présent naît fatalement de l’ignorance du passé.\"",
+      "commentaire": "Bloch insiste sur la fonction explicative de l’histoire pour comprendre le monde actuel."
+    },
+    {
+      "auteur": "Michel Foucault",
+      "oeuvre": "L’Archéologie du savoir",
+      "citation": "\"L’histoire n’a pas de sens global, elle est faite de ruptures, de discontinuités, de conflits.\"",
+      "commentaire": "Foucault fait de l’histoire un champ de luttes et de ruptures, non un progrès linéaire."
+    }
+  ]
+}

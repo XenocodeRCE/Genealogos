@@ -1,0 +1,212 @@
+{
+  "periodes": [
+    {
+      "periode": "Antiquité",
+      "description_generale": "Le mot 'devoir' n’existe pas encore, mais les penseurs réfléchissent à l’obligation morale, au respect des lois, des coutumes et de la justice. On parle de ce que l’homme 'doit' faire en tant que citoyen ou homme vertueux, mais la notion se rattache alors à la justice, à la vertu ou au respect des normes sociales et divines.",
+      "penseurs_cles": [
+        {
+          "nom": "Socrate",
+          "contribution": "Il insiste sur l’importance d’agir conformément à la justice, même contre l’opinion ou la pression sociale. Il pense qu’il faut toujours faire ce qui est juste, quelles qu’en soient les conséquences.",
+          "extrait": "\"Il vaut mieux subir l’injustice que la commettre.\" (Gorgias, 469b)"
+        },
+        {
+          "nom": "Platon",
+          "contribution": "Il relie le devoir à la fonction sociale et à la justice : chacun doit accomplir sa tâche propre pour l’harmonie de la cité.",
+          "extrait": "\"La justice consiste à accomplir sa propre tâche.\" (La République, IV, 433a)"
+        },
+        {
+          "nom": "Cicéron",
+          "contribution": "Il introduit la notion de 'officium', traduit plus tard par 'devoir', qui désigne ce qui est moralement approprié et attendu de chacun selon sa place.",
+          "extrait": "\"Il faut accomplir son devoir, non pour la crainte, mais pour l’honneur.\" (Des Devoirs, I, 13)"
+        }
+      ],
+      "usages_et_debats": "Débats sur ce que l’on doit aux dieux, à la cité, à autrui ; sur l’opposition entre intérêt personnel et justice ; sur l’origine des obligations morales.",
+      "changements_de_signification": "Le devoir est pensé comme fidélité à l’ordre social, à la justice, à la fonction ou à la vertu, mais pas encore comme notion abstraite ou universelle.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Justice",
+          "explication_lien": "Le devoir est lié au respect de la justice et de l’ordre social."
+        },
+        {
+          "notion": "Vertu",
+          "explication_lien": "Remplir son devoir, c’est agir conformément à la vertu."
+        },
+        {
+          "notion": "Officium",
+          "explication_lien": "Chez Cicéron, l’officium est l’ancêtre direct de la notion de devoir."
+        }
+      ]
+    },
+    {
+      "periode": "Moyen Âge",
+      "description_generale": "La notion de devoir se rapproche de l’obéissance à la loi divine et à la morale chrétienne. Le devoir est d’abord religieux : il s’agit d’accomplir la volonté de Dieu, d’aimer son prochain, d’obéir aux commandements. L’accent est mis sur la conscience, la vocation et l’obligation morale inscrite dans la nature humaine.",
+      "penseurs_cles": [
+        {
+          "nom": "Saint Augustin",
+          "contribution": "Il fait du devoir un acte d’amour et d’obéissance à Dieu, insistant sur la nécessité d’accomplir le bien même contre ses propres désirs.",
+          "extrait": "\"Aime, et fais ce que tu veux.\" (Homélies sur la Première Épître de Jean, VII, 8)"
+        },
+        {
+          "nom": "Thomas d’Aquin",
+          "contribution": "Il articule le devoir avec la loi naturelle : il y a des obligations morales inscrites dans la raison, qu’il faut accomplir pour réaliser le bien.",
+          "extrait": "\"La loi naturelle commande ce qu’il faut faire et interdit ce qu’il faut éviter.\" (Somme théologique, I-II, q.94, a.2)"
+        }
+      ],
+      "usages_et_debats": "Débats sur la priorité du devoir envers Dieu ou envers les hommes ; sur la possibilité de choisir entre plusieurs devoirs ; sur la relation entre devoir et volonté propre.",
+      "changements_de_signification": "Le devoir prend une dimension religieuse et universelle, lié à la volonté divine et à la loi morale naturelle.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Loi divine",
+          "explication_lien": "Le devoir découle de l’obéissance à la volonté de Dieu."
+        },
+        {
+          "notion": "Loi naturelle",
+          "explication_lien": "Le devoir moral est inscrit dans la raison humaine selon Thomas d’Aquin."
+        },
+        {
+          "notion": "Conscience",
+          "explication_lien": "La conscience juge si l’on accomplit son devoir ou non."
+        }
+      ]
+    },
+    {
+      "periode": "Âge classique (XVIIe - XVIIIe siècles)",
+      "description_generale": "Le devoir devient une notion centrale de la morale philosophique, pensée comme loi rationnelle, universelle, indépendante de la religion ou de l’intérêt personnel. On cherche à fonder le devoir sur la raison, l’autonomie et la dignité humaine.",
+      "penseurs_cles": [
+        {
+          "nom": "Immanuel Kant",
+          "contribution": "Il fait du devoir le concept fondamental de la morale : il faut agir par devoir, non par inclination ou intérêt, en obéissant à la loi morale universelle que l’on se donne à soi-même.",
+          "extrait": "\"Agis uniquement d’après la maxime qui fait que tu puisses vouloir en même temps qu’elle devienne une loi universelle.\" (Fondements de la métaphysique des mœurs, I)"
+        },
+        {
+          "nom": "Jean-Jacques Rousseau",
+          "contribution": "Il articule le devoir avec l’autonomie et la liberté : obéir à la loi que l’on s’est prescrite à soi-même, c’est accomplir son devoir et être libre.",
+          "extrait": "\"L’obéissance à la loi qu’on s’est prescrite est liberté.\" (Du Contrat social, I, 8)"
+        },
+        {
+          "nom": "Benjamin Constant",
+          "contribution": "Il souligne la nécessité de concilier devoirs moraux et droits individuels, et s’interroge sur les conflits de devoirs.",
+          "extrait": "\"Le devoir cesse là où le droit commence.\" (De la liberté des Anciens comparée à celle des Modernes, 1819)"
+        }
+      ],
+      "usages_et_debats": "Débats sur le fondement du devoir (raison ou sentiment ?), sur la possibilité de conflits de devoirs, sur la distinction entre devoir et bonheur.",
+      "changements_de_signification": "Le devoir devient universel, rationnel, fondement de la moralité, distinct de l’intérêt et du sentiment.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Autonomie",
+          "explication_lien": "Le devoir moral est celui que le sujet se donne à lui-même par raison."
+        },
+        {
+          "notion": "Loi morale",
+          "explication_lien": "Le devoir consiste à suivre la loi morale universelle."
+        },
+        {
+          "notion": "Dignité",
+          "explication_lien": "Accomplir son devoir, c’est respecter la dignité humaine."
+        }
+      ]
+    },
+    {
+      "periode": "Époque moderne (XIXe siècle)",
+      "description_generale": "Le devoir est questionné dans ses fondements sociaux, historiques et psychologiques. On s’interroge sur l’origine des obligations morales, sur le poids du devoir dans la société, sur la possibilité de le remettre en cause au nom de la liberté, de la vie ou de la création.",
+      "penseurs_cles": [
+        {
+          "nom": "Friedrich Nietzsche",
+          "contribution": "Il critique la morale du devoir comme expression du ressentiment et de la soumission ; il valorise la création de valeurs nouvelles au-delà de l’obligation.",
+          "extrait": "\"Ce que l’on fait par devoir, on le fait sans amour.\" (Aurore, §136)"
+        },
+        {
+          "nom": "Émile Durkheim",
+          "contribution": "Il analyse le devoir comme fait social, norme imposée par la société pour assurer la cohésion et l’ordre.",
+          "extrait": "\"Le devoir moral est l’expression de la société en nous.\" (L’Éducation morale, 1902)"
+        }
+      ],
+      "usages_et_debats": "Débats sur la valeur du devoir face à la créativité, à la vie, à la liberté individuelle ; sur le caractère socialement construit ou universel du devoir.",
+      "changements_de_signification": "Le devoir est historicisé, relativisé, mis en balance avec l’autonomie et l’expression de soi.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Valeurs",
+          "explication_lien": "Le devoir repose sur un système de valeurs, qui peut évoluer."
+        },
+        {
+          "notion": "Norme sociale",
+          "explication_lien": "Le devoir est vu comme produit de la société, selon Durkheim."
+        },
+        {
+          "notion": "Transvaluation",
+          "explication_lien": "Nietzsche appelle à dépasser la morale du devoir pour créer de nouvelles valeurs."
+        }
+      ]
+    },
+    {
+      "periode": "Époque contemporaine (XXe-XXIe siècles)",
+      "description_generale": "La notion de devoir s’élargit et se pluralise : devoirs envers autrui, envers la société, envers l’environnement, devoir de mémoire, etc. On s’interroge sur la conciliation entre devoir et droits, sur les conflits de devoirs, sur la place du devoir dans des sociétés pluralistes et individualistes.",
+      "penseurs_cles": [
+        {
+          "nom": "Emmanuel Lévinas",
+          "contribution": "Il fonde le devoir éthique sur la responsabilité infinie envers autrui, qui précède toute loi ou tout contrat.",
+          "extrait": "\"La responsabilité pour autrui est l’essence de la subjectivité.\" (Totalité et infini, 1961)"
+        },
+        {
+          "nom": "Hans Jonas",
+          "contribution": "Il formule un nouveau devoir moral : la responsabilité envers l’avenir de l’humanité et de la nature, face aux risques technologiques.",
+          "extrait": "\"Agis de façon que les effets de ton action soient compatibles avec la permanence d’une vie authentiquement humaine sur terre.\" (Le Principe responsabilité, 1979)"
+        },
+        {
+          "nom": "Paul Ricœur",
+          "contribution": "Il réfléchit au devoir de mémoire et à la complexité des obligations dans les sociétés contemporaines.",
+          "extrait": "\"Le devoir de mémoire est un devoir de justice.\" (La Mémoire, l’histoire, l’oubli, 2000)"
+        }
+      ],
+      "usages_et_debats": "Débats sur les nouveaux devoirs (écologiques, mémoriels, globaux), sur la tension entre devoirs individuels et collectifs, sur la possibilité et la nécessité d’un devoir universel.",
+      "changements_de_signification": "Le devoir devient pluriel, évolutif, orienté vers l’autre, l’avenir, la planète ; il n’est plus seulement loi abstraite, mais engagement concret.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Responsabilité",
+          "explication_lien": "Le devoir contemporain est souvent pensé comme responsabilité envers autrui ou le monde."
+        },
+        {
+          "notion": "Justice",
+          "explication_lien": "Le devoir s’articule à l’exigence de justice, notamment pour la mémoire et l’environnement."
+        },
+        {
+          "notion": "Éthique appliquée",
+          "explication_lien": "Les nouveaux devoirs émergent dans le champ de la bioéthique, de l’écologie, etc."
+        }
+      ]
+    }
+  ],
+  "etymologie": "Le mot 'devoir' vient du latin 'debere', signifiant 'être redevable', 'avoir une obligation envers quelqu’un'. Au Moyen Âge, 'devoir' désigne la fidélité, la loyauté, l’obligation morale envers un seigneur ou un supérieur. À partir du XVIIe siècle, le devoir prend un sens plus abstrait et universel, désignant l’obligation morale rationnelle ou universelle que chacun se doit à soi-même et aux autres. Aujourd’hui, il s’emploie aussi bien pour les obligations civiques, éthiques, juridiques que pour les nouveaux devoirs (écologiques, mémoriels, etc.).",
+  "citations": [
+    {
+      "auteur": "Cicéron",
+      "oeuvre": "Des Devoirs",
+      "citation": "\"Il faut accomplir son devoir, non pour la crainte, mais pour l’honneur.\"",
+      "commentaire": "Cicéron pose les bases de la notion de devoir comme exigence morale et sociale."
+    },
+    {
+      "auteur": "Immanuel Kant",
+      "oeuvre": "Fondements de la métaphysique des mœurs",
+      "citation": "\"Agis uniquement d’après la maxime qui fait que tu puisses vouloir en même temps qu’elle devienne une loi universelle.\"",
+      "commentaire": "Kant fait du devoir sans condition le cœur de la morale."
+    },
+    {
+      "auteur": "Friedrich Nietzsche",
+      "oeuvre": "Aurore",
+      "citation": "\"Ce que l’on fait par devoir, on le fait sans amour.\"",
+      "commentaire": "Nietzsche critique la morale du devoir au profit d’une morale de la création et de l’élan vital."
+    },
+    {
+      "auteur": "Emmanuel Lévinas",
+      "oeuvre": "Totalité et infini",
+      "citation": "\"La responsabilité pour autrui est l’essence de la subjectivité.\"",
+      "commentaire": "Lévinas déplace le devoir vers la responsabilité éthique, inconditionnelle, envers autrui."
+    },
+    {
+      "auteur": "Hans Jonas",
+      "oeuvre": "Le Principe responsabilité",
+      "citation": "\"Agis de façon que les effets de ton action soient compatibles avec la permanence d’une vie authentiquement humaine sur terre.\"",
+      "commentaire": "Jonas élargit le devoir moral à la responsabilité envers les générations futures et la planète."
+    }
+  ]
+}

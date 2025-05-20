@@ -1,0 +1,221 @@
+{
+  "periodes": [
+    {
+      "periode": "Antiquité",
+      "description_generale": "Le mot 'droit' n’existe pas encore sous sa forme moderne, mais les civilisations grecque et romaine élaborent des règles, des lois et des coutumes qui organisent la vie collective. Chez les Grecs, c’est la 'dikè' (justice, ordre), et chez les Romains, le 'jus', ensemble de lois et de principes qui régissent les rapports entre citoyens. Le droit est surtout un ordre social, lié à la coutume, à la justice et à la loi écrite.",
+      "penseurs_cles": [
+        {
+          "nom": "Platon",
+          "contribution": "Il réfléchit à la justice ('dikè') et à la législation comme fondements de la cité idéale. Les lois doivent viser le bien commun et l’harmonie de la communauté.",
+          "extrait": "\"La loi doit être l’expression de la raison, ordonnée au bien de la cité.\" (Les Lois, IV, 715b)"
+        },
+        {
+          "nom": "Aristote",
+          "contribution": "Il distingue la justice naturelle (valable partout) de la justice légale (propre à chaque cité) et réfléchit à l’équité dans l’application des lois.",
+          "extrait": "\"Le juste est ce qui est conforme à la loi, et le droit naturel ce qui est partout le même.\" (Éthique à Nicomaque, V, 7, 1134b)"
+        },
+        {
+          "nom": "Cicéron",
+          "contribution": "Il élabore l’idée de 'droit naturel', supérieur aux lois humaines, fondé sur la raison universelle.",
+          "extrait": "\"Il existe une loi vraie, la droite raison conforme à la nature, universelle et immuable.\" (Des lois, I, 6)"
+        }
+      ],
+      "usages_et_debats": "Débats sur la juste loi, sur le conflit entre droit coutumier et droit écrit, sur la possibilité d’un droit universel.",
+      "changements_de_signification": "Le droit est d’abord un ordre social, fondé sur la coutume, la justice et la loi, mais la notion de droit naturel fait son apparition.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Justice",
+          "explication_lien": "Le droit vise à réaliser la justice dans la cité."
+        },
+        {
+          "notion": "Loi",
+          "explication_lien": "Le droit prend la forme de lois qui organisent la vie collective."
+        },
+        {
+          "notion": "Droit naturel",
+          "explication_lien": "Idée d’un droit fondé sur la nature humaine, au-delà des lois positives."
+        }
+      ]
+    },
+    {
+      "periode": "Moyen Âge",
+      "description_generale": "Le droit est pensé dans le cadre religieux et féodal. On distingue le droit divin, le droit canonique (de l’Église), et le droit coutumier ou féodal. L’idée de loi naturelle subsiste, mais le droit est souvent perçu comme expression de la volonté de Dieu ou de l’ordre social hiérarchisé.",
+      "penseurs_cles": [
+        {
+          "nom": "Saint Augustin",
+          "contribution": "Il distingue la loi humaine, qui peut être injuste, de la loi éternelle et divine, à laquelle on doit toujours obéir.",
+          "extrait": "\"Une loi injuste n’est pas une loi.\" (La Cité de Dieu, XIX, 21)"
+        },
+        {
+          "nom": "Thomas d’Aquin",
+          "contribution": "Il systématise la théorie du droit naturel : la loi humaine doit être conforme à la loi naturelle, qui procède de la raison et de la volonté divine.",
+          "extrait": "\"La loi humaine n’a de valeur que dans la mesure où elle dérive de la loi naturelle.\" (Somme théologique, I-II, q.95, a.2)"
+        }
+      ],
+      "usages_et_debats": "Débats sur la hiérarchie des droits (divin, naturel, humain), sur la légitimité des lois humaines, sur la justice des ordres sociaux.",
+      "changements_de_signification": "Le droit devient un ordre complexe, à la fois humain et divin, où l’obéissance à la loi est subordonnée à la justice supérieure.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Loi divine",
+          "explication_lien": "Le droit humain doit être conforme à la loi de Dieu."
+        },
+        {
+          "notion": "Droit canonique",
+          "explication_lien": "Ensemble des règles juridiques propres à l’Église."
+        },
+        {
+          "notion": "Hiérarchie",
+          "explication_lien": "Le droit reflète l’ordre social et religieux de l’époque."
+        }
+      ]
+    },
+    {
+      "periode": "Âge classique (XVIIe - XVIIIe siècles)",
+      "description_generale": "Le droit se laïcise et s’universalise : on affirme l’existence de droits naturels, inhérents à toute personne, indépendants des lois positives. Les philosophes du contrat social (Hobbes, Locke, Rousseau) fondent la légitimité des lois sur la volonté générale et le respect des droits fondamentaux.",
+      "penseurs_cles": [
+        {
+          "nom": "John Locke",
+          "contribution": "Il défend l’idée de droits naturels (vie, liberté, propriété) que la société doit garantir. Le pouvoir politique est légitime s’il respecte ces droits.",
+          "extrait": "\"Les hommes sont nés libres et égaux, possédant par nature la vie, la liberté et la propriété.\" (Second traité du gouvernement civil, II, 6)"
+        },
+        {
+          "nom": "Jean-Jacques Rousseau",
+          "contribution": "Il fonde le droit sur la volonté générale : la loi est l’expression de la volonté de tous, et garantit l’égalité et la liberté.",
+          "extrait": "\"La liberté consiste à n’obéir qu’à la loi que l’on s’est prescrite à soi-même.\" (Du Contrat social, I, 8)"
+        },
+        {
+          "nom": "Montesquieu",
+          "contribution": "Il analyse la séparation des pouvoirs, condition d’un droit juste et d’une société libre.",
+          "extrait": "\"Il n’y a point encore de liberté si la puissance de juger n’est pas séparée de la puissance législative et de l’exécutrice.\" (De l’Esprit des lois, XI, 6)"
+        }
+      ],
+      "usages_et_debats": "Débats sur la source du droit (nature, contrat, coutume), sur les droits de l’homme, sur la légitimité des lois et du pouvoir.",
+      "changements_de_signification": "Le droit n’est plus seulement un ordre mais aussi un ensemble de droits subjectifs, inaliénables, universels.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Contrat social",
+          "explication_lien": "Le droit se fonde sur l’accord des individus libres."
+        },
+        {
+          "notion": "Droits naturels",
+          "explication_lien": "Droits inaliénables, antérieurs à toute loi positive."
+        },
+        {
+          "notion": "Séparation des pouvoirs",
+          "explication_lien": "Principe garant d’un droit juste et non arbitraire."
+        }
+      ]
+    },
+    {
+      "periode": "Époque moderne (XIXe siècle)",
+      "description_generale": "Le droit s’institutionnalise comme discipline autonome (science juridique), codifie les lois (Code civil, Code pénal), et s’étend à de nouveaux domaines (droit du travail, droit social, droits politiques). On débat sur la place du droit positif (loi effective) face au droit naturel et sur la fonction sociale du droit.",
+      "penseurs_cles": [
+        {
+          "nom": "Georg Wilhelm Friedrich Hegel",
+          "contribution": "Il voit le droit comme réalisation de la liberté dans l’histoire, passant du droit abstrait au droit moral puis à l’éthique concrète.",
+          "extrait": "\"Le droit est la réalité de la liberté.\" (Principes de la philosophie du droit, §29)"
+        },
+        {
+          "nom": "Rudolf von Jhering",
+          "contribution": "Il conçoit le droit comme résultat d’un combat pour la reconnaissance des intérêts sociaux.",
+          "extrait": "\"Le droit n’est pas une idée, mais une force vivante.\" (L’Objet du droit et la lutte pour le droit, 1872)"
+        },
+        {
+          "nom": "Léon Duguit",
+          "contribution": "Il insiste sur la fonction sociale du droit : le droit doit garantir la solidarité et l’ordre social.",
+          "extrait": "\"Le droit n’existe que par sa fonction sociale.\" (Le Droit social, le droit individuel et la transformation de l’État, 1911)"
+        }
+      ],
+      "usages_et_debats": "Débats sur le positivisme juridique, la codification, la justice sociale, la tension entre individu et société.",
+      "changements_de_signification": "Le droit devient science, institution, et outil de transformation sociale, mais la question de sa légitimité reste ouverte.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Droit positif",
+          "explication_lien": "Le droit effectif, écrit et appliqué par les institutions."
+        },
+        {
+          "notion": "Fonction sociale",
+          "explication_lien": "Le droit organise la société et garantit la solidarité."
+        },
+        {
+          "notion": "Liberté",
+          "explication_lien": "Le droit est pensé comme condition et réalisation de la liberté."
+        }
+      ]
+    },
+    {
+      "periode": "Époque contemporaine (XXe-XXIe siècles)",
+      "description_generale": "Le droit se mondialise, se complexifie, s’ouvre à de nouveaux champs (droit international, droits humains, bioéthique, droit de l’environnement). On interroge l’universalité des droits, la justice des lois, la protection des minorités, et la tension entre droit et pouvoir. Les droits subjectifs (droit à l’identité, à la vie privée, à l’environnement) se multiplient.",
+      "penseurs_cles": [
+        {
+          "nom": "Hans Kelsen",
+          "contribution": "Il fonde le positivisme juridique : le droit est un système de normes hiérarchisées, indépendantes de la morale ou de la politique.",
+          "extrait": "\"Le droit est un ordre normatif, non un ordre de valeurs.\" (Théorie pure du droit, 1934)"
+        },
+        {
+          "nom": "Hannah Arendt",
+          "contribution": "Elle réfléchit à la fragilité des droits de l’homme et à leur rapport à l’appartenance à une communauté politique.",
+          "extrait": "\"Le droit d’avoir des droits.\" (Les Origines du totalitarisme, 1951)"
+        },
+        {
+          "nom": "John Rawls",
+          "contribution": "Il développe la notion de justice comme équité, fondement de droits justes et universels dans une société pluraliste.",
+          "extrait": "\"Chaque personne a un droit égal au système le plus étendu de libertés fondamentales.\" (Théorie de la justice, 1971)"
+        }
+      ],
+      "usages_et_debats": "Débats sur les droits fondamentaux, la justice des lois, la protection des minorités, la tension entre droit international et souveraineté, le rapport entre droit et éthique.",
+      "changements_de_signification": "Le droit se pluralise, devient enjeu mondial, support de nouvelles revendications et sujet à la critique citoyenne et morale.",
+      "liens_avec_autres_notions": [
+        {
+          "notion": "Droits de l’homme",
+          "explication_lien": "Reconnaissance universelle de droits fondamentaux à chaque individu."
+        },
+        {
+          "notion": "Justice",
+          "explication_lien": "La question de la justice des lois reste centrale dans l’évaluation du droit."
+        },
+        {
+          "notion": "Bioéthique",
+          "explication_lien": "Le droit s’étend aux questions de vie, de mort, de santé et de dignité humaine."
+        },
+        {
+          "notion": "Minorité",
+          "explication_lien": "Les droits des groupes minoritaires deviennent un enjeu majeur contemporain."
+        }
+      ]
+    }
+  ],
+  "etymologie": "Le mot 'droit' vient du latin 'directum', signifiant ce qui est droit, conforme à une règle, à la justice. En latin, 'jus' désigne à la fois la loi, le droit et la justice. Au Moyen Âge, le terme 'droit' désigne d’abord la coutume, puis l’ensemble des lois et des principes régissant une société. À l’époque moderne, le mot prend le sens de prérogative individuelle (avoir des droits) et de discipline autonome (science du droit). Aujourd’hui, il recouvre à la fois l’ensemble des règles (droit objectif) et les prérogatives individuelles (droit subjectif).",
+  "citations": [
+    {
+      "auteur": "Cicéron",
+      "oeuvre": "Des lois",
+      "citation": "\"Il existe une loi vraie, la droite raison conforme à la nature, universelle et immuable.\"",
+      "commentaire": "Cicéron pose les bases du droit naturel, supérieur aux lois humaines."
+    },
+    {
+      "auteur": "Saint Augustin",
+      "oeuvre": "La Cité de Dieu",
+      "citation": "\"Une loi injuste n’est pas une loi.\"",
+      "commentaire": "Augustin affirme la primauté de la justice sur la légalité."
+    },
+    {
+      "auteur": "John Locke",
+      "oeuvre": "Second traité du gouvernement civil",
+      "citation": "\"Les hommes sont nés libres et égaux, possédant par nature la vie, la liberté et la propriété.\"",
+      "commentaire": "Locke fonde le droit sur la nature humaine et la liberté individuelle."
+    },
+    {
+      "auteur": "Hannah Arendt",
+      "oeuvre": "Les Origines du totalitarisme",
+      "citation": "\"Le droit d’avoir des droits.\"",
+      "commentaire": "Arendt met en lumière la condition fondamentale pour l’exercice effectif de tout autre droit."
+    },
+    {
+      "auteur": "John Rawls",
+      "oeuvre": "Théorie de la justice",
+      "citation": "\"Chaque personne a un droit égal au système le plus étendu de libertés fondamentales.\"",
+      "commentaire": "Rawls fait du droit égal à la liberté un principe de justice fondamentale."
+    }
+  ]
+}
