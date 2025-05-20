@@ -32,3 +32,6 @@ Toutes les contributions sont les bienvenues !
 1. Forkez ce dépôt
 2. Ajoutez ou modifiez une fiche dans le dossier approprié (ex : `/entries/justice.md`)
 3. Soumettez une pull request
+
+## 🤖 Robot générateur
+https://poe.com/s/60vJ4qxh7076GxcYcOa1
